@@ -11,7 +11,7 @@ Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Pow
 
 ## Syllabus
 
-### Excel Basics	
+### Module 1: Excel Basics	
 
  #### Objective 
 "To provide participants with a
