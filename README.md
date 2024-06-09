@@ -33,7 +33,7 @@ ensuring a strong foundation for further learning.
 
 
 **Date:** 13th June 2024, Thursday, 
-3.00PM - 4.50PM EAT"
+3.00PM - 4.50PM EAT
 
 ### Module 2: Advanced Excel 
 
@@ -113,7 +113,7 @@ them with the skills to
 
 
 **Date:** 11th July 2024, Thursday
- 3.00PM - 4.50PM EAT"
+ 3.00PM - 4.50PM EAT
 
 
  
