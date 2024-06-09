@@ -35,5 +35,7 @@ ensuring a strong foundation for further learning."	"
 **Date:** 13th June 2024, Thursday, 
 3.00PM - 4.50PM EAT"
 
-
+<div align="center">
+  <h1 style="color: blue;">Project Title</h1>
+</div>
 
