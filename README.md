@@ -3,6 +3,9 @@ Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Pow
 
 [**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8)
 
+
+<a href="https://your-signup-link.com" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">SIGN UP HERE</a>
+
 ## Syllabus
 
 
