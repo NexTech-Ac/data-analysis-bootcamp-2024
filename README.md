@@ -3,8 +3,8 @@ Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Pow
 
 
 
-                        | [**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8) |
-                       |----------------------------------------------------------|
+| [**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8) |
+|----------------------------------------------------------|
 
 ## Syllabus
 
