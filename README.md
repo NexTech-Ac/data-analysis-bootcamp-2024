@@ -140,7 +140,7 @@ including DAX functions and custom visuals,
 **Date:** 18th July 2024, Thursday, 
  3.00PM - 4.50PM EAT
 
-### Project
+### [Project](project/)
 
  This project will demonstrate your ability
  to apply the skills learned throughout
