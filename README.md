@@ -32,7 +32,7 @@ ensuring a strong foundation for further learning."	"
 9. Practical Applications and Case Studies"	
 
 
-**Date:** 13th June 2024, Thursday
+**Date:** 13th June 2024, Thursday, 
 3.00PM - 4.50PM EAT"
 
 
