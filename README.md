@@ -12,7 +12,7 @@ Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Pow
 
 ## Syllabus
 
-### [Module 1: Excel Basics](01-excel-basics/)]
+### [Module 1: Excel Basics](01-excel-basics/)
 
  #### Objectives 
 To provide participants with a
@@ -36,7 +36,7 @@ ensuring a strong foundation for further learning.
 **Date:** 13th June 2024, Thursday, 
 3.00PM - 4.50PM EAT
 
-### [Module 2: Advanced Excel(02-advanced-excel/)]
+### [Module 2: Advanced Excel](02-advanced-excel/)
 
 #### Objectives
 To master advanced Excel functionalities
@@ -54,7 +54,7 @@ and visualize data effectively.
 **Date:** 20th June 2024, Thursday, 
  3.00PM - 4.50PM EAT
 
-### [Module 3: SQL Basics](03-sql-basics/)]
+### [Module 3: SQL Basics](03-sql-basics/)
 
 #### Objectives
 
@@ -75,7 +75,7 @@ analyze data efficiently.
 
 
  
-### [Module 4: Advanced SQL(04-advanced-sql/)]
+### [Module 4: Advanced SQL](04-advanced-sql/)
 
 #### Objectives
 
@@ -95,7 +95,7 @@ window functions, and common table expressions (CTEs).
 **Date:** 4th July 2024, Thursdays, 
  3.00PM - 4.50PM EAT
  
-### [Module 5: Introduction to PowerBI(05-powerbi-basics/)]
+### [Module 5: Introduction to PowerBI](05-powerbi-basics/)
 
 #### Objectives
 
@@ -118,7 +118,7 @@ them with the skills to
 
 
  
-### [Module 6: Advanced PowerBI and Integration	(06-advanced-powerbi/)
+### [Module 6: Advanced PowerBI and Integration](06-advanced-powerbi/)
 
 #### Objectives
 
