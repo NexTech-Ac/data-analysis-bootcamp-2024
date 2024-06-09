@@ -1,5 +1,5 @@
 # Data Analysis Bootcamp 2024
-Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Power BI
+Course Materials for NexTech Academy's Data  Analysis with Excel, SQL and Power BI
 
 
 <p align="center">
