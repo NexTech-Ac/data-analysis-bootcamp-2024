@@ -29,10 +29,11 @@ ensuring a strong foundation for further learning."	"
 6. Introduction to Functions
 7. Basic Text Functions
 8. Basic Date and Time Functions
-9. Practical Applications and Case Studies"	"Thursday,
+9. Practical Applications and Case Studies"	
 
 
-**Date:** 13th June 2024
+**Date:** 13th June 2024, Thursday
 3.00PM - 4.50PM EAT"
+
 
 
