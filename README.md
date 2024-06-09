@@ -1,11 +1,10 @@
 # data-analysis-bootcamp-2024
 Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Power BI
 
-[**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8)
 
 
-| [**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8) |
-|----------------------------------------------------------|
+                        | [**SIGN UP HERE**](https://forms.gle/eZDj4UpESg8sCnEF8) |
+                       |----------------------------------------------------------|
 
 ## Syllabus
 
