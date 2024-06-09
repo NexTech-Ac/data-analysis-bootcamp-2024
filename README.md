@@ -10,6 +10,7 @@ Course Materials for NexTech Academy's Data  Analysis in with Excel, SQL and Pow
 ## Info Session Video and Materials
     
 * [Watch the Info Session Here](https://youtu.be/A7YU-LnN2fo?si=8MQGvSWKwSsjgGpT)
+* [Presentation Slides](https://docs.google.com/presentation/d/1O6JHAEmOkqLAl0smbCOlpOWHG6ThqXw4/edit?usp=drive_link&ouid=102756023978749983318&rtpof=true&sd=true)
 
 
 ## Syllabus
