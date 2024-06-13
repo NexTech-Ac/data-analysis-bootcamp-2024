@@ -11,6 +11,7 @@ Course Materials for NexTech Academy's Data  Analysis with Excel, SQL and Power 
     
 * [Watch the Info Session Here](https://youtu.be/A7YU-LnN2fo?si=8MQGvSWKwSsjgGpT)
 * [Presentation Slides](https://docs.google.com/presentation/d/1O6JHAEmOkqLAl0smbCOlpOWHG6ThqXw4/edit?usp=drive_link&ouid=102756023978749983318&rtpof=true&sd=true)
+* [Excel Beginner's Guide](https://drive.google.com/file/d/1bL_fgucupVUxEpI89YTP2gMqqd3eFCaq/view?usp=sharing)
 
 
 ## Syllabus
