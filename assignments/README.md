@@ -1,14 +1,13 @@
-# Assignment Instructions
+# Assignment One Instructions
 
-: 
 ### [Download the dataset](advanced_excel_assignment_data.xlsx)
 
-**Submission Requirements:**
+## Submission Requirements
 - **Excel File:** Submit the cleaned and processed Excel file with all your transformations, feature engineering, and visualizations.
 - **Report:** A written report summarizing your analysis, findings, and recommendations.
 - **File Upload Instructions:** Upload your Excel file and report to a cloud storage service (e.g., Google Drive, Dropbox) and provide the shared links in the assessment Google Form provided.
 
-**Deadline:**
+## Deadline
 Submit your Excel file and report by 26th June 2024 at Midnight.
 
 ## Objective
