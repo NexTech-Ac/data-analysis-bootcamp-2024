@@ -2,4 +2,4 @@
 [Join Live Session](https://youtube.com/live/-YfOvgBOngc?feature=share)
 
 
-### [Module Assignment](data-analysis-bootcamp-2024/assignments/assignment1)
+### [Module Assignment](https://github.com/NexTech-Ac/data-analysis-bootcamp-2024/tree/main/assignments/assignment1)
