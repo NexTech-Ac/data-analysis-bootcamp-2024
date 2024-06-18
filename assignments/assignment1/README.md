@@ -10,6 +10,9 @@
 ## Deadline
 Submit your Excel file and report by 26th June 2024 at Midnight.
 
+[Submit Your Assignment](https://forms.gle/88dwnsGUEpxSi7My6)
+
+
 ## Objective
 The objective of this assignment is to analyze the supermarket sales dataset to derive actionable insights related to consumer behavior, sales performance per supermarket chain, category, and location, peak selling hours and days, product placement, and targeted promotions.
 
