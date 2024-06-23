@@ -1,5 +1,5 @@
 
-[Join Live Session](https://youtube.com/live/-YfOvgBOngc?feature=share)
+[Watch Recorded Session](https://youtube.com/live/-YfOvgBOngc?feature=share)
 
 The dataset used for this session is the practice_data.xlsx file above. Download it ahead of the class
 
