@@ -2,6 +2,7 @@
 Course Materials for NexTech Academy's Data  Analysis with Excel, SQL and Power BI
 
 
+
 <p align="center">
   <a href="https://forms.gle/eZDj4UpESg8sCnEF8"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
@@ -41,6 +42,9 @@ ensuring a strong foundation for further learning.
 3.00PM - 4.50PM EAT
 
 ### [Module 2: Advanced Excel](02-advanced-excel/)
+
+* [Watch the Recorded Session Here](https://www.youtube.com/live/-YfOvgBOngc?si=rXbWHR7e7eCGxsrK
+)
 
 #### Objectives
 To master advanced Excel functionalities
