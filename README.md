@@ -18,6 +18,7 @@ Course Materials for NexTech Academy's Data  Analysis with Excel, SQL and Power 
 ## Syllabus
 
 ### [Module 1: Excel Basics](01-excel-basics/)
+* [Watch the Recorded Session Here](https://www.youtube.com/live/_6CLAKLXFbI?si=YD1YUoq4beUZW9cI)
 
  #### Objectives 
 To provide participants with a
