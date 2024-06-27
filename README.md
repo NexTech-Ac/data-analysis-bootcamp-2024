@@ -65,6 +65,11 @@ and visualize data effectively.
 
 ### [Module 3: SQL Basics](03-sql-basics/)
 
+We will be using MySQL database for the demos:
+
+* [Find a step by step installation guide here](https://www.linkedin.com/feed/update/urn:li:activity:7212107969621090304
+)
+
 #### Objectives
 
 To equip participants with a solid foundation
