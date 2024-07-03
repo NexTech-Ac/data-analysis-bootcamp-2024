@@ -1,0 +1,1001 @@
+player_id,name,last_season,current_club_id,country_of_birth,city_of_birth,country_of_citizenship,date_of_birth,sub_position,position,foot,height_in_cm,highest_market_value_in_eur,agent_name,current_club_domestic_competition_id,current_club_name
+10,Miroslav Klose,2015,398,Poland,Opole,Germany,9/6/78 0:00,Centre-Forward,Attack,right,184,30000000,ASBW Sport Marketing,IT1,SS Lazio
+26,Roman Weidenfeller,2017,16,Germany,Diez,Germany,6/8/80 0:00,Goalkeeper,Goalkeeper,left,190,8000000,Neubauer 13 GmbH,L1,Borussia Dortmund
+65,Dimitar Berbatov,2015,1091,Bulgaria,Blagoevgrad,Bulgaria,30/1/81 0:00,Centre-Forward,Attack,Right,174,34500000,CSKA-AS-23 Ltd.,GR1,PAOK Thessaloniki
+77,Lúcio,2012,506,Brazil,Brasília,Brazil,8/5/78 0:00,Centre-Back,Defender,Right,174,24500000,Sandro Becker,IT1,Juventus FC
+80,Tom Starke,2017,27,East Germany (GDR),Freital,Germany,18/3/81 0:00,Goalkeeper,Goalkeeper,right,194,3000000,IFM,L1,Bayern Munich
+109,Dedê,2012,825,Brazil,Belo Horizonte,Brazil,18/4/78 0:00,Left-Back,Defender,Right,174,9500000,Football Concept,TR1,Eskisehirspor
+123,Christoph Metzelder,2012,33,Germany,Haltern,Germany,5/11/80 0:00,Centre-Back,Defender,Right,174,9500000,,L1,FC Schalke 04
+132,Tomas Rosicky,2015,11,CSSR,Praha,Czech Republic,4/10/80 0:00,Attacking Midfield,Midfield,both,179,17500000,,GB1,Arsenal FC
+162,Marc Ziegler,2012,79,Germany,Blieskastel,Germany,13/6/76 0:00,Goalkeeper,Goalkeeper,right,193,1250000,,L1,VfB Stuttgart
+215,Roque Santa Cruz,2015,1084,Paraguay,Asunción,Paraguay,16/8/81 0:00,Centre-Forward,Attack,right,193,12000000,,ES1,Málaga CF
+258,Gerald Asamoah,2013,33,Ghana,Mampong,Germany,3/10/78 0:00,Centre-Forward,Attack,right,180,7000000,,L1,FC Schalke 04
+264,Tamás Hajnal,2012,79,Hungary,Esztergom,Hungary,15/3/81 0:00,Attacking Midfield,Midfield,both,167,6500000,,L1,VfB Stuttgart
+276,Sladan Peric,2013,20100,,,Denmark,15/4/82 0:00,Centre-Back,Defender,Right,174,500000,,DK1,FC Vestsjaelland
+277,Sergio da Silva Pinto,2013,3368,Portugal,Vila Nova de Gaia,Germany,16/10/80 0:00,Central Midfield,Midfield,right,176,3500000,,ES1,Levante UD
+299,Fabian Ernst,2012,10484,Germany,Hannover,Germany,15/10/83 0:00,Defensive Midfield,Midfield,right,183,9000000,,TR1,Kasimpasa
+325,Tomas Ujfalusi,2012,141,CSSR,Rýmařov,Czech Republic,24/3/78 0:00,Centre-Back,Defender,Right,174,12000000,,TR1,Galatasaray
+332,Benjamin Köhler,2012,24,Germany,Berlin,Germany,4/8/80 0:00,Left Midfield,Midfield,Right,174,2500000,,L1,Eintracht Frankfurt
+410,Sebastian Kehl,2014,16,Germany,Fulda,Germany,13/2/80 0:00,Defensive Midfield,Midfield,left,187,9000000,,L1,Borussia Dortmund
+411,Levan Kobiashvili,2013,44,UdSSR,Tiflis,Georgia,10/7/77 0:00,Left Midfield,Midfield,left,183,7500000,,L1,Hertha BSC
+447,Oka Nikolov,2012,24,Germany,Erbach im Odenwald,North Macedonia,25/5/74 0:00,Goalkeeper,Goalkeeper,right,188,2000000,PRO Profil GmbH,L1,Eintracht Frankfurt
+488,Gerhard Tremmel,2016,2288,Germany,München,Germany,16/11/78 0:00,Goalkeeper,Goalkeeper,Right,174,2200000,,GB1,Swansea City
+532,Claudio Pizarro,2019,86,Peru,Callao,Peru,3/10/78 0:00,Centre-Forward,Attack,right,184,12000000,,L1,SV Werder Bremen
+557,Simon Jentzsch,2012,167,Germany,Düsseldorf,Germany,4/5/76 0:00,Goalkeeper,Goalkeeper,right,196,4500000,,L1,FC Augsburg
+568,Martin Stranzl,2015,18,Austria,Güssing,Austria,16/6/80 0:00,Centre-Back,Defender,Right,174,4500000,,L1,Borussia Mönchengladbach
+597,Aleksandr Hleb,2016,2696,UdSSR,Minsk,Belarus,1/5/81 0:00,Attacking Midfield,Midfield,Right,174,19000000,fair-sport GmbH,RU1,Krylya Sovetov Samara
+598,Timo Hildebrand,2014,24,Germany,Worms,Germany,5/4/79 0:00,Goalkeeper,Goalkeeper,Right,174,10000000,,L1,Eintracht Frankfurt
+643,Christian Vander,2012,86,Germany,Willich,Germany,24/10/80 0:00,Goalkeeper,Goalkeeper,right,195,600000,,L1,SV Werder Bremen
+670,Martin Petrov,2012,714,Bulgaria,Vratsa,Bulgaria,15/1/79 0:00,Left Winger,Attack,Right,174,12000000,IFM,ES1,RCD Espanyol Barcelona
+690,Ivan Klasnic,2012,39,Germany,Hamburg,Croatia,29/1/80 0:00,Centre-Forward,Attack,Right,174,12000000,,L1,1.FSV Mainz 05
+691,Simon Rolfes,2014,15,Germany,Ibbenbüren,Germany,21/1/82 0:00,Defensive Midfield,Midfield,left,191,9500000,,L1,Bayer 04 Leverkusen
+735,Giuseppe Gemiti,2013,1210,Germany,Frankfurt am Main,Germany,3/5/81 0:00,Left-Back,Defender,left,178,1250000,,IT1,US Livorno 1915
+755,Deniz Baris,2013,589,Turkey,Erzincan,Turkey,2/7/77 0:00,Centre-Back,Defender,Right,174,2000000,,TR1,Antalyaspor
+773,David Jarolim,2012,14171,CSSR,Čáslav,Czech Republic,17/5/79 0:00,Central Midfield,Midfield,right,174,8500000,,FR1,Thonon Évian Grand Genève FC
+823,Hanno Balitsch,2013,4,Germany,Darmstadt,Germany,2/1/81 0:00,Defensive Midfield,Midfield,right,182,4000000,Siebert & Backs,L1,1.FC Nuremberg
+831,Selim Teber,2012,1506,Germany,Frankenthal,Germany,7/3/81 0:00,Central Midfield,Midfield,right,187,2500000,,TR1,Kardemir Karabükspor
+837,Thorben Marx,2014,18,Germany,Berlin,Germany,13/9/83 0:00,Defensive Midfield,Midfield,right,184,2500000,Neubauer 13 GmbH,L1,Borussia Mönchengladbach
+886,Jens Langeneke,2012,38,Germany,Lippstadt,Germany,29/3/77 0:00,Centre-Back,Defender,right,185,800000,,L1,Fortuna Düsseldorf
+892,Heinz Müller,2013,39,Germany,Frankfurt am Main,Germany,30/5/78 0:00,Goalkeeper,Goalkeeper,Right,174,2250000,,L1,1.FSV Mainz 05
+933,Ugur Inceman,2015,2293,Germany,Aachen,Turkey,25/5/81 0:00,Central Midfield,Midfield,right,183,3000000,,TR1,Konyaspor
+992,Christian Weber,2012,38,Germany,Saarbrücken,Germany,15/9/83 0:00,Right-Back,Defender,right,175,1500000,,L1,Fortuna Düsseldorf
+1073,Manuel Friedrich,2013,16,Germany,Bad Kreuznach,Germany,13/9/79 0:00,Centre-Back,Defender,Right,174,5500000,Dr. Michael Becker,L1,Borussia Dortmund
+1075,Andriy Voronin,2013,121,UdSSR,Odessa,Ukraine,21/7/79 0:00,Second Striker,Attack,Right,174,8000000,Andrei Golovash,RU1,Dynamo Moscow
+1083,Julian de Guzmán,2013,128,Canada,"Toronto, Ontario",Canada,25/3/81 0:00,Defensive Midfield,Midfield,Right,174,5000000,,GR1,AO Xanthi
+1094,Emanuel Pogatetz,2013,4,Austria,Graz,Austria,16/1/83 0:00,Centre-Back,Defender,left,191,6000000,Stars & Friends,L1,1.FC Nuremberg
+1095,Peer Kluge,2013,44,East Germany (GDR),Frankenberg,Germany,22/11/80 0:00,Defensive Midfield,Midfield,Right,174,4000000,Neubauer 13 GmbH,L1,Hertha BSC
+1116,Thomas Kleine,2012,65,Germany,Wermelskirchen,Germany,28/12/77 0:00,Centre-Back,Defender,right,191,2000000,,L1,SpVgg Greuther Fürth
+1122,Sven Neuhaus,2013,41,Germany,Essen,Germany,4/4/78 0:00,Goalkeeper,Goalkeeper,Right,174,900000,Soccer-Concept AG,L1,Hamburger SV
+1126,Matthias Lehmann,2017,3,Germany,Ulm,Germany,28/5/83 0:00,Defensive Midfield,Midfield,Right,174,2500000,Sports360 GmbH,L1,1.FC Köln
+1139,Nikolce Noveski,2014,39,Jugoslawien (SFR),Bitola,North Macedonia,28/4/79 0:00,Centre-Back,Defender,Right,174,3000000,,L1,1.FSV Mainz 05
+1144,Christofer Heimeroth,2017,18,Germany,Unna,Germany,1/8/81 0:00,Goalkeeper,Goalkeeper,right,194,1300000,,L1,Borussia Mönchengladbach
+1150,Raphael Schäfer,2013,4,Poland,Kędzierzyn-Koźle,Germany,30/1/79 0:00,Goalkeeper,Goalkeeper,Right,174,5000000,,L1,1.FC Nuremberg
+1161,Javier Zanetti,2013,46,Argentina,Dock Sud,Argentina,10/8/73 0:00,Right-Back,Defender,right,178,11000000,,IT1,Inter Milan
+1197,Peter Graulund,2012,678,Denmark,Brørup,Denmark,20/9/76 0:00,Centre-Forward,Attack,Right,174,1100000,Nicolai Mallet,DK1,Aarhus GF
+1257,Michael Ratajczak,2019,127,Germany,Herne,Germany,16/4/82 0:00,Goalkeeper,Goalkeeper,right,188,1000000,,L1,SC Paderborn 07
+1277,Clemens Fritz,2016,86,East Germany (GDR),Erfurt,Germany,7/12/80 0:00,Right-Back,Defender,right,183,7000000,,L1,SV Werder Bremen
+1321,Jermaine Jones,2013,33,Germany,Frankfurt am Main,United States,3/11/81 0:00,Defensive Midfield,Midfield,both,184,8000000,,L1,FC Schalke 04
+1323,Martin Amedick,2012,24,Germany,Paderborn,Germany,6/9/82 0:00,Centre-Back,Defender,Right,174,2750000,,L1,Eintracht Frankfurt
+1327,Alou Diarra,2016,1159,France,Villepinte,France,15/7/81 0:00,Defensive Midfield,Midfield,right,189,14500000,,FR1,AS Nancy-Lorraine
+1331,Kevin Kuranyi,2015,533,Brazil,Rio de Janeiro,Germany,2/3/82 0:00,Centre-Forward,Attack,Right,174,12000000,,L1,TSG 1899 Hoffenheim
+1335,Steven Cherundolo,2013,42,United States,"Rockford, Illinois",United States,19/2/79 0:00,Right-Back,Defender,right,172,4000000,ARP Sportmarketing,L1,Hannover 96
+1363,Christian Wetklo,2015,33,Germany,Marl,Germany,11/1/80 0:00,Goalkeeper,Goalkeeper,right,190,1000000,extratime GmbH,L1,FC Schalke 04
+1368,Guy Demel,2015,1519,France,Orsay,Cote d'Ivoire,13/6/81 0:00,Right-Back,Defender,Right,174,6000000,FAME US Sport Agency,SC1,Dundee United FC
+1381,Maik Franz,2013,44,East Germany (GDR),Merseburg,Germany,5/8/81 0:00,Centre-Back,Defender,Right,174,3500000,Neubauer 13 GmbH,L1,Hertha BSC
+1397,Michael Owen,2012,512,England,Chester,England,14/12/79 0:00,Centre-Forward,Attack,both,173,30000000,,GB1,Stoke City
+1423,Lars Jacobsen,2015,855,Denmark,Odense,Denmark,20/9/79 0:00,Right-Back,Defender,both,181,2500000,NSG ApS,FR1,EA Guingamp
+1426,Cacau,2013,79,Brazil,Santo André,Germany,27/3/81 0:00,Centre-Forward,Attack,right,179,8000000,NESS & Network,L1,VfB Stuttgart
+1428,Mike Hanke,2013,60,Germany,Hamm,Germany,5/11/83 0:00,Centre-Forward,Attack,right,185,5000000,,L1,SC Freiburg
+1443,Christian Poulsen,2014,190,Denmark,Asnæs,Denmark,28/2/80 0:00,Defensive Midfield,Midfield,right,181,12000000,,DK1,FC Copenhagen
+1474,Tim Wiese,2013,533,Germany,Bergisch Gladbach,Germany,17/12/81 0:00,Goalkeeper,Goalkeeper,Right,174,10000000,,L1,TSG 1899 Hoffenheim
+1496,Heiko Butscher,2012,24,Germany,Leutkirch im Allgäu,Germany,28/7/80 0:00,Centre-Back,Defender,both,189,2250000,,L1,Eintracht Frankfurt
+1532,Wesley Sonck,2012,28643,Belgium,Ninove,Belgium,9/8/78 0:00,,Missing,right,174,8000000,,BE1,SK Beveren
+1560,Youssef El Akchaoui,2012,306,Netherlands,Dordrecht,Morocco,18/2/81 0:00,Left-Back,Defender,Right,174,1750000,,NL1,SC Heerenveen
+1565,Alexander Meier,2017,24,Germany,Buchholz in der Nordheide,Germany,17/1/83 0:00,Second Striker,Attack,right,196,4500000,,L1,Eintracht Frankfurt
+1568,Stefan Reisinger,2012,38,Germany,Landshut,Germany,14/9/81 0:00,Centre-Forward,Attack,right,185,1500000,,L1,Fortuna Düsseldorf
+1572,Andreas Wolf,2013,162,UdSSR,Leninabad,Germany,12/6/82 0:00,Centre-Back,Defender,right,182,5000000,,FR1,AS Monaco
+1573,Thomas Hitzlsperger,2012,29,Germany,München,Germany,5/4/82 0:00,Central Midfield,Midfield,Right,174,9000000,,GB1,Everton FC
+1586,Christian Schulz,2015,42,Germany,Bassum,Germany,1/4/83 0:00,Centre-Back,Defender,left,185,4500000,ARP Sportmarketing,L1,Hannover 96
+1587,Mario Eggimann,2012,42,Switzerland,Brugg,Switzerland,15/10/84 0:00,Centre-Back,Defender,right,190,3000000,,L1,Hannover 96
+1606,Morten Rasmussen,2012,2414,Denmark,Hvidovre,Denmark,26/3/85 0:00,Centre-Back,Defender,right,188,600000,,DK1,AC Horsens
+1613,Vivian,2013,855,Brazil,Caçapava do Sul,Brazil,5/4/82 0:00,Centre-Back,Defender,Right,174,1500000,,FR1,EA Guingamp
+1659,Dennis Kruppke,2013,23,Germany,Münster,Germany,1/4/80 0:00,Second Striker,Attack,both,179,750000,,L1,Eintracht Braunschweig
+1662,Sascha Riether,2018,33,Germany,Lahr,Germany,23/3/83 0:00,Right-Back,Defender,Right,174,6000000,Sports360 GmbH,L1,FC Schalke 04
+1667,Diego Benaglio,2019,162,Switzerland,Zürich,Switzerland,8/9/83 0:00,Goalkeeper,Goalkeeper,right,194,11500000,KBM,FR1,AS Monaco
+1684,Milorad Pekovic,2012,65,Jugoslawien (SFR),Nikšić,Montenegro,5/8/77 0:00,Defensive Midfield,Midfield,left,189,1500000,,L1,SpVgg Greuther Fürth
+1716,David Odonkor,2012,6996,Germany,Bünde,Germany,21/2/84 0:00,Right Winger,Attack,right,172,4500000,,UKR1,Goverla Uzhgorod (- 2016)
+1725,Jesper Christiansen,2014,173,Denmark,Roskilde,Denmark,24/4/78 0:00,Goalkeeper,Goalkeeper,left,194,2000000,NSG ApS,DK1,Odense Boldklub
+1726,Heiko Westermann,2016,610,Germany,Alzenau,Germany,14/8/83 0:00,Centre-Back,Defender,right,190,9000000,,NL1,Ajax Amsterdam
+1743,Patrick Platins,2015,105,Germany,Immenstadt im Allgäu,Germany,19/4/83 0:00,Goalkeeper,Goalkeeper,right,190,500000,,L1,SV Darmstadt 98
+1772,Du-ri Cha,2012,38,Germany,Frankfurt am Main,"Korea, South",25/7/80 0:00,Right-Back,Defender,right,181,1500000,,L1,Fortuna Düsseldorf
+1784,René Adler,2018,39,East Germany (GDR),Leipzig,Germany,15/1/85 0:00,Goalkeeper,Goalkeeper,Right,174,16000000,11WINS,L1,1.FSV Mainz 05
+1791,Halil Altintop,2016,167,Germany,Gelsenkirchen,Turkey,8/12/82 0:00,Attacking Midfield,Midfield,right,185,7500000,,L1,FC Augsburg
+1792,Hamit Altintop,2016,105,Germany,Gelsenkirchen,Turkey,8/12/82 0:00,Right Midfield,Midfield,right,183,11000000,,L1,SV Darmstadt 98
+1841,Ali Bilgin,2012,10484,Germany,Essen,Turkey,17/12/81 0:00,Central Midfield,Midfield,Right,174,2500000,,TR1,Kasimpasa
+1896,Ahmet Cebe,2015,19771,Germany,Krefeld,Germany,2/5/83 0:00,Right-Back,Defender,right,181,1050000,,TR1,Akhisarspor
+1944,Deniz Dogan,2013,23,Germany,Lübeck,Turkey,13/9/83 0:00,Centre-Back,Defender,left,181,400000,Dr. Oliver Wendt,L1,Eintracht Braunschweig
+1986,Markus Feulner,2016,167,Germany,Scheßlitz,Germany,12/2/82 0:00,Central Midfield,Midfield,right,183,3000000,Robert Schneider,L1,FC Augsburg
+2048,Philipp Haastrup,2012,403,Germany,Münster,Germany,5/3/82 0:00,Centre-Back,Defender,Right,174,450000,,NL1,Willem II Tilburg
+2050,Nelson Valdez,2014,24,Paraguay,Caaguazú,Paraguay,28/11/83 0:00,Centre-Forward,Attack,right,179,5000000,GG11 ,L1,Eintracht Frankfurt
+2138,Mladen Kascelan,2017,40426,Jugoslawien (SFR),Kotor,Montenegro,13/2/83 0:00,Defensive Midfield,Midfield,right,178,600000,FM Sports Agency,RU1,FC Tosno (-2018)
+2148,Erdal Kilicaslan,2016,2944,Germany,München,Germany,23/8/84 0:00,Left Winger,Attack,Right,174,1500000,,TR1,Ankaraspor
+2150,Oliver Kirch,2014,16,Germany,Soest,Germany,21/8/82 0:00,Defensive Midfield,Midfield,right,182,1800000,Dirk Hebel,L1,Borussia Dortmund
+2154,Patric Klandt,2018,4,Germany,Frankfurt am Main,Germany,29/9/83 0:00,Goalkeeper,Goalkeeper,right,184,1250000,,L1,1.FC Nuremberg
+2201,Lukas Kruse,2014,127,Germany,Paderborn,Germany,9/7/83 0:00,Goalkeeper,Goalkeeper,right,185,1000000,Günter Kutowski,L1,SC Paderborn 07
+2219,Philipp Lahm,2016,27,Germany,München,Germany,11/11/83 0:00,Right-Back,Defender,right,170,30000000,acta7,L1,Bayern Munich
+2233,Christian Lell,2013,3368,Germany,München,Germany,29/8/84 0:00,Right-Back,Defender,Right,174,4000000,,ES1,Levante UD
+2306,Markus Miller,2014,42,Germany,Lindenberg im Allgäu,Germany,8/4/82 0:00,Goalkeeper,Goalkeeper,right,189,3500000,ARP Sportmarketing,L1,Hannover 96
+2309,Zvjezdan Misimovic,2012,121,Germany,München,Bosnia-Herzegovina,5/6/82 0:00,Attacking Midfield,Midfield,both,179,14500000,LIAN Sports Group,RU1,Dynamo Moscow
+2334,Marcel Ndjeng,2014,44,Germany,Bonn,Cameroon,6/5/82 0:00,Right Midfield,Midfield,right,180,1500000,,L1,Hertha BSC
+2358,Patrick Ochs,2014,82,Germany,Frankfurt am Main,Germany,14/5/84 0:00,Right-Back,Defender,right,179,5000000,,L1,VfL Wolfsburg
+2374,Patrick Owomoyela,2012,16,Germany,Hamburg,Germany,5/11/79 0:00,Right-Back,Defender,right,187,5000000,Uwe Kathmann,L1,Borussia Dortmund
+2386,Marjan Petkovic,2013,23,Germany,Brackenheim,Germany,22/5/79 0:00,Goalkeeper,Goalkeeper,right,186,500000,,L1,Eintracht Braunschweig
+2421,Michael Rensing,2019,38,Germany,Lingen,Germany,14/5/84 0:00,Goalkeeper,Goalkeeper,right,190,4500000,Sports360 GmbH,L1,Fortuna Düsseldorf
+2453,Mahir Saglik,2014,127,Germany,Paderborn,Turkey,18/1/83 0:00,Centre-Forward,Attack,left,178,1400000,,L1,SC Paderborn 07
+2514,Bastian Schweinsteiger,2016,985,Germany,Kolbermoor,Germany,1/8/84 0:00,Central Midfield,Midfield,Right,174,40000000,BS Family Office,GB1,Manchester United
+2583,Thorsten Stuckmann,2016,2760,Germany,Gütersloh,Germany,17/3/81 0:00,Goalkeeper,Goalkeeper,right,199,1200000,,SC1,Partick Thistle FC
+2587,Elyasa Süme,2016,524,Germany,Wesel,Turkey,13/8/83 0:00,Centre-Back,Defender,Right,174,2000000,NG360,TR1,Gaziantepspor (- 2020)
+2623,Piotr Trochowski,2015,167,Poland,Tczew,Germany,22/3/84 0:00,Attacking Midfield,Midfield,right,169,10000000,,L1,FC Augsburg
+2703,Morten Skoubo,2013,173,Denmark,Holstebro,Denmark,30/6/80 0:00,Centre-Forward,Attack,Right,174,2500000,,DK1,Odense Boldklub
+2712,Nando Rafael,2012,38,Angola,Luanda,Angola,10/1/84 0:00,Centre-Forward,Attack,both,180,2000000,,L1,Fortuna Düsseldorf
+2726,Romuald Peiser,2013,2990,France,Phalsbourg,France,3/8/79 0:00,Goalkeeper,Goalkeeper,right,187,1600000,,PO1,Académica Coimbra
+2767,Alexander Madlung,2014,24,Germany,Braunschweig,Germany,11/7/82 0:00,Centre-Back,Defender,Right,174,4500000,Uwe Kathmann,L1,Eintracht Frankfurt
+2805,Christian Pander,2014,42,Germany,Münster,Germany,28/8/83 0:00,Left-Back,Defender,Right,174,6500000,,L1,Hannover 96
+2857,Eldin Jakupovic,2022,29,Jugoslawien (SFR),Kozarac,Switzerland,2/10/84 0:00,Goalkeeper,Goalkeeper,right,191,1500000,,GB1,Everton FC
+2865,Stephan Lichtsteiner,2019,167,Switzerland,Adligenswil,Switzerland,16/1/84 0:00,Right-Back,Defender,right,182,17000000,,L1,FC Augsburg
+2874,Mladen Petric,2015,265,Jugoslawien (SFR),Dubrave,Croatia,1/1/81 0:00,Centre-Forward,Attack,Right,174,11000000,Sports360 GmbH,GR1,Panathinaikos Athens
+2878,Yassin Mikari,2012,750,Switzerland,Zürich,Tunisia,9/1/83 0:00,Left-Back,Defender,left,172,2800000,Rhein AG,FR1,FC Sochaux-Montbéliard
+2899,Hervé Tum,2012,2292,Cameroon,Douala,Cameroon,15/2/79 0:00,Centre-Forward,Attack,right,184,2600000,,TR1,Elazigspor
+2904,Rafa Márquez,2015,276,Mexico,Zamora de Hidalgo,Mexico,13/2/79 0:00,Centre-Back,Defender,right,184,16000000,Gestifute,IT1,Hellas Verona
+2923,Andreas Ivanschitz,2014,3368,Austria,Eisenstadt,Austria,15/10/83 0:00,Attacking Midfield,Midfield,left,183,5500000,,ES1,Levante UD
+2926,György Garics,2015,105,Hungary,Szombathely,Austria,8/3/84 0:00,Right-Back,Defender,Right,174,3000000,,L1,SV Darmstadt 98
+2950,Robert Almer,2014,42,Austria,Bruck/Mur,Austria,13/9/83 0:00,Goalkeeper,Goalkeeper,left,194,1000000,,L1,Hannover 96
+2953,Paul Scharner,2012,41,Austria,Scheibbs,Austria,11/3/80 0:00,Defensive Midfield,Midfield,right,191,5000000,,L1,Hamburger SV
+2956,Roland Linz,2013,68608,Austria,Leoben,Austria,9/8/81 0:00,Centre-Forward,Attack,Right,174,5700000,,PO1,CF Os Belenenses
+2963,Martín Demichelis,2016,714,Argentina,Justiniano Posse,Argentina,20/12/80 0:00,Centre-Back,Defender,right,184,16000000,Jorge Cyterszpiler,ES1,RCD Espanyol Barcelona
+2998,Robert Huth,2017,1003,East Germany (GDR),Berlin,Germany,18/8/84 0:00,Centre-Back,Defender,Right,174,8900000,Christian Nilles,GB1,Leicester City
+2999,Chris Iwelumo,2013,2578,Scotland,Coatbridge,Scotland,1/8/78 0:00,Centre-Forward,Attack,Right,174,2500000,,SC1,St. Johnstone FC
+3059,Ekrem Dag,2013,524,Turkey,Mardin,Austria,5/12/80 0:00,Right-Back,Defender,both,176,4000000,Alpaslan Kayabunar,TR1,Gaziantepspor (- 2020)
+3098,Olof Mellberg,2014,190,Sweden,Gullspång,Sweden,3/9/77 0:00,Centre-Back,Defender,right,187,9000000,ManMark S.A.,DK1,FC Copenhagen
+3109,Steven Gerrard,2014,31,England,Whiston,England,30/5/80 0:00,Central Midfield,Midfield,right,183,50000000,Wasserman,GB1,Liverpool FC
+3114,Jan Schlaudraff,2014,42,Germany,Waldbröl,Germany,18/7/83 0:00,Second Striker,Attack,right,180,4500000,Christian Nilles,L1,Hannover 96
+3115,David Bellion,2013,40,France,Sèvres,France,27/11/82 0:00,Centre-Forward,Attack,right,181,7000000,,FR1,FC Girondins Bordeaux
+3118,Kieron Dyer,2012,1039,England,Ipswich,England,29/12/78 0:00,Right Midfield,Midfield,right,170,16000000,CAA Stellar,GB1,Queens Park Rangers
+3120,Richard Wright,2015,281,England,Ipswich,England,5/11/77 0:00,Goalkeeper,Goalkeeper,right,190,5750000,CAA Stellar,GB1,Manchester City
+3130,Titus Bramble,2012,289,England,Ipswich,England,31/7/81 0:00,Centre-Back,Defender,right,192,5500000,,GB1,Sunderland AFC
+3131,Kevin Phillips,2013,873,England,Hitchin,England,25/7/73 0:00,Centre-Forward,Attack,right,170,7500000,,GB1,Crystal Palace
+3132,Florin Cernat,2013,126,Romania,Galaţi,Romania,10/3/80 0:00,Attacking Midfield,Midfield,left,168,2800000,,TR1,Caykur Rizespor
+3139,David Beckham,2012,583,England,London,England,2/5/75 0:00,Right Midfield,Midfield,right,182,40000000,CAA Sports,FR1,Paris Saint-Germain
+3146,Shay Given,2016,512,Ireland,Lifford,Ireland,20/4/76 0:00,Goalkeeper,Goalkeeper,right,185,10000000,CAA Stellar,GB1,Stoke City
+3151,Carlo Cudicini,2012,148,Italy,Milano,Italy,6/9/73 0:00,Goalkeeper,Goalkeeper,right,184,4000000,,GB1,Tottenham Hotspur
+3156,William Gallas,2012,148,France,Asnières-sur-Seine,France,17/8/77 0:00,Centre-Back,Defender,right,182,19000000,,GB1,Tottenham Hotspur
+3159,Valerio Di Cesare,2018,130,Italy,Roma,Italy,23/5/83 0:00,Centre-Back,Defender,right,187,650000,MM-Management,IT1,Parma Calcio 1913
+3160,John Terry,2016,631,England,Barking,England,7/12/80 0:00,Centre-Back,Defender,right,187,35000000,,GB1,Chelsea FC
+3163,Frank Lampard,2014,281,England,London,England,20/6/78 0:00,Central Midfield,Midfield,right,184,45000000,,GB1,Manchester City
+3165,Cris,2012,141,Brazil,Guarulhos,Brazil,3/6/77 0:00,Centre-Back,Defender,right,183,15000000,Rafaela Pimenta,TR1,Galatasaray
+3170,Simon Cziommer,2014,1304,Germany,Nordhorn,Germany,6/11/80 0:00,Central Midfield,Midfield,Right,174,3200000,,NL1,Heracles Almelo
+3172,Quique de Lucas,2012,940,Spain,L'Hospitalet de Llobregat,Spain,17/8/78 0:00,Attacking Midfield,Midfield,right,175,4000000,,ES1,Celta de Vigo
+3176,Eidur Gudjohnsen,2013,2282,Iceland,Reykjavík,Iceland,15/9/78 0:00,Centre-Forward,Attack,right,185,12000000,Total Football,BE1,Club Brugge KV
+3179,Carlton Cole,2015,371,England,London,England,12/10/83 0:00,Centre-Forward,Attack,right,191,9000000,,SC1,Celtic FC
+3182,Ashley Cole,2015,12,England,London,England,20/12/80 0:00,Left-Back,Defender,left,176,27000000,CAA Stellar,IT1,AS Roma
+3190,Stuart Taylor,2017,180,England,Romford,England,28/11/80 0:00,Goalkeeper,Goalkeeper,right,198,1500000,,GB1,Southampton FC
+3195,Jermaine Pennant,2013,512,England,Nottingham,England,15/1/83 0:00,Right Winger,Attack,right,173,10500000,Andrew Sky,GB1,Stoke City
+3201,Stathis Tavlaridis,2015,265,Greece,Serres,Greece,25/1/80 0:00,Centre-Back,Defender,right,186,5000000,,GR1,Panathinaikos Athens
+3202,Kolo Touré,2016,371,Cote d'Ivoire,Bouaké,Cote d'Ivoire,19/3/81 0:00,Centre-Back,Defender,right,178,22000000,,SC1,Celtic FC
+3205,David Bentley,2012,148,England,Peterborough,England,27/8/84 0:00,Right Midfield,Midfield,right,178,17000000,SEM Group plc.,GB1,Tottenham Hotspur
+3216,Milan Baros,2013,589,CSSR,Valašské Meziříčí,Czech Republic,28/10/81 0:00,Centre-Forward,Attack,right,183,17500000,,TR1,Antalyaspor
+3220,John Arne Riise,2013,931,Norway,Ålesund,Norway,24/9/80 0:00,Left-Back,Defender,left,185,15000000,,GB1,Fulham FC
+3226,Nicolas Anelka,2013,984,France,Le Chesnay,France,14/3/79 0:00,Centre-Forward,Attack,right,186,30000000,,GB1,West Bromwich Albion
+3233,Chris,2012,533,Brazil,Blumenau,Brazil,25/8/78 0:00,Centre-Back,Defender,Right,174,3500000,,L1,TSG 1899 Hoffenheim
+3235,Rio Ferdinand,2014,1039,England,London,England,7/11/78 0:00,Centre-Back,Defender,right,189,35000000,,GB1,Queens Park Rangers
+3251,Stephen Hughes,2012,370,Scotland,Motherwell,Scotland,14/11/82 0:00,Central Midfield,Midfield,right,180,5000000,,SC1,Aberdeen FC
+3256,Roberto Hilbert,2016,15,Germany,Forchheim,Germany,16/10/84 0:00,Right-Back,Defender,right,182,5000000,,L1,Bayer 04 Leverkusen
+3259,Damien Duff,2013,931,Ireland,Ballyboden,Ireland,2/3/79 0:00,Right Midfield,Midfield,left,177,17000000,,GB1,Fulham FC
+3266,Jérémie Aliadière,2016,1158,France,Rambouillet,France,30/3/83 0:00,Centre-Forward,Attack,right,183,4500000,Mick Oliver,FR1,FC Lorient
+3269,Calvin Zola,2013,370,Zaire,Kinshasa,DR Congo,31/12/84 0:00,Centre-Forward,Attack,right,191,500000,,SC1,Aberdeen FC
+3270,Joseph Yobo,2013,36,Nigeria,Kono,Nigeria,6/9/80 0:00,Centre-Back,Defender,right,188,11500000,,TR1,Fenerbahce
+3271,Luke Young,2012,1039,England,Harlow,England,19/7/79 0:00,Right-Back,Defender,right,183,7000000,,GB1,Queens Park Rangers
+3273,Matthew Upson,2014,1003,England,Hartismere,England,18/4/79 0:00,Centre-Back,Defender,left,185,9000000,,GB1,Leicester City
+3276,Shola Ameobi,2014,873,Nigeria,Zaria,Nigeria,12/10/81 0:00,Centre-Forward,Attack,right,191,6500000,,GB1,Crystal Palace
+3287,Steve Banks,2014,2578,England,London,England,9/2/72 0:00,Goalkeeper,Goalkeeper,right,180,400000,,SC1,St. Johnstone FC
+3291,Gareth Barry,2017,984,England,Hastings,England,23/2/81 0:00,Defensive Midfield,Midfield,left,184,18500000,ppsports,GB1,West Bromwich Albion
+3292,Joey Barton,2016,1132,England,Huyton,England,2/9/82 0:00,Central Midfield,Midfield,right,180,8600000,Willie McKay,GB1,Burnley FC
+3296,Paul Konchesky,2015,1003,England,London,England,15/5/81 0:00,Left-Back,Defender,left,178,9500000,CAA Base Ltd,GB1,Leicester City
+3297,Craig Bellamy,2013,603,Wales,Cardiff,Wales,13/7/79 0:00,Left Winger,Attack,right,173,13000000,,GB1,Cardiff City
+3306,Jonathan Walters,2018,1132,England,Moreton,Ireland,20/9/83 0:00,Right Winger,Attack,right,183,5500000,,GB1,Burnley FC
+3310,Nicky Weaver,2013,370,England,Sheffield,England,2/3/79 0:00,Goalkeeper,Goalkeeper,right,191,2000000,,SC1,Aberdeen FC
+3321,Luke Wilkshire,2016,3725,Australia,Wollongong,Australia,2/10/81 0:00,Right-Back,Defender,right,176,5000000,,RU1,Akhmat Grozny
+3322,Ben Williams,2012,903,England,Manchester,England,27/8/82 0:00,Goalkeeper,Goalkeeper,left,188,500000,,SC1,Hibernian FC
+3332,Wayne Rooney,2017,985,England,Liverpool,England,24/10/85 0:00,Centre-Forward,Attack,right,176,65000000,Triple S Sports,GB1,Manchester United
+3333,James Milner,2022,31,England,Leeds,England,4/1/86 0:00,Central Midfield,Midfield,right,175,21000000,,GB1,Liverpool FC
+3354,Jonathan Blondel,2014,2282,Belgium,Ieper,Belgium,3/4/84 0:00,Defensive Midfield,Midfield,left,173,3500000,,BE1,Club Brugge KV
+3356,Sylvain Distin,2015,989,France,Bagnolet,France,16/12/77 0:00,Centre-Back,Defender,left,192,9000000,CAA Stellar,GB1,AFC Bournemouth
+3357,Mark Schwarzer,2015,1003,Australia,Sydney,Australia,6/10/72 0:00,Goalkeeper,Goalkeeper,Right,174,5000000,,GB1,Leicester City
+3366,Kaká,2013,5,Brazil,Gama,Brazil,22/4/82 0:00,Attacking Midfield,Midfield,both,186,70000000,,IT1,AC Milan
+3391,Markus Neumayr,2017,10484,Germany,Hösbach,Germany,26/3/86 0:00,Attacking Midfield,Midfield,right,181,1000000,,TR1,Kasimpasa
+3395,Gábor Babos,2014,132,Hungary,Sopron,Hungary,24/10/74 0:00,Goalkeeper,Goalkeeper,right,196,2800000,,NL1,NAC Breda
+3397,Paul Scholes,2012,985,England,Salford,England,16/11/74 0:00,Central Midfield,Midfield,right,168,25000000,,GB1,Manchester United
+3404,Phil Neville,2012,29,England,Bury,England,21/1/77 0:00,Right-Back,Defender,right,180,6000000,,GB1,Everton FC
+3405,Wes Brown,2015,289,England,Manchester,England,13/10/79 0:00,Centre-Back,Defender,right,184,9000000,,GB1,Sunderland AFC
+3406,Ryan Giggs,2013,985,Wales,Cardiff,Wales,29/11/73 0:00,Left Midfield,Midfield,left,179,25000000,,GB1,Manchester United
+3411,Pablo Aimar,2012,294,Argentina,Río Cuarto,Argentina,3/11/79 0:00,Attacking Midfield,Midfield,right,170,25000000,,PO1,SL Benfica
+3413,Rodrigo Tello,2013,2292,Chile,Santiago de Chile,Chile,14/10/79 0:00,Left Winger,Attack,left,170,8000000,,TR1,Elazigspor
+3417,Nicolás Burdisso,2017,416,Argentina,Altos de Chipión,Argentina,12/4/81 0:00,Centre-Back,Defender,right,183,9000000,Martin Guastadisegno,IT1,Torino FC
+3428,Dejan Stanković,2012,46,Jugoslawien (SFR),Belgrad,Serbia,11/9/78 0:00,Central Midfield,Midfield,right,181,24500000,,IT1,Inter Milan
+3441,Timmy Simons,2017,2282,Belgium,Diest,Belgium,11/12/76 0:00,Defensive Midfield,Midfield,right,186,5500000,,BE1,Club Brugge KV
+3447,Ragnvald Soma,2012,2778,Norway,Kvernaland,Norway,10/11/79 0:00,Centre-Back,Defender,left,189,1400000,,DK1,FC Nordsjaelland
+3455,Zlatan Ibrahimović,2022,5,Sweden,Malmö,Sweden,3/10/81 0:00,Centre-Forward,Attack,right,195,46000000,Team Raiola,IT1,AC Milan
+3458,Lomana LuaLua,2015,19771,Zaire,Kinshasa,DR Congo,28/12/80 0:00,Centre-Forward,Attack,right,180,6000000,D&B SPORTS,TR1,Akhisarspor
+3461,Jermaine Jenas,2012,1039,England,Nottingham,England,18/2/83 0:00,Central Midfield,Midfield,right,181,15000000,,GB1,Queens Park Rangers
+3466,Kevin Stuhr-Ellegaard,2021,1053,Denmark,Kopenhagen,Denmark,23/5/83 0:00,Goalkeeper,Goalkeeper,right,196,1500000,NSG ApS,DK1,Aalborg BK
+3467,Shaun Wright-Phillips,2014,1039,England,London,England,25/10/81 0:00,Right Winger,Attack,right,166,31500000,Darren Dein,GB1,Queens Park Rangers
+3473,Thomas Sörensen,2014,512,Denmark,Fredericia,Denmark,12/6/76 0:00,Goalkeeper,Goalkeeper,right,196,6500000,,GB1,Stoke City
+3476,Brad Friedel,2014,148,United States,"Lakewood, Ohio",United States,18/5/71 0:00,Goalkeeper,Goalkeeper,Right,174,4000000,,GB1,Tottenham Hotspur
+3480,Hugo Viana,2012,1075,Portugal,Barcelos,Portugal,15/1/83 0:00,Attacking Midfield,Midfield,left,178,9000000,Gestifute,PO1,SC Braga
+3495,Dudu Aouate,2012,237,Israel,Nazareth Illit,Israel,17/10/77 0:00,Goalkeeper,Goalkeeper,Right,188,3500000,,ES1,RCD Mallorca
+3507,Christian Abbiati,2015,5,Italy,Abbiategrasso,Italy,8/7/77 0:00,Goalkeeper,Goalkeeper,right,191,6500000,,IT1,AC Milan
+3515,Mark van Bommel,2012,383,Netherlands,Maasbracht,Netherlands,22/4/77 0:00,Defensive Midfield,Midfield,right,186,15000000,,NL1,PSV Eindhoven
+3525,Sylvain Armand,2016,273,France,Saint-Étienne,France,1/8/80 0:00,Left-Back,Defender,left,182,7500000,Léandre Chouya,FR1,Stade Rennais FC
+3530,Jan Polak,2013,82,CSSR,Brünn,Czech Republic,14/3/81 0:00,Defensive Midfield,Midfield,right,181,7500000,,L1,VfL Wolfsburg
+3531,Robert Vittek,2012,6890,CSSR,Bratislava,Slovakia,1/4/82 0:00,Centre-Forward,Attack,both,188,6000000,,TR1,Basaksehir FK
+3534,Roy Carroll,2013,683,Northern Ireland,Enniskillen,Northern Ireland,30/9/77 0:00,Goalkeeper,Goalkeeper,right,189,2700000,,GR1,Olympiacos Piraeus
+3535,Ricardo,2012,331,Spain,Madrid,Spain,30/12/71 0:00,Goalkeeper,Goalkeeper,left,187,4400000,GLOBAL ASES,ES1,CA Osasuna
+3539,Luke Steele,2017,265,England,Peterborough,England,24/9/84 0:00,Goalkeeper,Goalkeeper,right,188,1500000,,GR1,Panathinaikos Athens
+3540,John O'Shea,2016,289,Ireland,Waterford,Ireland,30/4/81 0:00,Centre-Back,Defender,right,192,7000000,,GB1,Sunderland AFC
+3547,Darren Fletcher,2017,512,Scotland,Dalkeith,Scotland,1/2/84 0:00,Central Midfield,Midfield,right,184,22000000,,GB1,Stoke City
+3548,Kieran Richardson,2015,405,England,London,England,21/10/84 0:00,Left-Back,Defender,left,177,8250000,,GB1,Aston Villa
+3560,Jerome Thomas,2014,873,England,London,England,23/3/83 0:00,Left Winger,Attack,left,177,3500000,,GB1,Crystal Palace
+3562,Steve Harper,2015,289,England,Easington,England,14/3/75 0:00,Goalkeeper,Goalkeeper,right,188,3000000,,GB1,Sunderland AFC
+3564,Adam Collin,2015,370,England,Penrith,England,9/12/84 0:00,Goalkeeper,Goalkeeper,right,195,250000,,SC1,Aberdeen FC
+3569,Steed Malbranque,2016,1162,Belgium,Mouscron,France,6/1/80 0:00,Central Midfield,Midfield,right,171,9000000,,FR1,SM Caen
+3573,Julien Escudé,2012,114,France,Chartres,France,17/8/79 0:00,Centre-Back,Defender,left,184,7000000,,TR1,Besiktas JK
+3575,Mickaël Landreau,2013,595,France,Machecoul,France,14/5/79 0:00,Goalkeeper,Goalkeeper,right,184,11000000,JL Sport Consulting,FR1,SC Bastia
+3580,Aaron Hughes,2018,43,Northern Ireland,Cookstown,Northern Ireland,8/11/79 0:00,Centre-Back,Defender,right,183,5500000,CAA Stellar,SC1,Heart of Midlothian FC
+3583,Steve Simonsen,2012,511,England,South Shields,England,3/4/79 0:00,Goalkeeper,Goalkeeper,right,187,2500000,,SC1,Dundee FC
+3589,Gary Naysmith,2012,370,Scotland,Edinburgh,Scotland,16/11/78 0:00,Left-Back,Defender,left,178,2000000,,SC1,Aberdeen FC
+3597,Jamie Carragher,2012,31,England,Bootle,England,28/1/78 0:00,Centre-Back,Defender,right,185,19000000,Wasserman,GB1,Liverpool FC
+3613,Sean O'Hanlon,2012,903,England,Liverpool,England,2/1/83 0:00,Centre-Back,Defender,right,185,425000,,SC1,Hibernian FC
+3614,Tony Hibbert,2015,29,England,Liverpool,England,20/2/81 0:00,Right-Back,Defender,right,173,4500000,,GB1,Everton FC
+3620,Leon Osman,2015,29,England,Wigan,England,17/5/81 0:00,Central Midfield,Midfield,right,173,8000000,CAA Stellar,GB1,Everton FC
+3630,Paul Robinson,2016,1132,England,Beverley,England,15/10/79 0:00,Goalkeeper,Goalkeeper,right,193,9000000,SEM Group plc.,GB1,Burnley FC
+3634,Ian Harte,2012,1032,Ireland,Drogheda,Ireland,31/8/77 0:00,Left-Back,Defender,left,175,3500000,,GB1,Reading FC
+3640,Mark Hudson,2013,603,England,Guildford,England,30/3/82 0:00,Centre-Back,Defender,right,187,1250000,,GB1,Cardiff City
+3666,Jason Roberts,2012,1032,England,London,Grenada,25/1/78 0:00,Centre-Forward,Attack,right,185,4000000,,GB1,Reading FC
+3668,Lloyd Dyer,2015,1010,England,Birmingham,England,13/9/82 0:00,Left Midfield,Midfield,left,173,1000000,,GB1,Watford FC
+3682,Wayne Bridge,2012,281,England,Southampton,England,5/8/80 0:00,Left-Back,Defender,left,178,9000000,,GB1,Manchester City
+3692,Jussi Jääskeläinen,2014,379,Finland,Mikkeli,Finland,19/4/75 0:00,Goalkeeper,Goalkeeper,right,191,5750000,,GB1,West Ham United
+3698,Anton Ferdinand,2018,465,England,London,England,18/2/85 0:00,Centre-Back,Defender,right,185,7000000,,SC1,St. Mirren FC
+3707,Bernard Mendy,2012,3911,France,Évreux,France,20/8/81 0:00,Right-Back,Defender,right,180,8500000,,FR1,Stade Brestois 29
+3713,Massimo Maccarone,2016,749,Italy,Galliate,Italy,6/9/79 0:00,Centre-Forward,Attack,right,180,6500000,Assist,IT1,FC Empoli
+3719,Peter Enckelman,2012,43,Finland,Turku,Finland,10/3/77 0:00,Goalkeeper,Goalkeeper,right,188,1500000,,SC1,Heart of Midlothian FC
+3730,Kim Källström,2014,232,Sweden,Sandviken,Sweden,24/8/82 0:00,Central Midfield,Midfield,left,185,11500000,Roger Ljung,RU1,Spartak Moscow
+3753,Georgios Theodoridis,2014,6418,Germany,Frankfurt am Main,Greece,3/7/80 0:00,Attacking Midfield,Midfield,Right,174,1300000,Socceragent24,GR1,Panetolikos GFS
+3755,Óscar Ustari,2013,289,Argentina,América,Argentina,3/7/86 0:00,Goalkeeper,Goalkeeper,right,183,7000000,Primotempo,GB1,Sunderland AFC
+3762,Peter Whittingham,2013,603,England,Nuneaton,England,8/9/84 0:00,Central Midfield,Midfield,left,177,2750000,,GB1,Cardiff City
+3771,Raúl Bravo,2015,2079,Spain,Gandia,Spain,14/4/81 0:00,Centre-Back,Defender,left,181,4000000,,GR1,Veria NPS
+3775,George McCartney,2013,379,Northern Ireland,Belfast,Northern Ireland,29/4/81 0:00,Left-Back,Defender,left,183,4000000,,GB1,West Ham United
+3783,Sam Parkin,2012,465,England,Roehampton,Scotland,14/3/81 0:00,Centre-Forward,Attack,left,188,800000,,SC1,St. Mirren FC
+3785,Scott Parker,2013,931,England,London,England,13/10/80 0:00,Central Midfield,Midfield,right,180,18000000,,GB1,Fulham FC
+3788,Matthew Etherington,2013,512,England,Truro,England,14/8/81 0:00,Left Midfield,Midfield,left,178,7000000,TMUS Sports,GB1,Stoke City
+3791,Gary Caldwell,2012,1071,Scotland,Stirling,Scotland,12/4/82 0:00,Centre-Back,Defender,right,185,5250000,,GB1,Wigan Athletic
+3804,Carlo Nash,2013,1123,England,Bolton,England,13/9/73 0:00,Goalkeeper,Goalkeeper,right,197,800000,,GB1,Norwich City
+3807,Richard Dunne,2014,1039,Ireland,Dublin,Ireland,21/9/79 0:00,Centre-Back,Defender,right,188,12000000,,GB1,Queens Park Rangers
+3816,Sofian Chahed,2012,42,Germany,Berlin,Tunisia,18/4/83 0:00,Right-Back,Defender,Right,174,2000000,,L1,Hannover 96
+3817,Malik Fathi,2013,39,Germany,Berlin,Germany,29/10/83 0:00,Left-Back,Defender,left,185,4000000,ISM Matchplan GmbH,L1,1.FSV Mainz 05
+3824,Gordon Greer,2017,2553,Scotland,Glasgow,Scotland,14/12/80 0:00,Centre-Back,Defender,right,192,500000,,SC1,Kilmarnock FC
+3825,Jay McEveley,2016,2759,England,Liverpool,Scotland,11/2/85 0:00,Centre-Back,Defender,left,186,1250000,,SC1,Ross County FC
+3838,Boaz Myhill,2017,984,United States,"Modesto, Kalifornien",Wales,9/11/82 0:00,Goalkeeper,Goalkeeper,right,191,3500000,,GB1,West Bromwich Albion
+3851,Jan-Ingwer Callsen-Bracker,2018,167,Germany,Schleswig,Germany,23/9/84 0:00,Centre-Back,Defender,right,188,2500000,,L1,FC Augsburg
+3869,Andrew Davies,2018,511,England,Stockton-on-Tees,England,17/12/84 0:00,Centre-Back,Defender,right,190,1100000,,SC1,Dundee FC
+3875,Jermain Defoe,2021,124,England,London,England,7/10/82 0:00,Centre-Forward,Attack,right,171,18000000,Wasserman,SC1,Rangers FC
+3876,Joe Cole,2015,405,England,London,England,8/11/81 0:00,Attacking Midfield,Midfield,right,176,21000000,Skillequal Ltd.,GB1,Aston Villa
+3878,Michael Carrick,2017,985,England,Wallsend,England,28/7/81 0:00,Defensive Midfield,Midfield,right,189,26500000,10Ten Football,GB1,Manchester United
+3881,Glen Johnson,2017,512,England,London,England,23/8/84 0:00,Right-Back,Defender,both,182,17000000,CAA Stellar,GB1,Stoke City
+3890,Eduardo,2013,1147,Brazil,São João do Piauí,Brazil,5/8/80 0:00,Centre-Forward,Attack,right,178,2500000,,FR1,AC Ajaccio
+3900,Henri Camara,2015,6418,Senegal,Dakar,Senegal,10/5/77 0:00,Centre-Forward,Attack,both,178,6500000,Willie McKay,GR1,Panetolikos GFS
+3901,Pierre-Alain Frau,2013,750,France,Montbéliard,France,15/4/80 0:00,Centre-Forward,Attack,right,175,8750000,,FR1,FC Sochaux-Montbéliard
+3913,Omar Daf,2012,750,Senegal,Dakar,Senegal,12/2/77 0:00,Right-Back,Defender,right,177,2000000,,FR1,FC Sochaux-Montbéliard
+3914,Pascal Feindouno,2012,2292,Guinea,Conakry,Guinea,27/2/81 0:00,Right Winger,Attack,right,176,7500000,ISM,TR1,Elazigspor
+3916,Péguy Luyindula,2012,583,Zaire,Kinshasa,France,25/5/79 0:00,Centre-Forward,Attack,right,178,11250000,,FR1,Paris Saint-Germain
+3924,Didier Drogba,2014,631,Cote d'Ivoire,Abidjan,Cote d'Ivoire,11/3/78 0:00,Centre-Forward,Attack,both,189,40000000,,GB1,Chelsea FC
+3926,Marama Vahirua,2012,7185,Tahiti,Papeete,Tahiti,12/5/80 0:00,Second Striker,Attack,right,168,5000000,,GR1,Panthrakikos Komotini
+3942,Martin Lanig,2014,24,Germany,Bad Mergentheim,Germany,15/10/83 0:00,Defensive Midfield,Midfield,right,190,3500000,,L1,Eintracht Frankfurt
+3947,Henrik Pedersen,2012,1177,Denmark,Kopenhagen,Denmark,10/6/75 0:00,Centre-Forward,Attack,right,185,2000000,,DK1,Silkeborg IF
+3950,Kevin Nolan,2015,379,England,Liverpool,England,24/6/82 0:00,Attacking Midfield,Midfield,right,183,8000000,,GB1,West Ham United
+3966,Djibril Cissé,2014,595,France,Arles,France,12/8/81 0:00,Centre-Forward,Attack,right,182,20000000,TTMA,FR1,SC Bastia
+3975,Domi Kumbela,2014,1506,Zaire,Kinshasa,DR Congo,20/4/84 0:00,Centre-Forward,Attack,right,172,1750000,KL Sportsbase,TR1,Kardemir Karabükspor
+3978,Svetoslav Todorov,2012,6996,Bulgaria,Dobrich,Bulgaria,30/8/78 0:00,Centre-Forward,Attack,right,183,5000000,,UKR1,Goverla Uzhgorod (- 2016)
+3979,Iker Casillas,2018,720,Spain,Móstoles,Spain,20/5/81 0:00,Goalkeeper,Goalkeeper,left,182,35000000,,PO1,FC Porto
+3989,Dmitriy Sychev,2013,932,UdSSR,Omsk,Russia,26/10/83 0:00,Centre-Forward,Attack,right,176,10000000,Pavel Andreev,RU1,Lokomotiv Moscow
+3995,Gary O'Neil,2015,1123,England,London,England,18/5/83 0:00,Central Midfield,Midfield,right,174,7500000,CMG Sports,GB1,Norwich City
+4010,Dirk Kuyt,2016,234,Netherlands,Katwijk,Netherlands,22/7/80 0:00,Right Winger,Attack,right,184,20000000,,NL1,Feyenoord Rotterdam
+4015,Louis Saha,2012,398,France,Paris,France,8/8/78 0:00,Centre-Forward,Attack,left,182,18000000,CAA Stellar,IT1,SS Lazio
+4018,Daniel Baier,2019,167,Germany,Köln,Germany,18/5/84 0:00,Defensive Midfield,Midfield,right,176,3500000,Robert Schneider,L1,FC Augsburg
+4042,Brad Jones,2017,234,Australia,Armadale,Australia,19/3/82 0:00,Goalkeeper,Goalkeeper,left,194,2000000,,NL1,Feyenoord Rotterdam
+4055,Dean Marney,2017,1132,England,London,England,31/1/84 0:00,Central Midfield,Midfield,right,183,3000000,,GB1,Burnley FC
+4056,Simon Davies,2012,931,Wales,Haverfordwest,Wales,23/10/79 0:00,Right Midfield,Midfield,right,178,5500000,TMUS Sports,GB1,Fulham FC
+4058,Lee Barnard,2012,180,England,London,England,18/7/84 0:00,Centre-Forward,Attack,right,178,500000,,GB1,Southampton FC
+4063,Stewart Downing,2016,641,England,Middlesbrough,England,22/7/84 0:00,Left Winger,Attack,left,180,16000000,Wasserman,GB1,Middlesbrough FC
+4070,Liam Ridgewell,2013,984,England,London,England,21/7/84 0:00,Centre-Back,Defender,both,188,4500000,SEM Group plc.,GB1,West Bromwich Albion
+4072,Peter Crouch,2018,1132,England,Macclesfield,England,30/1/81 0:00,Centre-Forward,Attack,right,201,12000000,CAA Stellar,GB1,Burnley FC
+4075,Luke Moore,2013,2292,England,Birmingham,England,13/2/86 0:00,Centre-Forward,Attack,Right,180,3750000,,TR1,Elazigspor
+4086,Darren Ambrose,2013,441,England,Harlow,England,29/2/84 0:00,Left Midfield,Midfield,right,183,2000000,,GR1,Apollon Smyrnis
+4094,Frazer Richardson,2012,180,England,Rotherham,England,29/10/82 0:00,Right-Back,Defender,right,180,1000000,,GB1,Southampton FC
+4095,Matthew Kilgallon,2018,2999,England,York,England,8/1/84 0:00,Centre-Back,Defender,Right,185,2000000,,SC1,Hamilton Academical FC
+4111,Garry Monk,2013,2288,England,Bedford,England,6/3/79 0:00,Centre-Back,Defender,right,183,1250000,,GB1,Swansea City
+4112,Rory Delap,2012,512,England,Sutton Coldfield,Ireland,6/7/76 0:00,Central Midfield,Midfield,right,183,5500000,,GB1,Stoke City
+4115,Chris Baird,2014,984,Northern Ireland,Rasharkin,Northern Ireland,25/2/82 0:00,Defensive Midfield,Midfield,right,185,4000000,Midas Sports,GB1,West Bromwich Albion
+4133,Richie Ryan,2012,1519,Ireland,Tipperary,Ireland,6/1/85 0:00,Defensive Midfield,Midfield,both,178,350000,Topnotch Management,SC1,Dundee United FC
+4158,Anthony Lurling,2013,132,Netherlands,Den Bosch,Netherlands,22/4/77 0:00,Attacking Midfield,Midfield,right,173,2500000,Juzzt Football,NL1,NAC Breda
+4188,Ricardo Quaresma,2021,2420,Portugal,Lisboa,Portugal,26/9/83 0:00,Right Winger,Attack,right,175,25000000,,PO1,Vitória Guimarães SC
+4190,Brian Murphy,2018,603,Ireland,Waterford,Ireland,7/5/83 0:00,Goalkeeper,Goalkeeper,right,185,500000,,GB1,Cardiff City
+4192,Rafael van der Vaart,2018,3426,Netherlands,Heemskerk,Netherlands,11/2/83 0:00,Attacking Midfield,Midfield,Right,174,26000000,Robert Geerlings,DK1,Esbjerg fB
+4205,Bobby Zamora,2014,1039,England,London,England,16/1/81 0:00,Centre-Forward,Attack,left,184,8000000,,GB1,Queens Park Rangers
+4208,Dominik Reinhardt,2014,167,Germany,Leverkusen,Germany,19/12/84 0:00,Right-Back,Defender,Right,174,3500000,Soccer-Concept AG,L1,FC Augsburg
+4216,Florent Sinama-Pongolle,2015,1519,Réunion,Saint-Pierre,France,20/10/84 0:00,Second Striker,Attack,right,176,11000000,,SC1,Dundee United FC
+4217,Anthony Le Tallec,2016,3060,France,Hennebont,France,3/10/84 0:00,Centre-Forward,Attack,right,185,4500000,,GR1,Atromitos Athens
+4219,David Fox,2013,1123,England,Leek,England,13/12/83 0:00,Central Midfield,Midfield,right,175,2000000,Full Contact,GB1,Norwich City
+4233,Adam Federici,2017,989,Australia,Nowra,Australia,31/1/85 0:00,Goalkeeper,Goalkeeper,right,188,2000000,,GB1,AFC Bournemouth
+4241,Joleon Lescott,2016,2441,England,Birmingham,England,16/8/82 0:00,Centre-Back,Defender,left,191,17000000,Wasserman,GR1,AEK Athens
+4248,Diego,2015,36,Brazil,Ribeirão Preto,Brazil,28/2/85 0:00,Attacking Midfield,Midfield,right,173,29000000,,TR1,Fenerbahce
+4251,Callum Davidson,2013,2578,Scotland,Stirling,Scotland,25/6/76 0:00,Left-Back,Defender,left,178,1250000,,SC1,St. Johnstone FC
+4257,Samuel Eto'o,2017,2293,Cameroon,Douala,Cameroon,10/3/81 0:00,Centre-Forward,Attack,both,180,42000000,,TR1,Konyaspor
+4267,Tim Howard,2015,29,United States,"North Brunswick, New Jersey",United States,6/3/79 0:00,Goalkeeper,Goalkeeper,right,191,10000000,Wasserman,GB1,Everton FC
+4276,Carlos Tevez,2014,506,Argentina,Ciudadela,Argentina,5/2/84 0:00,Second Striker,Attack,right,171,40000000,,IT1,Juventus FC
+4277,Philippe Senderos,2016,124,Switzerland,Genf,Switzerland,14/2/85 0:00,Centre-Back,Defender,right,189,9700000,,SC1,Rangers FC
+4310,Bogdan Lobont,2017,12,Romania,Hunedoara,Romania,18/1/78 0:00,Goalkeeper,Goalkeeper,right,185,3000000,,IT1,AS Roma
+4311,Maarten Stekelenburg,2022,610,,Haarlem,,22/9/82 0:00,Goalkeeper,Goalkeeper,right,197,11000000,Wasserman,NL1,Ajax Amsterdam
+4314,Cristian Chivu,2013,46,Romania,Reşiţa,Romania,26/10/80 0:00,Centre-Back,Defender,left,184,24000000,Ioan Becali,IT1,Inter Milan
+4315,Johnny Heitinga,2015,610,Netherlands,Alphen aan den Rijn,Netherlands,15/11/83 0:00,Centre-Back,Defender,right,180,12000000,,NL1,Ajax Amsterdam
+4316,Petri Pasanen,2013,678,Finland,Lahti,Finland,24/9/80 0:00,Centre-Back,Defender,Right,174,5000000,,DK1,Aarhus GF
+4317,Maxwell,2016,583,Brazil,Cachoeiro de Itapemirim,Brazil,27/8/81 0:00,Left-Back,Defender,left,176,13500000,Rafaela Pimenta,FR1,Paris Saint-Germain
+4321,Steven Pienaar,2016,289,South Africa,"Johannesburg, Gauteng",South Africa,17/3/82 0:00,Left Midfield,Midfield,both,170,11000000,ExtraTime S.L.,GB1,Sunderland AFC
+4323,Jelle Van Damme,2018,1096,Belgium,Lokeren,Belgium,10/10/83 0:00,Centre-Back,Defender,left,190,4500000,,BE1,Royal Antwerp FC
+4327,Nourdin Boukhari,2012,235,Netherlands,Rotterdam,Morocco,30/6/80 0:00,Attacking Midfield,Midfield,left,184,2000000,,NL1,RKC Waalwijk
+4334,Jelle ten Rouwelaar,2014,132,Netherlands,Joure,Netherlands,24/12/80 0:00,Goalkeeper,Goalkeeper,left,187,1500000,Soccer Vision ,NL1,NAC Breda
+4337,Kasper Bögelund,2012,1053,Denmark,Odense,Denmark,8/10/80 0:00,Right-Back,Defender,right,180,2300000,,DK1,Aalborg BK
+4338,Wilfred Bouma,2012,383,Netherlands,Helmond,Netherlands,15/6/78 0:00,Left-Back,Defender,left,181,5500000,,NL1,PSV Eindhoven
+4344,Michael Lamey,2013,235,Netherlands,Amsterdam,Netherlands,29/11/79 0:00,Right-Back,Defender,right,186,1200000,,NL1,RKC Waalwijk
+4349,Theo Lucius,2012,235,Netherlands,Veghel,Netherlands,19/12/76 0:00,Defensive Midfield,Midfield,right,184,3000000,Soccer-Solutions,NL1,RKC Waalwijk
+4351,Remco van der Schaaf,2012,5724,Netherlands,Ten Boer,Netherlands,28/2/79 0:00,Centre-Back,Defender,right,186,2000000,,DK1,Randers FC
+4357,Klaas-Jan Huntelaar,2020,610,Netherlands,Voor-Drempt,Netherlands,12/8/83 0:00,Centre-Forward,Attack,right,186,20000000,Soccer Vision ,NL1,Ajax Amsterdam
+4359,Adil Ramzi,2012,192,Morocco,Marrakesch,Morocco,14/7/77 0:00,Left Midfield,Midfield,right,179,1500000,,NL1,Roda JC Kerkrade
+4360,Arjen Robben,2020,202,Netherlands,Bedum,Netherlands,23/1/84 0:00,Right Winger,Attack,left,180,40000000,,NL1,FC Groningen
+4361,Dennis Rommedahl,2013,235,Denmark,Kopenhagen,Denmark,22/7/78 0:00,Right Winger,Attack,right,179,4000000,,NL1,RKC Waalwijk
+4371,Glenn Loovens,2012,142,Netherlands,Doetinchem,Netherlands,22/10/83 0:00,Centre-Back,Defender,right,188,3250000,Juzzt Football,ES1,Real Zaragoza
+4377,Thomas Buffel,2018,3508,Belgium,Brugge,Belgium,19/2/81 0:00,Right Winger,Attack,right,175,6500000,PROFI-MANAGEMENT,BE1,SV Zulte Waregem
+4380,Robin van Persie,2018,234,Netherlands,Rotterdam,Netherlands,6/8/83 0:00,Centre-Forward,Attack,left,183,47500000,SEG,NL1,Feyenoord Rotterdam
+4383,Johan Elmander,2015,206,Sweden,Alingsås,Sweden,27/5/81 0:00,Centre-Forward,Attack,right,188,12500000,ManMark S.A.,DK1,Bröndby IF
+4384,Yves Lenaerts,2015,2727,Belgium,Turnhout,Belgium,27/2/83 0:00,Goalkeeper,Goalkeeper,Right,187,500000,,BE1,Oud-Heverlee Leuven
+4391,Boy Waterman,2022,383,Netherlands,Lelystad,Netherlands,24/1/84 0:00,Goalkeeper,Goalkeeper,right,188,3000000,Juzzt Football,NL1,PSV Eindhoven
+4403,Daniel Jensen,2014,5817,Denmark,Kopenhagen,Denmark,25/6/79 0:00,Central Midfield,Midfield,Right,174,7000000,,DK1,SönderjyskE
+4408,Santi Kolk,2012,1268,Netherlands,Den Haag,Netherlands,2/10/81 0:00,Right Winger,Attack,Right,174,2250000,Juzzt Football,NL1,ADO Den Haag
+4410,Marcel Seip,2012,1426,Netherlands,Winschoten,Netherlands,5/4/82 0:00,Centre-Back,Defender,right,180,1500000,Perfect!,NL1,VVV-Venlo
+4415,Tim Cornelisse,2014,403,Netherlands,Alkmaar,Netherlands,3/4/78 0:00,Right-Back,Defender,right,185,1750000,,NL1,Willem II Tilburg
+4424,Nicky Hofs,2012,403,Netherlands,Arnhem,Netherlands,17/5/83 0:00,Attacking Midfield,Midfield,right,170,5000000,V4S,NL1,Willem II Tilburg
+4425,Theo Janssen,2012,499,Netherlands,Arnhem,Netherlands,27/7/81 0:00,Central Midfield,Midfield,left,180,7000000,,NL1,Vitesse Arnhem
+4429,Matthew Amoah,2013,1304,Ghana,Tema,Ghana,24/10/80 0:00,,Missing,right,178,2500000,,NL1,Heracles Almelo
+4451,Orlando Engelaar,2014,317,Netherlands,Rotterdam,Netherlands,24/8/79 0:00,Defensive Midfield,Midfield,Right,174,6000000,,NL1,Twente Enschede FC
+4452,Robbie Haemhouts,2018,132,Belgium,Brasschaat,Belgium,9/12/83 0:00,Central Midfield,Midfield,left,175,600000,,NL1,NAC Breda
+4456,Arne Slot,2012,1269,Netherlands,Bergentheim,Netherlands,17/9/78 0:00,Attacking Midfield,Midfield,right,185,1000000,Soccer Vision ,NL1,PEC Zwolle
+4471,Robert van Boxel,2013,133,Netherlands,Zwanenburg,Netherlands,20/1/83 0:00,Centre-Back,Defender,right,188,450000,,NL1,SC Cambuur Leeuwarden
+4487,Khalid Sinouh,2012,467,Netherlands,Amsterdam,Morocco,2/5/75 0:00,Goalkeeper,Goalkeeper,Right,174,1200000,,NL1,NEC Nijmegen
+4489,Khalid Boulahrouz,2014,234,Netherlands,Maassluis,Netherlands,28/12/81 0:00,Centre-Back,Defender,Right,174,13000000,Juzzt Football,NL1,Feyenoord Rotterdam
+4513,Dennis Gentenaar,2013,467,Netherlands,Nijmegen,Netherlands,30/9/75 0:00,Goalkeeper,Goalkeeper,Right,174,2500000,,NL1,NEC Nijmegen
+4517,Jeffrey Leiwakabessy,2016,467,Netherlands,Nijmegen,Netherlands,23/2/81 0:00,Left-Back,Defender,left,173,1200000,Winny Haatrecht,NL1,NEC Nijmegen
+4519,Rob Wielaert,2012,192,Netherlands,Emmeloord,Netherlands,29/12/78 0:00,Centre-Back,Defender,right,180,2600000,,NL1,Roda JC Kerkrade
+4520,Peter Wisgerhof,2013,317,Netherlands,Wageningen,Netherlands,19/11/79 0:00,Centre-Back,Defender,right,181,3000000,Soccer Vision ,NL1,Twente Enschede FC
+4531,Frank Demouge,2013,192,Netherlands,Nijmegen,Netherlands,25/6/82 0:00,Centre-Forward,Attack,right,191,1750000,,NL1,Roda JC Kerkrade
+4533,Anouar Hadouir,2018,798,Netherlands,Den Bosch,Netherlands,14/9/82 0:00,Attacking Midfield,Midfield,both,173,1750000,Grand Stand,NL1,Excelsior Rotterdam
+4538,Theo Zwarthoed,2018,132,Netherlands,Volendam,Netherlands,19/11/82 0:00,Goalkeeper,Goalkeeper,Right,188,400000,,NL1,NAC Breda
+4563,Joris Mathijsen,2014,234,Netherlands,Goirle,Netherlands,5/4/80 0:00,Centre-Back,Defender,Right,174,12000000,Juzzt Football,NL1,Feyenoord Rotterdam
+4570,Denny Landzaat,2012,317,Netherlands,Amsterdam,Netherlands,6/5/76 0:00,Central Midfield,Midfield,right,178,8000000,,NL1,Twente Enschede FC
+4573,Marcel Meeuwis,2012,1426,Netherlands,Goirle,Netherlands,31/10/80 0:00,Defensive Midfield,Midfield,Right,174,2000000,,NL1,VVV-Venlo
+4582,Sander Boschker,2013,317,Netherlands,Lichtenvoorde,Netherlands,20/10/70 0:00,Goalkeeper,Goalkeeper,left,186,850000,,NL1,Twente Enschede FC
+4592,Ji-sung Park,2012,1039,"Korea, South",Seoul,"Korea, South",25/2/81 0:00,Attacking Midfield,Midfield,both,178,12500000,,GB1,Queens Park Rangers
+4605,Vladan Kujovic,2014,2282,Jugoslawien (SFR),Niš,Serbia,23/8/78 0:00,Goalkeeper,Goalkeeper,right,185,800000,,BE1,Club Brugge KV
+4607,Roel Brouwers,2016,192,Netherlands,Heerlen,Netherlands,28/11/81 0:00,Centre-Back,Defender,right,192,3250000,Stefan Ristea,NL1,Roda JC Kerkrade
+4624,Jos Hooiveld,2017,317,Netherlands,Zeijen,Netherlands,22/4/83 0:00,Centre-Back,Defender,left,193,2000000,,NL1,Twente Enschede FC
+4634,Arnold Kruiswijk,2018,499,Netherlands,Groningen,Netherlands,2/11/84 0:00,Centre-Back,Defender,left,182,1500000,Soccer Vision ,NL1,Vitesse Arnhem
+4638,Joost Broerse,2014,1269,Netherlands,De Bilt,Netherlands,8/5/79 0:00,Centre-Back,Defender,left,184,900000,Soccer Vision ,NL1,PEC Zwolle
+4669,Mitchell Piqué,2012,403,Netherlands,Amsterdam,Netherlands,20/11/79 0:00,Left-Back,Defender,left,171,400000,,NL1,Willem II Tilburg
+4672,Nigel de Jong,2017,39,Netherlands,Amsterdam,Netherlands,30/11/84 0:00,Defensive Midfield,Midfield,right,174,21000000,Juzzt Football,L1,1.FSV Mainz 05
+4673,Wesley Sneijder,2017,417,Netherlands,Utrecht,Netherlands,9/6/84 0:00,Attacking Midfield,Midfield,both,170,45000000,PUM,FR1,OGC Nice
+4676,Cedric van der Gun,2013,200,Netherlands,Den Haag,Netherlands,5/5/79 0:00,Centre-Forward,Attack,Right,174,1500000,Joris Coppes,NL1,FC Utrecht
+4678,Markus Berger,2015,7179,Austria,Salzburg,Austria,21/1/85 0:00,Centre-Back,Defender,right,186,1700000,,PO1,CD Tondela
+4687,Aaron Hunt,2017,41,Germany,Goslar,Germany,4/9/86 0:00,Attacking Midfield,Midfield,left,183,7000000,,L1,Hamburger SV
+4691,Peter Niemeyer,2016,105,Germany,Mettingen,Germany,22/11/83 0:00,Defensive Midfield,Midfield,right,191,2500000,,L1,SV Darmstadt 98
+4693,Wilko de Vogt,2012,132,Netherlands,Breda,Netherlands,17/9/75 0:00,Goalkeeper,Goalkeeper,right,188,300000,,NL1,NAC Breda
+4698,Stijn Schaars,2018,306,Netherlands,Gendt,Netherlands,11/1/84 0:00,Defensive Midfield,Midfield,left,178,10000000,,NL1,SC Heerenveen
+4740,Daniel Van Buyten,2013,27,Belgium,Chimay,Belgium,7/2/78 0:00,Centre-Back,Defender,Right,174,15000000,,L1,Bayern Munich
+4742,Christophe Lepoint,2022,2715,,Brussel,,24/10/84 0:00,Central Midfield,Midfield,right,189,1700000,Eleven Plus,BE1,RFC Seraing
+4746,David Yelldell,2015,15,Germany,Stuttgart,United States,1/10/81 0:00,Goalkeeper,Goalkeeper,right,194,1200000,fair-sport GmbH,L1,Bayer 04 Leverkusen
+4750,Kenny Miller,2018,1241,Scotland,Edinburgh,Scotland,23/12/79 0:00,Centre-Forward,Attack,right,178,7000000,Avid Sports Group,SC1,Livingston FC
+4755,Grégory Vignal,2012,1519,France,Montpellier,France,19/7/81 0:00,Left-Back,Defender,Right,174,2000000,,SC1,Dundee United FC
+4763,Bo Storm,2014,5817,Denmark,Norburg,Denmark,3/2/87 0:00,Second Striker,Attack,left,170,400000,,DK1,SönderjyskE
+4793,Steve von Bergen,2012,458,Switzerland,Neuchâtel,Switzerland,10/6/83 0:00,Centre-Back,Defender,right,182,4000000,DS,IT1,Palermo FC
+4796,Kader Mangane,2017,667,Senegal,Thiès,Senegal,23/3/83 0:00,Centre-Back,Defender,right,193,7000000,,FR1,RC Strasbourg Alsace
+4811,Hilton,2020,969,Brazil,Brasília,Brazil,13/9/77 0:00,Centre-Back,Defender,right,180,6000000,,FR1,Montpellier HSC
+4829,Rabiu Afolabi,2012,5817,Nigeria,Osobo,Nigeria,18/4/80 0:00,Centre-Back,Defender,right,184,3800000,,DK1,SönderjyskE
+4873,Armand Deumi,2012,1506,Cameroon,Douala,Cameroon,12/3/79 0:00,Centre-Back,Defender,right,180,2000000,Hikmet Dagci,TR1,Kardemir Karabükspor
+4902,Lamine Diarra,2015,589,Senegal,Bignona,Senegal,20/12/83 0:00,Centre-Forward,Attack,right,175,3500000,,TR1,Antalyaspor
+5017,Niklas Moisander,2020,86,Finland,Turku,Finland,29/9/85 0:00,Centre-Back,Defender,left,183,6500000,,L1,SV Werder Bremen
+5023,Gianluigi Buffon,2020,506,Italy,Carrara,Italy,28/1/78 0:00,Goalkeeper,Goalkeeper,right,192,35000000,Assist,IT1,Juventus FC
+5072,Thomas Kessler,2019,3,Germany,Köln,Germany,20/1/86 0:00,Goalkeeper,Goalkeeper,right,197,2000000,Robert Schneider,L1,1.FC Köln
+5169,Hélder Postiga,2015,2425,Portugal,Vila do Conde,Portugal,2/8/82 0:00,Centre-Forward,Attack,right,182,11000000,,PO1,Rio Ave FC
+5245,Alexandru Gatcan,2019,1083,UdSSR,Chişinău,Moldova,27/3/84 0:00,Defensive Midfield,Midfield,right,186,2000000,,RU1,FK Rostov
+5278,Alexander Manninger,2016,31,Austria,Salzburg,Austria,4/6/77 0:00,Goalkeeper,Goalkeeper,Right,174,4500000,,GB1,Liverpool FC
+5281,Flavio Roma,2013,162,Italy,Roma,Italy,21/6/74 0:00,Goalkeeper,Goalkeeper,right,191,4250000,Oscar Damiani,FR1,AS Monaco
+5283,Éric Abidal,2014,683,France,Lyon,France,11/9/79 0:00,Left-Back,Defender,left,186,20000000,JCRsport,GR1,Olympiacos Piraeus
+5285,Patrice Evra,2017,244,Senegal,Dakar,France,15/5/81 0:00,Left-Back,Defender,left,174,27000000,,FR1,Olympique Marseille
+5286,Gaël Givet,2014,14171,France,Arles,France,9/10/81 0:00,Centre-Back,Defender,left,183,7500000,,FR1,Thonon Évian Grand Genève FC
+5293,Sébastien Squillaci,2016,595,France,Toulon,France,11/8/80 0:00,Centre-Back,Defender,right,185,18000000,Alain Migliaccio,FR1,SC Bastia
+5299,Ludovic Giuly,2012,1158,France,Lyon,France,10/7/76 0:00,Right Winger,Attack,right,164,15000000,,FR1,FC Lorient
+5300,Jérôme Rothen,2012,595,France,Châtenay-Malabry,France,31/3/78 0:00,Left Midfield,Midfield,left,177,15000000,,FR1,SC Bastia
+5303,Souleymane Camara,2019,969,Senegal,Dakar,Senegal,22/12/82 0:00,Right Winger,Attack,right,174,4000000,H2C Sport Consulting,FR1,Montpellier HSC
+5308,Cédric Carrasso,2017,141,France,Avignon,France,30/12/81 0:00,Goalkeeper,Goalkeeper,right,187,10000000,,TR1,Galatasaray
+5309,Damien Grégorini,2012,1159,France,Nice,France,2/3/79 0:00,Goalkeeper,Goalkeeper,right,194,2750000,,FR1,AS Nancy-Lorraine
+5315,Abdoulaye Méïté,2014,653,France,Paris,Cote d'Ivoire,6/10/80 0:00,Centre-Back,Defender,right,185,5000000,,GR1,OFI Crete FC
+5336,Anastasios Tsokanis,2022,60949,,Chalkida,,2/5/91 0:00,Defensive Midfield,Midfield,left,176,450000,Zafi Agent,GR1,Volos NPS
+5338,Rémy Vercoutre,2017,1162,France,Grande-Synthe,France,26/6/80 0:00,Goalkeeper,Goalkeeper,right,185,2500000,,FR1,SM Caen
+5339,Jérémie Bréchet,2015,3558,France,Lyon,France,14/8/79 0:00,Centre-Back,Defender,left,187,7000000,,FR1,GFC Ajaccio
+5345,Youssouf Hadji,2016,1159,Morocco,Ifrane Atlas Saghir,Morocco,25/2/80 0:00,Centre-Forward,Attack,right,183,5500000,,FR1,AS Nancy-Lorraine
+5348,Florent Balmont,2019,2969,France,Sainte-Foy-lès-Lyon,France,2/2/80 0:00,Central Midfield,Midfield,right,168,6500000,,FR1,Dijon FCO
+5352,Mahamadou Diarra,2013,931,Mali,Bamako,Mali,18/5/81 0:00,Defensive Midfield,Midfield,right,182,28000000,,GB1,Fulham FC
+5357,Sidney Govou,2012,14171,France,Le Puy-en-Velay,France,27/7/79 0:00,Right Winger,Attack,right,178,15000000,,FR1,Thonon Évian Grand Genève FC
+5376,Camel Meriem,2012,417,France,Audincourt,France,18/10/79 0:00,Attacking Midfield,Midfield,right,174,7500000,,FR1,OGC Nice
+5393,Sylvain Monsoreau,2012,1095,France,Saint-Cyr-l'École,France,20/3/81 0:00,Centre-Back,Defender,left,186,5000000,,FR1,ESTAC Troyes
+5399,Kamel Chafni,2012,3911,France,Bordeaux,Morocco,11/6/82 0:00,Attacking Midfield,Midfield,right,181,3300000,,FR1,Stade Brestois 29
+5404,Jérémy Mathieu,2019,336,France,Luxeuil-les-Bains,France,29/10/83 0:00,Left-Back,Defender,left,189,15000000,,PO1,Sporting CP
+5406,Benoît Pedretti,2016,1159,France,Audincourt,France,12/11/80 0:00,Defensive Midfield,Midfield,right,178,9000000,,FR1,AS Nancy-Lorraine
+5418,Jean-Alain Boumsong,2012,265,Cameroon,Douala,France,14/12/79 0:00,Centre-Back,Defender,right,190,10000000,,GR1,Panathinaikos Athens
+5422,Philippe Mexès,2015,5,France,Toulouse,France,30/3/82 0:00,Centre-Back,Defender,right,187,20000000,,IT1,AC Milan
+5430,Lionel Mathis,2015,855,France,Montreuil-sous-Bois,France,4/10/81 0:00,Defensive Midfield,Midfield,right,174,2000000,,FR1,EA Guingamp
+5431,Pantxi Sirieix,2016,415,France,Bordeaux,France,7/10/80 0:00,Central Midfield,Midfield,right,180,2000000,,FR1,FC Toulouse
+5438,Olivier Kapo,2013,2672,Cote d'Ivoire,Abidjan,France,27/9/80 0:00,Attacking Midfield,Midfield,left,184,6500000,,GR1,APO Levadiakos
+5439,Nicolas Marin,2013,128,France,Marseille,France,29/8/80 0:00,Right Midfield,Midfield,right,172,1700000,,GR1,AO Xanthi
+5444,Ronan Le Crom,2012,583,France,Lorient,France,13/7/74 0:00,Goalkeeper,Goalkeeper,right,186,1800000,,FR1,Paris Saint-Germain
+5451,Alaeddine Yahia,2016,1162,France,Colombes,Tunisia,26/9/81 0:00,Centre-Back,Defender,right,187,2600000,,FR1,SM Caen
+5452,Steeve Joseph-Reinette,2012,2696,France,Paris,France,2/12/83 0:00,Right-Back,Defender,right,182,400000,,RU1,Krylya Sovetov Samara
+5457,Gaël Danic,2016,595,France,Vannes,France,19/11/81 0:00,Left Winger,Attack,left,176,3500000,,FR1,SC Bastia
+5461,Florent Malouda,2014,347,French Guiana,Cayenne,France,13/6/80 0:00,Left Winger,Attack,left,177,20000000,,FR1,FC Metz
+5469,Sébastien Chabbert,2013,162,France,Pau,France,15/5/78 0:00,Goalkeeper,Goalkeeper,right,185,750000,,FR1,AS Monaco
+5470,Charles Itandje,2016,524,France,Bobigny,Cameroon,2/11/82 0:00,Goalkeeper,Goalkeeper,right,193,4500000,,TR1,Gaziantepspor (- 2020)
+5474,Zoumana Camara,2014,583,France,Colombes,France,3/4/79 0:00,Centre-Back,Defender,right,182,6000000,SVF FOOT,FR1,Paris Saint-Germain
+5477,Rod Fanni,2016,244,France,Martigues,France,6/12/81 0:00,Right-Back,Defender,right,186,7500000,,FR1,Olympique Marseille
+5486,Seydou Keita,2015,12,Mali,Bamako,Mali,16/1/80 0:00,Central Midfield,Midfield,left,183,16000000,,IT1,AS Roma
+5495,John Utaka,2014,2381,Nigeria,Enugu,Nigeria,8/1/82 0:00,Left Winger,Attack,right,182,10000000,Tekin Birinci,TR1,Sivasspor
+5501,Mauro Cetto,2012,458,Argentina,Rosario,Argentina,14/4/82 0:00,Centre-Back,Defender,right,182,4600000,USM GROUP ,IT1,Palermo FC
+5507,Mario Yepes,2013,800,Colombia,Cali,Colombia,13/1/76 0:00,Centre-Back,Defender,Right,174,10000000,USM GROUP ,IT1,Atalanta BC
+5509,Eric Djemba Djemba,2013,465,Cameroon,Douala,Cameroon,4/5/81 0:00,Defensive Midfield,Midfield,right,177,7000000,,SC1,St. Mirren FC
+5513,Jérémy Toulalan,2017,40,France,Nantes,France,10/9/83 0:00,Defensive Midfield,Midfield,right,183,22000000,One Team Football ,FR1,FC Girondins Bordeaux
+5516,Wilfried Dalmat,2013,6418,France,Tours,Saint-Martin,17/7/82 0:00,Right Winger,Attack,right,176,3500000,,GR1,Panetolikos GFS
+5518,Ariza Makukula,2013,653,Zaire,Kinshasa,Portugal,4/3/81 0:00,Centre-Forward,Attack,right,190,6000000,PRS,GR1,OFI Crete FC
+5521,Grégory Pujol,2015,3558,France,Paris,France,25/1/80 0:00,Centre-Forward,Attack,right,183,4000000,,FR1,GFC Ajaccio
+5539,Romain Pitau,2012,969,France,Douai,France,8/8/77 0:00,Defensive Midfield,Midfield,right,178,3000000,,FR1,Montpellier HSC
+5543,Cédric Varrault,2017,2969,France,Blois,France,30/1/80 0:00,Centre-Back,Defender,right,182,3000000,,FR1,Dijon FCO
+5544,Johan Audel,2015,995,France,Nizza,Martinique,12/12/83 0:00,Left Winger,Attack,Right,174,3500000,WSP Agency,FR1,FC Nantes
+5562,Hugo Leal,2012,1465,Portugal,Cascais,Portugal,21/5/80 0:00,Central Midfield,Midfield,right,180,2000000,,PO1,GD Estoril Praia
+5566,Romain Rocchi,2014,347,France,Cavaillon,France,2/10/81 0:00,Defensive Midfield,Midfield,right,183,1600000,,FR1,FC Metz
+5574,Bartholomew Ogbeche,2017,403,Nigeria,Ogoja,Nigeria,1/10/84 0:00,Centre-Forward,Attack,right,177,2500000,Libero Sports,NL1,Willem II Tilburg
+5576,Fabien Audard,2014,1158,France,Toulouse,France,28/3/78 0:00,Goalkeeper,Goalkeeper,left,188,3500000,,FR1,FC Lorient
+5578,Nicolas Penneteau,2022,1421,France,Marseille,France,28/2/81 0:00,Goalkeeper,Goalkeeper,left,185,2800000,USM GROUP ,FR1,Stade Reims
+5586,Anthar Yahia,2013,21957,France,Mulhouse,Algeria,21/3/82 0:00,Centre-Back,Defender,Right,174,3500000,,GR1,AO Platanias
+5588,Michael Essien,2015,265,Ghana,Accra,Ghana,3/12/82 0:00,Defensive Midfield,Midfield,right,178,38000000,,GR1,Panathinaikos Athens
+5592,Cyril Jeunechamp,2012,969,France,Nîmes,France,18/12/75 0:00,Defensive Midfield,Midfield,right,175,2500000,,FR1,Montpellier HSC
+5597,Chaouki Ben Saada,2017,1095,France,Bastia,Tunisia,1/7/84 0:00,Right Winger,Attack,left,176,2600000,SAS ASSIST & GOAL,FR1,ESTAC Troyes
+5614,Cédric Kanté,2013,750,France,Straßburg,Mali,6/7/79 0:00,Centre-Back,Defender,left,182,3500000,,FR1,FC Sochaux-Montbéliard
+5622,Guillaume Lacour,2015,1095,France,Courbevoie,France,2/8/80 0:00,Right-Back,Defender,right,173,2000000,,FR1,ESTAC Troyes
+5627,Fabrice Ehret,2013,14171,Switzerland,Lugano,France,28/9/79 0:00,Left-Back,Defender,Right,174,2000000,,FR1,Thonon Évian Grand Genève FC
+5635,Matthieu Chalmé,2013,40,France,Bruges,France,7/10/80 0:00,Right-Back,Defender,right,176,6000000,,FR1,FC Girondins Bordeaux
+5636,Matthieu Delpierre,2013,200,France,Nancy,France,26/4/81 0:00,Centre-Back,Defender,Right,174,7500000,,NL1,FC Utrecht
+5639,José Saez,2014,1162,Belgium,Menin,France,7/5/82 0:00,Central Midfield,Midfield,right,170,2750000,,FR1,SM Caen
+5645,Benoît Cheyrou,2014,244,France,Suresnes,France,3/5/81 0:00,Defensive Midfield,Midfield,left,182,11000000,,FR1,Olympique Marseille
+5648,Jean Makoun,2016,589,Cameroon,Yaoundé,Cameroon,29/5/83 0:00,Defensive Midfield,Midfield,right,173,16000000,,TR1,Antalyaspor
+5652,Marc-Antoine Fortuné,2012,984,French Guiana,Cayenne,French Guiana,2/7/81 0:00,Centre-Forward,Attack,right,183,4500000,,GB1,West Bromwich Albion
+5658,Petr Cech,2018,11,CSSR,Plzeň,Czech Republic,20/5/82 0:00,Goalkeeper,Goalkeeper,left,196,28500000,,GB1,Arsenal FC
+5664,Arnaud Le Lan,2012,1158,France,Pontivy,France,22/3/78 0:00,Left-Back,Defender,left,171,1500000,,FR1,FC Lorient
+5667,Sébastien Puygrenier,2013,1506,France,Limoges,France,28/1/82 0:00,Centre-Back,Defender,right,187,7500000,,TR1,Kardemir Karabükspor
+5668,Anthony Réveillère,2014,289,France,Doué-la-Fontaine,France,10/11/79 0:00,Right-Back,Defender,right,180,8500000,,GB1,Sunderland AFC
+5672,Étienne Didot,2018,855,France,Paimpol,France,24/7/83 0:00,Central Midfield,Midfield,right,175,7000000,,FR1,EA Guingamp
+5676,Olivier Sorlin,2014,14171,France,Saint-Étienne,France,9/4/79 0:00,Defensive Midfield,Midfield,right,182,4000000,,FR1,Thonon Évian Grand Genève FC
+5680,Toifilou Maoulida,2013,595,France,Kani-Kéli,France,8/6/79 0:00,Centre-Forward,Attack,right,184,3000000,,FR1,SC Bastia
+5686,Laurent Pionnier,2017,969,France,Bagnols-sur-Cèze,France,24/5/82 0:00,Goalkeeper,Goalkeeper,right,183,900000,,FR1,Montpellier HSC
+5687,Rudy Riou,2015,2727,France,Béziers,France,22/1/80 0:00,Goalkeeper,Goalkeeper,right,185,900000,David BONNAN,BE1,Oud-Heverlee Leuven
+5688,Jody Viviani,2012,128,France,La Ciotat,France,25/1/82 0:00,Goalkeeper,Goalkeeper,right,191,2500000,,GR1,AO Xanthi
+5698,Cédric Barbosa,2014,14171,France,Aubenas,France,6/3/76 0:00,Left Winger,Attack,right,179,3000000,,FR1,Thonon Évian Grand Genève FC
+5712,Bertrand Robert,2012,1091,Réunion,Saint-Benoît,Réunion,16/11/83 0:00,Left-Back,Defender,left,174,800000,,GR1,PAOK Thessaloniki
+5755,Emiliano Moretti,2018,416,Italy,Roma,Italy,11/6/81 0:00,Centre-Back,Defender,left,182,8000000,,IT1,Torino FC
+5768,Rubén Olivera,2013,430,Uruguay,Montevideo,Uruguay,4/5/83 0:00,Central Midfield,Midfield,right,184,8000000,,IT1,ACF Fiorentina
+5782,Emre Belözoglu,2019,36,Turkey,Istanbul,Turkey,7/9/80 0:00,Central Midfield,Midfield,left,170,12000000,Foot & Ball,TR1,Fenerbahce
+5793,Giovanni Pasquale,2015,410,Italy,Venaria Reale,Italy,5/1/82 0:00,Left-Back,Defender,left,182,5000000,,IT1,Udinese Calcio
+5794,Obafemi Martins,2012,3368,Nigeria,Lagos,Nigeria,28/10/84 0:00,Centre-Forward,Attack,both,170,16000000,pro-soccer-scout.com,ES1,Levante UD
+5812,Cristian Brocchi,2012,398,Italy,Milano,Italy,30/1/76 0:00,Central Midfield,Midfield,right,171,4000000,,IT1,SS Lazio
+5817,Andrea Pirlo,2014,506,Italy,Flero,Italy,19/5/79 0:00,Defensive Midfield,Midfield,both,177,36000000,TMP SOCCER srl ,IT1,Juventus FC
+5818,Massimo Ambrosini,2013,430,Italy,Pesaro,Italy,29/5/77 0:00,Central Midfield,Midfield,right,182,11000000,,IT1,ACF Fiorentina
+5825,Marco Borriello,2017,1390,Italy,Napoli,Italy,18/6/82 0:00,Centre-Forward,Attack,left,186,18500000,,IT1,Cagliari Calcio
+5853,Alfonso De Lucia,2013,1210,Italy,Nola,Italy,12/11/83 0:00,Goalkeeper,Goalkeeper,right,186,1600000,,IT1,US Livorno 1915
+5854,Sébastien Frey,2014,20,France,Thonon-les-Bains,France,18/3/80 0:00,Goalkeeper,Goalkeeper,right,190,20000000,CABINET OLYMPI.NET ,TR1,Bursaspor
+5856,Daniele Bonera,2018,1050,Italy,Brescia,Italy,31/5/81 0:00,Centre-Back,Defender,right,183,11000000,TMP SOCCER srl ,ES1,Villarreal CF
+5858,Paolo Cannavaro,2017,6574,Italy,Napoli,Italy,26/6/81 0:00,Centre-Back,Defender,right,185,9000000,,IT1,US Sassuolo
+5868,Matteo Brighi,2018,749,Italy,Rimini,Italy,14/2/81 0:00,Central Midfield,Midfield,right,178,13000000,,IT1,FC Empoli
+5870,Massimo Donati,2017,2999,Italy,San Vito al Tagliamento,Italy,26/3/81 0:00,Defensive Midfield,Midfield,right,189,6000000,,SC1,Hamilton Academical FC
+5873,Marco Marchionni,2015,1038,Italy,Monterotondo,Italy,22/7/80 0:00,Right Midfield,Midfield,right,173,10000000,,IT1,UC Sampdoria
+5878,Alberto Gilardino,2016,2921,Italy,Biella,Italy,5/7/82 0:00,Centre-Forward,Attack,right,184,30000000,,IT1,Delfino Pescara 1936
+5879,Adrian Mutu,2013,1147,Romania,Călinești,Romania,8/1/79 0:00,Centre-Forward,Attack,right,180,25000000,,FR1,AC Ajaccio
+5880,Morgan De Sanctis,2016,162,Italy,Guardiagrele,Italy,26/3/77 0:00,Goalkeeper,Goalkeeper,right,190,8000000,,FR1,AS Monaco
+5881,Olivier Renard,2013,172,Belgium,Haine-S.-P.,Belgium,24/5/79 0:00,Goalkeeper,Goalkeeper,Right,192,1500000,Eleven Management,BE1,RSC Charleroi
+5889,Thomas Manfredini,2014,6574,Italy,Ferrara,Italy,27/5/80 0:00,Centre-Back,Defender,left,182,5000000,,IT1,US Sassuolo
+5890,Sergio Almirón,2013,1627,Argentina,Santa Fé,Argentina,7/11/80 0:00,Central Midfield,Midfield,right,180,11000000,,IT1,Catania SSD
+5892,Martin Jörgensen,2013,678,Denmark,Ryomgård,Denmark,6/10/75 0:00,Central Midfield,Midfield,both,179,7000000,,DK1,Aarhus GF
+5893,Giampiero Pinzi,2015,410,Italy,Roma,Italy,11/3/81 0:00,Central Midfield,Midfield,right,180,4000000,,IT1,Udinese Calcio
+5896,David Pizarro,2014,430,Chile,Valparaíso,Chile,11/9/79 0:00,Central Midfield,Midfield,right,168,15000000,,IT1,ACF Fiorentina
+5904,Vincenzo Iaquinta,2012,506,Italy,Cutro,Italy,21/11/79 0:00,Centre-Forward,Attack,right,191,15000000,,IT1,Juventus FC
+5908,Cristiano Lupatelli,2014,430,Italy,Perugia,Italy,21/6/78 0:00,Goalkeeper,Goalkeeper,left,189,2500000,,IT1,ACF Fiorentina
+5917,John Mensah,2012,273,Ghana,Obuasi,Ghana,29/11/82 0:00,Centre-Back,Defender,right,180,7500000,,FR1,Stade Rennais FC
+5922,Simone Perrotta,2012,12,England,Ashton-under-Lyne,Italy,17/9/77 0:00,Attacking Midfield,Midfield,right,178,15000000,AGB Sport Management,IT1,AS Roma
+5925,Nicola Legrottaglie,2013,1627,Italy,Gioia del Colle,Italy,20/10/76 0:00,Centre-Back,Defender,right,189,6500000,,IT1,Catania SSD
+5928,Sergio Pellissier,2018,862,Italy,Aosta,Italy,12/4/79 0:00,Centre-Forward,Attack,right,175,7000000,Oscar Damiani,IT1,Chievo Verona
+5936,Ivan Pelizzoli,2012,2921,Italy,Bergamo,Italy,18/11/80 0:00,Goalkeeper,Goalkeeper,right,197,8000000,,IT1,Delfino Pescara 1936
+5938,Walter Samuel,2013,46,Argentina,Firmat,Argentina,23/3/78 0:00,Centre-Back,Defender,left,183,25000000,DCGLOBALSL,IT1,Inter Milan
+5942,Jonathan Zebina,2013,415,France,Paris,France,19/7/78 0:00,Centre-Back,Defender,right,189,8500000,,FR1,FC Toulouse
+5946,Cesare Bovo,2016,2921,Italy,Roma,Italy,14/1/83 0:00,Centre-Back,Defender,right,181,6500000,Gea World,IT1,Delfino Pescara 1936
+5947,Daniele De Rossi,2018,12,Italy,Roma,Italy,24/7/83 0:00,Defensive Midfield,Midfield,both,184,38000000,World Soccer Agency,IT1,AS Roma
+5948,Damiano Ferronetti,2012,252,Italy,Albano Laziale,Italy,1/11/84 0:00,Centre-Back,Defender,right,184,2300000,,IT1,Genoa CFC
+5957,Alberto Aquilani,2017,472,Italy,Roma,Italy,7/7/84 0:00,Central Midfield,Midfield,right,186,18000000,,ES1,UD Las Palmas
+5958,Francesco Totti,2016,12,Italy,Roma,Italy,27/9/76 0:00,Second Striker,Attack,both,180,40000000,,IT1,AS Roma
+5962,Antonio Cassano,2016,1038,Italy,Bari,Italy,12/7/82 0:00,Second Striker,Attack,right,175,25000000,AGB Sport Management,IT1,UC Sampdoria
+5966,Marius Stankevicius,2014,42,UdSSR,Kaunas,Lithuania,15/7/81 0:00,Centre-Back,Defender,right,190,3000000,,L1,Hannover 96
+5967,Anthony Seric,2013,4750,Australia,Sydney,Croatia,15/1/79 0:00,Left-Back,Defender,left,183,2300000,,PO1,SC Olhanense
+5970,Dario Dainelli,2017,862,Italy,Pontedera,Italy,9/6/79 0:00,Centre-Back,Defender,right,191,7000000,Sergio Berti,IT1,Chievo Verona
+5974,Matuzalém,2015,276,Brazil,Natal,Brazil,10/6/80 0:00,Defensive Midfield,Midfield,left,178,16000000,,IT1,Hellas Verona
+5976,Roberto Guana,2014,862,Italy,Brescia,Italy,21/1/81 0:00,Central Midfield,Midfield,right,178,4200000,,IT1,Chievo Verona
+5980,Luca Toni,2015,276,Italy,Pavullo nel Frignano,Italy,26/5/77 0:00,Centre-Forward,Attack,Right,174,28500000,,IT1,Hellas Verona
+5986,Ferdinando Coppola,2017,276,Italy,Napoli,Italy,10/6/78 0:00,Goalkeeper,Goalkeeper,right,188,4000000,,IT1,Hellas Verona
+5993,Cristian Zaccardo,2015,4102,Italy,Formigine,Italy,21/12/81 0:00,Centre-Back,Defender,Right,174,12000000,,IT1,AC Carpi
+6004,Alessandro Frara,2015,8970,Italy,Torino,Italy,7/11/82 0:00,Defensive Midfield,Midfield,right,177,650000,,IT1,Frosinone Calcio
+6012,Stefano Lucchini,2014,1429,Italy,Codogno,Italy,2/10/80 0:00,Centre-Back,Defender,right,186,4300000,TMP SOCCER srl ,IT1,Cesena FC
+6020,Francesco Tavano,2014,749,Italy,Caserta,Italy,2/3/79 0:00,Centre-Forward,Attack,right,173,8500000,Gea World,IT1,FC Empoli
+6026,Tommaso Rocchi,2012,46,Italy,Venezia,Italy,19/9/77 0:00,Centre-Forward,Attack,right,177,10500000,Oscar Damiani,IT1,Inter Milan
+6031,Antonio Di Natale,2015,410,Italy,Napoli,Italy,13/10/77 0:00,Centre-Forward,Attack,right,170,15000000,,IT1,Udinese Calcio
+6033,Francesco Lodi,2016,410,Italy,Napoli,Italy,23/3/84 0:00,Defensive Midfield,Midfield,left,183,7000000,Andrea Cattoli,IT1,Udinese Calcio
+6043,Stefano Mauri,2015,398,Italy,Monza,Italy,8/1/80 0:00,Attacking Midfield,Midfield,left,184,8500000,,IT1,SS Lazio
+6046,Giuseppe Sculli,2013,252,Italy,Locri,Italy,23/3/81 0:00,Left Winger,Attack,right,178,5000000,Gea World,IT1,Genoa CFC
+6053,Diomansy Kamara,2012,825,France,Paris,Senegal,8/11/80 0:00,Right Winger,Attack,both,184,9000000,,TR1,Eskisehirspor
+6058,Luca Castellazzi,2015,416,Italy,Gorgonzola,Italy,19/7/75 0:00,Goalkeeper,Goalkeeper,left,192,3700000,,IT1,Torino FC
+6065,Martin Jiranek,2013,3691,CSSR,Praha,Czech Republic,25/5/79 0:00,Centre-Back,Defender,right,190,5200000,,RU1,Tom Tomsk
+6073,Ricardo Verón,2013,653,Argentina,Santa Fé,Argentina,22/1/81 0:00,Central Midfield,Midfield,left,173,2500000,,GR1,OFI Crete FC
+6075,Erjon Bogdani,2012,1387,Albania,Tiranë,Albania,14/4/77 0:00,Centre-Forward,Attack,Right,174,6500000,,IT1,ACN Siena
+6076,David Di Michele,2012,862,Italy,Guidonia Montecelio,Italy,6/1/76 0:00,Centre-Forward,Attack,both,170,7500000,Danilo Caravello,IT1,Chievo Verona
+6087,Christian Obodo,2014,128,Nigeria,Warri,Nigeria,11/5/84 0:00,Central Midfield,Midfield,right,180,6750000,,GR1,AO Xanthi
+6090,Manuele Blasi,2012,2921,Italy,Civitavecchia,Italy,17/8/80 0:00,Central Midfield,Midfield,right,178,10000000,,IT1,Delfino Pescara 1936
+6097,Fabrizio Miccoli,2012,458,Italy,Nardò,Italy,27/6/79 0:00,Centre-Forward,Attack,right,168,15000000,ALESSIO SUNDAS,IT1,Palermo FC
+6106,Georgios Karagounis,2013,931,Greece,Pyrgos,Greece,6/3/77 0:00,Central Midfield,Midfield,right,176,8000000,,GB1,Fulham FC
+6107,Abdoulaye Faye,2013,3008,Senegal,Rufisque,Senegal,26/2/78 0:00,Centre-Back,Defender,left,187,4000000,Alister Veerasamy,GB1,Hull City
+6118,Mamadou Niang,2012,114,Senegal,Matam,Senegal,13/10/79 0:00,Centre-Forward,Attack,right,178,15000000,,TR1,Besiktas JK
+6119,Mohamed Sissoko,2014,3368,France,Mont-Saint-Aignan,Mali,22/1/85 0:00,Defensive Midfield,Midfield,right,191,16000000,,ES1,Levante UD
+6131,Tobias Rathgeb,2013,79,Germany,Ostfildern-Ruit,Germany,3/5/82 0:00,Defensive Midfield,Midfield,left,172,1800000,,L1,VfB Stuttgart
+6150,Fabricio Coloccini,2015,762,Argentina,Córdoba,Argentina,22/1/82 0:00,Centre-Back,Defender,right,184,10000000,Marcelo Lombilla,GB1,Newcastle United
+6157,Gaetano D'Agostino,2012,1387,Italy,Palermo,Italy,3/6/82 0:00,Central Midfield,Midfield,left,180,14000000,,IT1,ACN Siena
+6160,Mauricio Pinilla,2016,800,Chile,Santiago de Chile,Chile,4/2/84 0:00,Centre-Forward,Attack,right,187,5500000,UNOSPORTS ,IT1,Atalanta BC
+6176,Isaac Okoronkwo,2012,1083,Nigeria,Nbene,Nigeria,1/5/78 0:00,Centre-Back,Defender,right,183,1750000,,RU1,FK Rostov
+6233,Luciano,2012,862,Brazil,Rio de Janeiro,Brazil,3/12/75 0:00,Right Midfield,Midfield,right,180,7000000,,IT1,Chievo Verona
+6234,Amauri,2015,416,Brazil,Carapicuíba,Italy,3/6/80 0:00,Centre-Forward,Attack,right,188,20000000,,IT1,Torino FC
+6237,Stefan Kießling,2017,15,Germany,Lichtenfels,Germany,25/1/84 0:00,Centre-Forward,Attack,right,191,15000000,Soccer-Concept AG,L1,Bayer 04 Leverkusen
+6251,Dennis Souza,2013,441,Brazil,São Paulo,Brazil,9/1/80 0:00,Centre-Back,Defender,left,191,750000,,GR1,Apollon Smyrnis
+6267,Fabrice Pancrate,2013,995,France,Paris,France,2/5/80 0:00,Right Winger,Attack,right,187,4000000,,FR1,FC Nantes
+6270,Yohann Pelé,2020,244,France,Brou-sur-Chantereine,France,4/11/82 0:00,Goalkeeper,Goalkeeper,right,196,5000000,F12,FR1,Olympique Marseille
+6274,Grégory Cerdan,2013,855,France,Saint-Denis,France,28/7/82 0:00,Centre-Back,Defender,right,190,2500000,,FR1,EA Guingamp
+6278,Yoann Poulard,2012,1147,France,Saint-Nazaire,France,1/7/76 0:00,Centre-Back,Defender,right,190,1800000,,FR1,AC Ajaccio
+6287,Marco Caligiuri,2013,23,Germany,Villingen-Schwenningen,Germany,14/4/84 0:00,Centre-Back,Defender,right,180,2500000,,L1,Eintracht Braunschweig
+6288,Mario Gómez,2018,79,Germany,Riedlingen,Germany,10/7/85 0:00,Centre-Forward,Attack,right,189,42000000,fair-sport GmbH,L1,VfB Stuttgart
+6301,Andreas Lasnik,2013,169,Austria,Voitsberg,Austria,9/11/83 0:00,Attacking Midfield,Midfield,Right,174,1150000,,GR1,Panionios Athens
+6320,Danko Lazovic,2012,1083,Jugoslawien (SFR),Kragujevac,Serbia,17/5/83 0:00,Second Striker,Attack,Right,174,9000000,,RU1,FK Rostov
+6322,Patrick Helmes,2014,3,Germany,Köln,Germany,13/9/83 0:00,Centre-Forward,Attack,both,182,10000000,,L1,1.FC Köln
+6400,Donny de Groot,2012,403,Netherlands,Gouda,Netherlands,16/8/79 0:00,Centre-Forward,Attack,right,185,1200000,,NL1,Willem II Tilburg
+6403,Bas Sibum,2015,1304,Netherlands,Nieuw-Amsterdam,Netherlands,26/12/82 0:00,Central Midfield,Midfield,both,183,1250000,,NL1,Heracles Almelo
+6404,Dorus de Vries,2018,371,Netherlands,Beverwijk,Netherlands,29/12/80 0:00,Goalkeeper,Goalkeeper,right,191,750000,Soccer Vision ,SC1,Celtic FC
+6427,Marco Donadel,2013,276,Italy,Conegliano,Italy,21/4/83 0:00,Defensive Midfield,Midfield,right,179,9000000,,IT1,Hellas Verona
+6438,Cristian Ledesma,2016,265,Argentina,Buenos Aires,Italy,24/9/82 0:00,Defensive Midfield,Midfield,right,181,12000000,LUCA DE SIMONE,GR1,Panathinaikos Athens
+6442,Antonio Rosati,2021,430,Italy,Tivoli,Italy,26/6/83 0:00,Goalkeeper,Goalkeeper,right,195,2800000,World Soccer Agency,IT1,ACF Fiorentina
+6448,Mirko Vucinic,2013,506,Jugoslawien (SFR),Nikšić,Montenegro,1/10/83 0:00,Centre-Forward,Attack,right,186,25000000,World Soccer Agency,IT1,Juventus FC
+6457,Axel Bellinghausen,2012,38,Germany,Siegburg,Germany,17/5/83 0:00,Left Midfield,Midfield,left,182,2000000,Robert Schneider,L1,Fortuna Düsseldorf
+6585,Kalu Uche,2014,3368,Nigeria,Aba,Nigeria,15/11/82 0:00,Centre-Forward,Attack,right,180,5000000,Promoesport,ES1,Levante UD
+6590,Andreas Isaksson,2015,10484,Sweden,Smygehamn,Sweden,3/10/81 0:00,Goalkeeper,Goalkeeper,right,200,6000000,Roger Ljung,TR1,Kasimpasa
+6636,Christian Fuchs,2020,1003,Austria,Neunkirchen,Austria,7/4/86 0:00,Left-Back,Defender,left,187,7500000,YOU FIRST,GB1,Leicester City
+6645,Tranquillo Barnetta,2014,33,Switzerland,St. Gallen,Switzerland,22/5/85 0:00,Attacking Midfield,Midfield,Right,174,10000000,IFM,L1,FC Schalke 04
+6666,Mijat Maric,2018,498,Switzerland,Minusio,Switzerland,30/4/84 0:00,Centre-Back,Defender,right,188,1500000,,BE1,KSC Lokeren (- 2020)
+6710,Per Mertesacker,2017,11,Germany,Hannover,Germany,29/9/84 0:00,Centre-Back,Defender,right,200,20000000,ROOF,GB1,Arsenal FC
+6717,Giuseppe Colucci,2012,2921,Italy,San Giovanni Rotondo,Italy,24/8/80 0:00,Central Midfield,Midfield,right,180,3250000,,IT1,Delfino Pescara 1936
+6721,Mario Santana,2014,252,Argentina,Comodoro Rivadavia,Argentina,23/12/81 0:00,Second Striker,Attack,right,180,7500000,Piccioli&Lombardi,IT1,Genoa CFC
+6722,Stefano Morrone,2012,130,Italy,Cosenza,Italy,26/10/78 0:00,Central Midfield,Midfield,right,178,3500000,,IT1,Parma Calcio 1913
+6750,Maurizio Domizzi,2015,410,Italy,Roma,Italy,28/6/80 0:00,Centre-Back,Defender,left,185,5000000,,IT1,Udinese Calcio
+6764,Romeo Castelen,2017,1426,Suriname,Paramaribo,Netherlands,3/5/83 0:00,Right Winger,Attack,Right,174,7500000,Juzzt Football,NL1,VVV-Venlo
+6791,Kai Herdling,2015,533,Germany,Heidelberg,Germany,27/6/84 0:00,Left Winger,Attack,right,180,750000,,L1,TSG 1899 Hoffenheim
+6792,Luca Antonini,2014,252,Italy,Milano,Italy,4/8/82 0:00,Left-Back,Defender,right,181,7000000,,IT1,Genoa CFC
+6793,Angelo Palombo,2016,1038,Italy,Ferentino,Italy,25/9/81 0:00,Defensive Midfield,Midfield,right,177,12500000,,IT1,UC Sampdoria
+6803,Henri Bedimo,2017,244,Cameroon,Douala,Cameroon,4/6/84 0:00,Left-Back,Defender,left,180,4500000,USM GROUP ,FR1,Olympique Marseille
+6807,Simone Farelli,2020,12,Italy,Roma,Italy,19/2/83 0:00,Goalkeeper,Goalkeeper,right,186,200000,,IT1,AS Roma
+6824,Charles Takyi,2012,2414,Ghana,Accra,Ghana,12/11/84 0:00,Attacking Midfield,Midfield,right,177,2000000,,DK1,AC Horsens
+6832,Luciano Zauri,2012,2921,Italy,Pescina,Italy,20/1/78 0:00,Right-Back,Defender,right,178,6500000,,IT1,Delfino Pescara 1936
+6838,Henok Goitom,2015,3709,Sweden,Solna,Eritrea,22/9/84 0:00,Centre-Forward,Attack,right,189,3200000,,ES1,Getafe CF
+6852,Maurizio Lanzaro,2012,142,Italy,Avellino,Italy,14/3/82 0:00,Centre-Back,Defender,right,183,2000000,,ES1,Real Zaragoza
+6853,Mark-Jan Fledderus,2016,1304,Netherlands,Coevorden,Netherlands,14/12/82 0:00,Left-Back,Defender,left,177,1000000,,NL1,Heracles Almelo
+6855,Georgios Samaras,2014,984,Greece,Heraklion,Greece,21/2/85 0:00,Left Winger,Attack,right,193,8500000,Juzzt Football,GB1,West Bromwich Albion
+6860,Orhan Ak,2012,2292,Turkey,Adapazarı,Turkey,29/9/79 0:00,Centre-Back,Defender,left,179,2600000,,TR1,Elazigspor
+6861,Karel D'Haene,2015,3508,Belgium,Kortrijk,Belgium,5/9/80 0:00,Centre-Back,Defender,both,184,2500000,,BE1,SV Zulte Waregem
+6866,Cihan Haspolatli,2012,6890,Turkey,Diyarbakir,Turkey,4/1/80 0:00,Defensive Midfield,Midfield,right,184,3000000,,TR1,Basaksehir FK
+6871,Gökdeniz Karadeniz,2017,2698,Turkey,Giresun,Turkey,11/1/80 0:00,Left Winger,Attack,right,168,9500000,,RU1,Rubin Kazan
+6873,Sinan Kaloglu,2015,3216,Turkey,Tunceli,Turkey,10/6/81 0:00,Centre-Forward,Attack,both,188,2800000,,TR1,Mersin Talimyurdu SK
+6893,Gabriel Tamas,2012,984,Romania,Brașov,Romania,9/11/83 0:00,Centre-Back,Defender,right,188,4000000,Elite Soccer Sarl,GB1,West Bromwich Albion
+6910,Hasan Ücüncü,2012,3216,Turkey,Trabzon,Turkey,16/11/80 0:00,Defensive Midfield,Midfield,right,177,2250000,,TR1,Mersin Talimyurdu SK
+6911,Gökhan Zan,2014,141,Turkey,Hatay,Turkey,7/9/81 0:00,Centre-Back,Defender,right,192,5800000,Stars & Friends,TR1,Galatasaray
+6912,Erdinc Yavuz,2013,2293,Turkey,Kayseri,Turkey,4/10/78 0:00,Centre-Back,Defender,right,187,2600000,,TR1,Konyaspor
+6915,Mehmet Yilmaz,2012,19771,Turkey,Trabzon,Turkey,22/5/79 0:00,Centre-Forward,Attack,right,185,3000000,,TR1,Akhisarspor
+6917,Ibrahima Yattara,2012,3216,Guinea,Kamsar,Guinea,3/6/80 0:00,Right Winger,Attack,both,178,6500000,EFOR,TR1,Mersin Talimyurdu SK
+6931,Gino Coutinho,2017,1090,Netherlands,Amsterdam,Netherlands,5/8/82 0:00,Goalkeeper,Goalkeeper,right,179,750000,,NL1,AZ Alkmaar
+6934,Tuncay Sanli,2013,20,Turkey,Sakarya,Turkey,16/1/82 0:00,Left Winger,Attack,both,182,11500000,CI Sports Global,TR1,Bursaspor
+6949,Necati Ates,2014,6894,Turkey,Izmir,Turkey,3/1/80 0:00,Centre-Forward,Attack,right,182,8000000,,TR1,Kayseri Erciyesspor
+6968,Sancak Kaplan,2014,10484,Turkey,Erzurum,Turkey,25/5/82 0:00,Left-Back,Defender,left,178,750000,,TR1,Kasimpasa
+6970,Cédric Fauré,2014,172,France,Toulouse,France,14/2/79 0:00,Centre-Forward,Attack,both,187,2500000,Youonegoal,BE1,RSC Charleroi
+6980,Julien Cardy,2015,855,France,Pau,France,29/9/81 0:00,Defensive Midfield,Midfield,right,176,1400000,,FR1,EA Guingamp
+6986,Thibault Giresse,2017,855,France,Talence,France,25/5/81 0:00,Left Midfield,Midfield,left,172,1100000,,FR1,EA Guingamp
+6994,Adem Kocak,2015,2381,Turkey,Yozgat,Turkey,1/9/83 0:00,Central Midfield,Midfield,right,178,2500000,,TR1,Sivasspor
+7023,Bekir Ozan Has,2013,524,Turkey,Manisa,Turkey,18/2/85 0:00,Central Midfield,Midfield,right,175,2000000,,TR1,Gaziantepspor (- 2020)
+7025,Selcuk Sahin,2017,1467,Turkey,Tunceli,Turkey,31/1/81 0:00,Defensive Midfield,Midfield,right,189,3300000,,TR1,Göztepe
+7028,Filip Daems,2016,968,Belgium,Turnhout,Belgium,31/10/78 0:00,Left-Back,Defender,Right,174,3500000,,BE1,KVC Westerlo
+7041,Servet Cetin,2015,3216,Turkey,Igdir,Turkey,17/3/81 0:00,Centre-Back,Defender,right,191,9000000,Stars & Friends,TR1,Mersin Talimyurdu SK
+7043,Semih Sentürk,2015,6890,Turkey,Izmir,Turkey,29/4/83 0:00,Centre-Forward,Attack,both,182,7500000,,TR1,Basaksehir FK
+7054,Ali Tandogan,2012,589,Turkey,Manisa,Turkey,25/12/77 0:00,Right-Back,Defender,right,174,3000000,,TR1,Antalyaspor
+7063,Serhat Gülpinar,2012,6890,Turkey,Tokat,Turkey,1/1/79 0:00,Defensive Midfield,Midfield,right,180,1800000,Tarik Üstün,TR1,Basaksehir FK
+7072,Mustafa Keceli,2012,3216,Turkey,Ankara,Turkey,15/9/78 0:00,Left-Back,Defender,left,176,1500000,,TR1,Mersin Talimyurdu SK
+7079,Volkan Demirel,2018,36,Turkey,Istanbul,Turkey,27/10/81 0:00,Goalkeeper,Goalkeeper,right,191,10500000,NSTM,TR1,Fenerbahce
+7087,Bülent Ertugrul,2012,2292,Turkey,Denizli,Turkey,17/9/78 0:00,Defensive Midfield,Midfield,right,181,2200000,,TR1,Elazigspor
+7088,Hakan Bayraktar,2012,3216,Turkey,Samsun,Turkey,9/8/76 0:00,Defensive Midfield,Midfield,right,177,2500000,,TR1,Mersin Talimyurdu SK
+7090,Oguz Daglaroglu,2014,19771,Turkey,Istanbul,Turkey,18/8/79 0:00,Goalkeeper,Goalkeeper,right,183,1500000,,TR1,Akhisarspor
+7093,Francesco Magnanelli,2021,6574,Italy,Umbertide,Italy,12/11/84 0:00,Defensive Midfield,Midfield,right,181,3000000,TMP SOCCER srl ,IT1,US Sassuolo
+7096,Daniele Gastaldello,2019,19,Italy,Camposampiero,Italy,25/6/83 0:00,Centre-Back,Defender,right,187,5500000,,IT1,Brescia Calcio
+7101,Paolo Sammarco,2018,8970,Italy,Como,Italy,17/3/83 0:00,Central Midfield,Midfield,right,181,6500000,,IT1,Frosinone Calcio
+7102,Giorgio Frezzolini,2014,800,Italy,Roma,Italy,21/1/76 0:00,Goalkeeper,Goalkeeper,right,186,400000,Danilo Caravello,IT1,Atalanta BC
+7103,Marcos De Paula,2013,862,Brazil,Bariri,Brazil,19/12/83 0:00,Centre-Forward,Attack,right,186,800000,Soccer 3,IT1,Chievo Verona
+7109,Andrea Barzagli,2018,506,Italy,Fiesole,Italy,8/5/81 0:00,Centre-Back,Defender,right,187,14500000,,IT1,Juventus FC
+7110,Ilker Avcibay,2013,10484,Turkey,Adana,Turkey,1/10/78 0:00,Goalkeeper,Goalkeeper,right,186,1000000,,TR1,Kasimpasa
+7133,Luciano Figueroa,2013,265,Argentina,Santa Fe de la Vera Cruz,Argentina,19/5/81 0:00,Centre-Forward,Attack,Right,174,3750000,,GR1,Panathinaikos Athens
+7152,Yalcin Ayhan,2019,868,Turkey,Istanbul,Turkey,1/5/82 0:00,Centre-Back,Defender,right,192,2000000,Haluk Canatar,TR1,MKE Ankaragücü
+7153,Mehmet Nas,2013,2292,Turkey,Gümüshane,Turkey,20/11/79 0:00,Central Midfield,Midfield,right,169,2300000,,TR1,Elazigspor
+7161,Jonas Hofmann,2022,18,Germany,Heidelberg,Germany,14/7/92 0:00,Right Winger,Attack,right,176,16000000,Dr. Marco Gutfleisch,L1,Borussia Mönchengladbach
+7194,Murat Erdogan,2012,3216,England,London,Turkey,1/8/76 0:00,Central Midfield,Midfield,left,180,2000000,,TR1,Mersin Talimyurdu SK
+7214,Giannis Takidis,2013,6418,Greece,Thessaloniki,Greece,17/4/81 0:00,Goalkeeper,Goalkeeper,right,186,250000,Sportseleven Berlin,GR1,Panetolikos GFS
+7215,Ahmet Sahin,2017,1506,Turkey,Istanbul,Turkey,22/3/78 0:00,Goalkeeper,Goalkeeper,right,190,500000,,TR1,Kardemir Karabükspor
+7237,Sabri Sarioglu,2017,1467,Turkey,Samsun,Turkey,26/7/84 0:00,Right-Back,Defender,right,170,6500000,,TR1,Göztepe
+7252,Aleksandr Ryazantsev,2022,1186,UdSSR,Moskau,Russia,5/9/86 0:00,Central Midfield,Midfield,right,179,6500000,ppsports,RU1,Torpedo Moscow
+7253,Kaya Tarakci,2016,2293,Turkey,Adana,Turkey,23/4/81 0:00,Goalkeeper,Goalkeeper,left,188,500000,,TR1,Konyaspor
+7264,Ibrahim Toraman,2014,2381,Turkey,Sivas,Turkey,20/11/81 0:00,Centre-Back,Defender,right,179,7500000,,TR1,Sivasspor
+7288,Diederik Boer,2018,1269,Netherlands,Emmeloord,Netherlands,24/9/80 0:00,Goalkeeper,Goalkeeper,right,194,800000,,NL1,PEC Zwolle
+7309,Senol Can,2016,524,Bulgaria,Kardzhali,Turkey,3/4/83 0:00,Left-Back,Defender,left,183,1000000,,TR1,Gaziantepspor (- 2020)
+7311,Serdar Kulbilge,2013,524,Turkey,Tekirdag,Turkey,7/7/80 0:00,Goalkeeper,Goalkeeper,right,186,2000000,,TR1,Gaziantepspor (- 2020)
+7319,Egemen Korkmaz,2018,39722,Turkey,Balikesir,Turkey,3/11/82 0:00,Centre-Back,Defender,left,183,7600000,,TR1,Erzurumspor FK
+7326,Kwame Quansah,2013,1304,Ghana,Tema,Ghana,24/11/82 0:00,Defensive Midfield,Midfield,right,172,1250000,,NL1,Heracles Almelo
+7330,Steven Reid,2013,984,England,London,Ireland,10/3/81 0:00,Right-Back,Defender,right,185,4250000,,GB1,West Bromwich Albion
+7337,Alan Tate,2014,2288,England,Easington,England,2/9/82 0:00,Centre-Back,Defender,right,185,1000000,,GB1,Swansea City
+7345,Serkan Balci,2015,3216,Turkey,Aydin,Turkey,22/8/83 0:00,Right-Back,Defender,right,173,5000000,,TR1,Mersin Talimyurdu SK
+7346,Ugur Boral,2014,114,Turkey,Istanbul,Turkey,14/4/82 0:00,Left Midfield,Midfield,left,178,4100000,,TR1,Besiktas JK
+7353,Juanma Ortiz,2012,16795,Spain,Guardamar del Segura,Spain,1/3/82 0:00,Right-Back,Defender,right,179,3500000,,ES1,Granada CF
+7358,Javier Pinola,2013,4,Argentina,Olivos,Argentina,24/2/83 0:00,Centre-Back,Defender,left,180,6000000,Marcelo Carracedo,L1,1.FC Nuremberg
+7373,Albert Riera,2014,410,Spain,Manacor,Spain,15/4/82 0:00,Left Midfield,Midfield,left,188,16000000,,IT1,Udinese Calcio
+7394,Gökhan Ünal,2014,20698,Turkey,Ankara,Turkey,23/7/82 0:00,Centre-Forward,Attack,right,184,5000000,,TR1,Balikesirspor
+7397,Özden Öngün,2013,524,Turkey,Kocaeli,Turkey,10/9/78 0:00,Goalkeeper,Goalkeeper,right,187,1250000,Tarik Üstün,TR1,Gaziantepspor (- 2020)
+7401,Bekir Irtegün,2016,6890,Turkey,Elazig,Turkey,20/4/84 0:00,Centre-Back,Defender,right,183,4500000,,TR1,Basaksehir FK
+7402,Muhammet Özdin,2012,1506,Turkey,Trabzon,Turkey,10/9/78 0:00,Centre-Back,Defender,right,183,750000,,TR1,Kardemir Karabükspor
+7423,Ömer Erdogan,2012,20,Germany,Kassel,Turkey,3/5/77 0:00,Centre-Back,Defender,right,191,2700000,,TR1,Bursaspor
+7427,Ivica Olic,2015,41,Jugoslawien (SFR),Davor,Croatia,14/9/79 0:00,Centre-Forward,Attack,left,182,12000000,,L1,Hamburger SV
+7444,Bilal Kisa,2018,19771,Turkey,Amasya,Turkey,22/6/83 0:00,Attacking Midfield,Midfield,left,180,2100000,,TR1,Akhisarspor
+7445,Can Arat,2015,589,Turkey,Istanbul,Turkey,21/1/84 0:00,Centre-Back,Defender,right,191,1300000,,TR1,Antalyaspor
+7448,Hossam Ghaly,2013,204,Egypt,Biyala,Egypt,15/12/81 0:00,Central Midfield,Midfield,right,183,4500000,Eleven 11,BE1,Lierse SK (- 2018)
+7449,Gaël Clichy,2019,6890,France,Toulouse,France,26/7/85 0:00,Left-Back,Defender,left,176,16000000,Darren Dein,TR1,Basaksehir FK
+7451,Mikel Arteta,2015,11,Spain,San Sebastián,Spain,26/3/82 0:00,Central Midfield,Midfield,right,177,20000000,,GB1,Arsenal FC
+7468,José Javier Barkero,2012,3368,Spain,Aretxabaleta,Spain,27/4/79 0:00,Attacking Midfield,Midfield,left,181,3000000,,ES1,Levante UD
+7476,Xabi Alonso,2016,27,Spain,Tolosa,Spain,25/11/81 0:00,Defensive Midfield,Midfield,right,183,35000000,,L1,Bayern Munich
+7480,Joseba Llorente,2012,331,Spain,Hondarribia,Spain,24/11/79 0:00,Centre-Forward,Attack,right,185,11000000,,ES1,CA Osasuna
+7486,Joan Capdevila,2014,204,Spain,Tàrrega,Spain,3/2/78 0:00,Left-Back,Defender,left,182,13000000,,BE1,Lierse SK (- 2018)
+7492,Manuel Pablo,2015,897,Spain,Arucas,Spain,25/1/76 0:00,Right-Back,Defender,right,177,7000000,,ES1,Deportivo de La Coruña
+7499,Lionel Scaloni,2014,800,Argentina,Pujato,Argentina,16/5/78 0:00,Right-Back,Defender,right,182,6000000,,IT1,Atalanta BC
+7501,Juan Carlos Valerón,2015,472,Spain,Arguineguín,Spain,17/6/75 0:00,Attacking Midfield,Midfield,right,186,20000000,,ES1,UD Las Palmas
+7512,Borja Fernández,2018,366,Spain,Ourense,Spain,14/1/81 0:00,Defensive Midfield,Midfield,right,189,3000000,,ES1,Real Valladolid CF
+7519,Rubén González,2012,331,Spain,Santiago de Compostela,Spain,29/1/82 0:00,Centre-Back,Defender,Right,174,2200000,,ES1,CA Osasuna
+7520,Esteban Cambiasso,2016,683,Argentina,San Fernando,Argentina,18/8/80 0:00,Defensive Midfield,Midfield,left,177,31000000,,GR1,Olympiacos Piraeus
+7528,Valdo,2013,6676,Spain,Villablino,Cape Verde,23/4/81 0:00,Right Winger,Attack,right,184,5000000,,GR1,Asteras Tripolis
+7537,José Manuel Pinto,2013,131,Spain,El Puerto de Santa María,Spain,8/11/75 0:00,Goalkeeper,Goalkeeper,right,185,2000000,,ES1,FC Barcelona
+7542,Juanfran,2015,3368,Spain,Valencia,Spain,15/7/76 0:00,Left-Back,Defender,left,182,7500000,,ES1,Levante UD
+7563,Andrés Palop,2013,15,Spain,Alcudia de Carlet,Spain,22/10/73 0:00,Goalkeeper,Goalkeeper,Right,174,7000000,,L1,Bayer 04 Leverkusen
+7568,David Navarro,2015,3368,Spain,Puerto de Sagunto,Spain,25/5/80 0:00,Centre-Back,Defender,right,188,5000000,,ES1,Levante UD
+7572,Carlos Marchena,2012,897,Spain,Las Cabezas,Spain,31/7/79 0:00,Centre-Back,Defender,right,182,13000000,,ES1,Deportivo de La Coruña
+7575,David Albelda,2012,1049,Spain,Pobla Llarga,Spain,1/9/77 0:00,Defensive Midfield,Midfield,right,182,15000000,Ginés Carvajal,ES1,Valencia CF
+7589,Víctor Valdés,2016,641,Spain,L’Hospitalet de Llobregat,Spain,14/1/82 0:00,Goalkeeper,Goalkeeper,right,183,20000000,,GB1,Middlesbrough FC
+7593,Fernando Navarro,2017,897,Spain,Barcelona,Spain,25/6/82 0:00,Left-Back,Defender,left,176,10000000,AC Talent,ES1,Deportivo de La Coruña
+7594,Carles Puyol,2013,131,Spain,La Pobla de Segur,Spain,13/4/78 0:00,Centre-Back,Defender,right,178,30000000,,ES1,FC Barcelona
+7600,Andrés Iniesta,2017,131,Spain,Fuentealbilla,Spain,11/5/84 0:00,Central Midfield,Midfield,both,171,70000000,Sports&Life,ES1,FC Barcelona
+7602,Thiago Motta,2017,583,Brazil,São Bernardo do Campo,Italy,28/8/82 0:00,Defensive Midfield,Midfield,left,187,16000000,,FR1,Paris Saint-Germain
+7607,Xavi,2014,131,Spain,Terrassa,Spain,25/1/80 0:00,Central Midfield,Midfield,right,169,65000000,AC Talent,ES1,FC Barcelona
+7611,Javier Saviola,2014,276,Argentina,Buenos Aires,Argentina,11/12/81 0:00,Second Striker,Attack,right,168,20000000,,IT1,Hellas Verona
+7612,Daniel Aranzubia,2013,13,Spain,Logroño,Spain,18/9/79 0:00,Goalkeeper,Goalkeeper,right,184,5000000,,ES1,Atlético de Madrid
+7629,Carlos Merino,2013,7185,Spain,Bilbao,Spain,15/3/80 0:00,Attacking Midfield,Midfield,both,173,1000000,,GR1,Panthrakikos Komotini
+7631,Carlos Gurpegui,2015,621,Spain,Pamplona,Spain,19/8/80 0:00,Centre-Back,Defender,right,181,4000000,,ES1,Athletic Bilbao
+7633,Pablo Orbaiz,2012,2698,Spain,Pamplona,Spain,6/2/79 0:00,Defensive Midfield,Midfield,right,179,3000000,,RU1,Rubin Kazan
+7642,Toni Doblas,2013,6195,Spain,Sevilla,Spain,5/8/80 0:00,Goalkeeper,Goalkeeper,right,184,3000000,,IT1,SSC Napoli
+7663,Joaquín,2022,150,Spain,El Puerto de Santa María,Spain,21/7/81 0:00,Right Winger,Attack,right,181,28000000,Juzzt Football,ES1,Real Betis Balompié
+7668,Alberto Cifuentes,2020,2687,Spain,Albacete,Spain,29/5/79 0:00,Goalkeeper,Goalkeeper,Right,190,1000000,,ES1,Cádiz CF
+7669,Leo Franco,2012,142,Argentina,San Nicolás de los Arroyos,Argentina,20/5/77 0:00,Goalkeeper,Goalkeeper,Right,174,8500000,,ES1,Real Zaragoza
+7682,Ariel Ibagaza,2014,169,Argentina,Buenos Aires,Argentina,27/10/76 0:00,Attacking Midfield,Midfield,right,166,9000000,,GR1,Panionios Athens
+7717,José Antonio Reyes,2016,714,Spain,Utrera,Spain,1/9/83 0:00,Right Winger,Attack,left,176,35000000,,ES1,RCD Espanyol Barcelona
+7723,Antonio López,2012,237,Spain,Benidorm,Spain,13/9/81 0:00,Left-Back,Defender,left,176,10500000,WSP Agency,ES1,RCD Mallorca
+7737,Pablo García,2013,128,Uruguay,Pando,Uruguay,11/5/77 0:00,Defensive Midfield,Midfield,left,186,5000000,,GR1,AO Xanthi
+7739,Patxi Puñal,2013,331,Spain,Pamplona,Spain,6/9/75 0:00,Defensive Midfield,Midfield,right,179,2400000,,ES1,CA Osasuna
+7763,José María Movilla,2012,142,Spain,Madrid,Spain,8/2/75 0:00,Defensive Midfield,Midfield,both,171,3000000,,ES1,Real Zaragoza
+7767,Fernando Torres,2017,13,Spain,Fuenlabrada (Madrid),Spain,20/3/84 0:00,Centre-Forward,Attack,right,186,50000000,Bahía Internacional,ES1,Atlético de Madrid
+7776,Josemi,2013,128,Spain,Torremolinos,Spain,15/11/79 0:00,Centre-Back,Defender,right,183,3250000,,GR1,AO Xanthi
+7781,Alexis Ruano,2017,1108,Spain,Málaga,Spain,4/8/85 0:00,Centre-Back,Defender,right,183,10000000,,ES1,Deportivo Alavés
+7782,Duda,2016,1084,Portugal,Porto,Portugal,27/6/80 0:00,Left Midfield,Midfield,left,175,6000000,Gestifute,ES1,Málaga CF
+7784,Ivan Leko,2013,498,Jugoslawien (SFR),Split,Croatia,7/2/78 0:00,Attacking Midfield,Midfield,left,179,3500000,,BE1,KSC Lokeren (- 2020)
+7795,Juanito,2012,6676,Spain,Málaga,Spain,17/2/80 0:00,Defensive Midfield,Midfield,right,187,3800000,,GR1,Asteras Tripolis
+7797,Albano Bizzarri,2017,410,Argentina,Etruria,Argentina,9/11/77 0:00,Goalkeeper,Goalkeeper,right,188,3500000,Matteo Materazzi,IT1,Udinese Calcio
+7803,Mario Abrante,2012,150,Spain,Tenerife,Spain,2/2/82 0:00,Centre-Back,Defender,right,178,5500000,,ES1,Real Betis Balompié
+7818,Óscar González,2013,366,Spain,Salamanca,Spain,12/11/82 0:00,Attacking Midfield,Midfield,right,175,4000000,,ES1,Real Valladolid CF
+7821,David Aganzo,2013,605,Spain,Madrid,Spain,10/1/81 0:00,Centre-Forward,Attack,both,177,2000000,,GR1,Aris Thessaloniki
+7825,Pepe Reina,2022,1050,Spain,Madrid,Spain,31/8/82 0:00,Goalkeeper,Goalkeeper,right,188,22000000,,ES1,Villarreal CF
+7828,Sergio Ballesteros,2012,3368,Spain,Burjassot,Spain,4/9/75 0:00,Centre-Back,Defender,right,188,1500000,,ES1,Levante UD
+7841,Carlos Aranda,2013,16795,Spain,Málaga,Spain,27/7/80 0:00,Centre-Forward,Attack,right,183,2500000,,ES1,Granada CF
+7844,Jorge López,2012,157,Spain,Logroño,Spain,19/9/78 0:00,Right Winger,Attack,right,182,4200000,,BE1,KAA Gent
+7858,Yossi Benayoun,2012,631,Israel,Dimona,Israel,5/5/80 0:00,Right Winger,Attack,right,175,11000000,A.B SOCCER LTD,GB1,Chelsea FC
+7867,Rodolfo Bodipo,2012,897,Spain,Sevilla,Equatorial Guinea,25/10/77 0:00,Centre-Forward,Attack,right,184,2000000,,ES1,Deportivo de La Coruña
+7874,Gorka Iraizoz,2018,12321,Spain,Pamplona,Spain,6/3/81 0:00,Goalkeeper,Goalkeeper,right,191,5000000,,ES1,Girona FC
+7881,Alberto Lopo,2015,897,Spain,Barcelona,Spain,5/5/80 0:00,Centre-Back,Defender,right,186,4000000,,ES1,Deportivo de La Coruña
+7899,Raúl Tamudo,2012,367,Spain,Santa Coloma de Gramanet,Spain,19/10/77 0:00,Centre-Forward,Attack,right,178,16000000,,ES1,Rayo Vallecano
+7901,Nano,2012,331,Spain,A Coruña,Spain,20/4/82 0:00,Left-Back,Defender,left,187,3500000,,ES1,CA Osasuna
+7914,Carlos Kameni,2018,36,Cameroon,Douala,Cameroon,18/2/84 0:00,Goalkeeper,Goalkeeper,right,186,10000000,,TR1,Fenerbahce
+7922,Sergio García,2018,714,Spain,Barcelona,Spain,9/6/83 0:00,Centre-Forward,Attack,right,174,9000000,,ES1,RCD Espanyol Barcelona
+7923,Roberto Trashorras,2015,367,Spain,Rábade,Spain,28/2/81 0:00,Central Midfield,Midfield,right,177,2000000,,ES1,Rayo Vallecano
+7930,Rowan Vine,2012,2578,England,Basingstoke,England,21/9/82 0:00,Centre-Forward,Attack,right,185,1250000,,SC1,St. Johnstone FC
+7937,Abdurrahman Dereli,2014,2381,Turkey,Trabzon,Turkey,15/2/81 0:00,Right-Back,Defender,right,173,3500000,,TR1,Sivasspor
+7945,Miguel Ángel Corona,2014,3302,Spain,Talavera de la Reina,Spain,12/2/81 0:00,Central Midfield,Midfield,right,174,4000000,AC Talent,ES1,UD Almería
+7949,Kees Kwakman,2013,132,Netherlands,Purmerend,Netherlands,10/6/83 0:00,Left Midfield,Midfield,Right,174,1750000,EFM International,NL1,NAC Breda
+7955,Jeroen Verhoeven,2014,200,Netherlands,Naarden,Netherlands,30/4/80 0:00,Goalkeeper,Goalkeeper,right,196,500000,,NL1,FC Utrecht
+7970,Gill Swerts,2014,132,Belgium,Brasschaat,Belgium,23/9/82 0:00,Right-Back,Defender,right,179,2500000,,NL1,NAC Breda
+7971,Salomon Kalou,2019,44,Cote d'Ivoire,Oumé,Cote d'Ivoire,5/8/85 0:00,Left Winger,Attack,right,184,15000000,Juzzt Football,L1,Hertha BSC
+7978,Luciano Galletti,2013,653,Argentina,Mar del Plata,Argentina,9/4/80 0:00,Right Winger,Attack,right,175,9500000,,GR1,OFI Crete FC
+7980,David Villa,2013,13,Spain,Tuilla,Spain,3/12/81 0:00,Centre-Forward,Attack,both,174,50000000,DV7 Management,ES1,Atlético de Madrid
+7983,Cani,2015,897,Spain,Zaragoza,Spain,3/8/81 0:00,Attacking Midfield,Midfield,right,178,15000000,Bahía Internacional,ES1,Deportivo de La Coruña
+7985,David Generelo,2013,1531,Spain,Badajoz,Spain,11/8/82 0:00,Central Midfield,Midfield,right,181,2500000,IFM,ES1,Elche CF
+7989,Fernando Soriano,2014,3302,Spain,Zaragoza,Spain,24/9/79 0:00,Attacking Midfield,Midfield,right,189,3400000,,ES1,UD Almería
+8006,Luis García,2018,1245,Spain,Oviedo,Spain,6/2/81 0:00,Central Midfield,Midfield,right,178,15000000,,BE1,KAS Eupen
+8019,Simão,2013,714,Portugal,Vila Real,Portugal,31/10/79 0:00,Left Winger,Attack,right,174,25000000,Gestifute,ES1,RCD Espanyol Barcelona
+8060,Carl Medjani,2018,2381,France,Lyon,Algeria,15/5/85 0:00,Defensive Midfield,Midfield,right,184,4000000,Marco Kirdemir,TR1,Sivasspor
+8073,Marc Janko,2013,449,Austria,Wien,Austria,25/6/83 0:00,Centre-Forward,Attack,left,196,6000000,,TR1,Trabzonspor
+8108,Lluis Sastre,2018,5358,Spain,Binissalem,Spain,26/3/86 0:00,Central Midfield,Midfield,right,174,1500000,Bahía Internacional,ES1,SD Huesca
+8163,Rodri,2013,367,Spain,Mataró,Spain,17/8/84 0:00,Centre-Back,Defender,right,185,2000000,,ES1,Rayo Vallecano
+8176,Oier Olazábal,2021,714,Spain,Irún,Spain,14/9/89 0:00,Goalkeeper,Goalkeeper,left,189,2500000,Sport Agency 4U,ES1,RCD Espanyol Barcelona
+8184,Rubén Martínez,2020,331,Spain,Coristanco,Spain,22/6/84 0:00,Goalkeeper,Goalkeeper,right,187,2000000,,ES1,CA Osasuna
+8187,Juanmi Callejón,2012,2672,Spain,Motril,Spain,11/2/87 0:00,Left Winger,Attack,right,180,1000000,,GR1,APO Levadiakos
+8188,Jay Bothroyd,2012,1039,England,London,England,7/5/82 0:00,Centre-Forward,Attack,left,190,2500000,,GB1,Queens Park Rangers
+8198,Cristiano Ronaldo,2022,985,Portugal,Funchal,Portugal,5/2/85 0:00,Centre-Forward,Attack,right,187,120000000,Gestifute,GB1,Manchester United
+8206,Emmanuel Cascione,2014,1429,Italy,Catanzaro,Italy,22/9/83 0:00,Central Midfield,Midfield,right,187,1500000,,IT1,Cesena FC
+8207,Gianluca Grava,2012,6195,Italy,Caserta,Italy,7/3/77 0:00,Right-Back,Defender,right,172,1000000,,IT1,SSC Napoli
+8245,Lance Davids,2012,204,South Africa,"Cape Town, Western Cape",South Africa,11/4/85 0:00,Defensive Midfield,Midfield,Right,174,700000,ExtraTime S.L.,BE1,Lierse SK (- 2018)
+8246,Philipp Pentke,2022,533,East Germany (GDR),Freiberg,Germany,1/5/85 0:00,Goalkeeper,Goalkeeper,right,191,400000,Bigpoint,L1,TSG 1899 Hoffenheim
+8284,Selcuk Sahin,2012,2323,Germany,München,Turkey,26/3/83 0:00,Left-Back,Defender,Right,174,700000,,TR1,Orduspor
+8317,Marcel Schäfer,2016,82,Germany,Aschaffenburg,Germany,7/6/84 0:00,Left-Back,Defender,left,184,7500000,PRO Profil GmbH,L1,VfL Wolfsburg
+8323,Álvaro Rubio,2013,366,Spain,Logroño,Spain,18/4/79 0:00,Defensive Midfield,Midfield,right,180,3000000,,ES1,Real Valladolid CF
+8387,Dragan Paljic,2014,1304,Germany,Starnberg,Germany,8/4/83 0:00,Left Midfield,Midfield,left,174,800000,,NL1,Heracles Almelo
+8399,Engin Baytar,2013,126,Germany,Bielefeld,Turkey,11/7/83 0:00,Central Midfield,Midfield,both,176,5500000,Stars & Friends,TR1,Caykur Rizespor
+8421,Michael Jakobsen,2015,3426,Denmark,København,Denmark,2/1/86 0:00,Centre-Back,Defender,left,185,2500000,Elite Consulting,DK1,Esbjerg fB
+8480,Sito Riera,2013,6992,Spain,Manacor,Spain,5/1/87 0:00,Attacking Midfield,Midfield,right,184,1250000,,UKR1,Chornomorets Odessa
+8487,Serdar Özkan,2019,589,Turkey,Düzce,Turkey,1/1/87 0:00,Left Winger,Attack,right,177,4000000,,TR1,Antalyaspor
+8490,Hakan Hacibektasoglu,2013,126,Turkey,Istanbul,Turkey,23/4/84 0:00,Defensive Midfield,Midfield,both,181,400000,,TR1,Caykur Rizespor
+8491,Olcan Adin,2018,589,Turkey,Balikesir,Turkey,30/9/85 0:00,Right Winger,Attack,left,176,10000000,F-F SPORT,TR1,Antalyaspor
+8498,Florent Chaigneau,2015,1158,France,La Roche-sur-Yon,France,21/3/84 0:00,Goalkeeper,Goalkeeper,right,197,750000,SEM Group plc.,FR1,FC Lorient
+8538,Tiago Mendes,2016,13,Portugal,Viana do Castelo,Portugal,2/5/81 0:00,Central Midfield,Midfield,right,183,15000000,Gestifute,ES1,Atlético de Madrid
+8539,Onur Tuncer,2013,589,Turkey,Kocaeli,Turkey,19/2/84 0:00,Defensive Midfield,Midfield,right,180,700000,,TR1,Antalyaspor
+8540,Mathieu Valverde,2012,1041,France,Montreuil,France,14/5/83 0:00,Goalkeeper,Goalkeeper,right,185,1600000,,FR1,Olympique Lyon
+8548,Kerim Zengin,2017,1506,Turkey,Mersin,Turkey,13/4/85 0:00,Right-Back,Defender,right,177,1500000,,TR1,Kardemir Karabükspor
+8552,Arouna Koné,2020,2381,Cote d'Ivoire,Anyama,Cote d'Ivoire,11/11/83 0:00,Centre-Forward,Attack,right,181,12000000,Wasserman,TR1,Sivasspor
+8559,Yakubu Aiyegbeni,2015,3205,Nigeria,Benin City,Nigeria,22/11/82 0:00,Centre-Forward,Attack,Right,183,20000000,,TR1,Kayserispor
+8640,Andreas Lambertz,2012,38,Germany,Dormagen,Germany,15/10/84 0:00,Central Midfield,Midfield,right,172,1500000,,L1,Fortuna Düsseldorf
+8669,Milan Obradovic,2012,9007,Jugoslawien (SFR),Belgrad,Serbia,3/8/77 0:00,Right-Back,Defender,right,182,2000000,,UKR1,Arsenal Kyiv
+8680,Ekrem Eksioglu,2013,6894,Turkey,Ankara,Turkey,16/1/78 0:00,Left-Back,Defender,left,184,1500000,,TR1,Kayseri Erciyesspor
+8689,Sezer Öztürk,2014,6890,Germany,Velbert,Turkey,3/11/85 0:00,Attacking Midfield,Midfield,Right,174,4000000,,TR1,Basaksehir FK
+8691,Sedat Agcay,2019,868,Turkey,Mus,Turkey,22/9/81 0:00,Defensive Midfield,Midfield,right,176,1700000,,TR1,MKE Ankaragücü
+8706,Orkun Usak,2012,3216,Turkey,Istanbul,Turkey,5/11/80 0:00,Goalkeeper,Goalkeeper,right,183,2800000,,TR1,Mersin Talimyurdu SK
+8709,Sedat Bayrak,2014,820,Turkey,Trabzon,Turkey,10/4/81 0:00,Centre-Back,Defender,right,188,2500000,,TR1,Genclerbirligi Ankara
+8730,Manu Lanzarote,2015,6676,Spain,Barcelona,Spain,20/1/84 0:00,Attacking Midfield,Midfield,left,178,1500000,GLOBAL ASES,GR1,Asteras Tripolis
+8733,Javi Martos,2018,172,Spain,Alamedilla,Spain,4/1/84 0:00,Centre-Back,Defender,right,181,800000,,BE1,RSC Charleroi
+8740,Josef Cinar,2013,6894,Germany,Bremen,Germany,22/1/84 0:00,Centre-Back,Defender,right,194,250000,,TR1,Kayseri Erciyesspor
+8746,Carlos Peña,2013,366,Spain,Salamanca,Spain,28/7/83 0:00,Left-Back,Defender,left,181,1500000,InterStarDeporte,ES1,Real Valladolid CF
+8806,Cesc Fàbregas,2021,162,Spain,Arenys de Mar,Spain,4/5/87 0:00,Central Midfield,Midfield,right,179,55000000,Darren Dein,FR1,AS Monaco
+8840,Benjamin Fuchs,2014,2293,Germany,Nürnberg,Austria,20/10/83 0:00,Right-Back,Defender,Right,174,600000,,TR1,Konyaspor
+8883,Emmanuel Adebayor,2019,3205,Togo,Lomé,Togo,26/2/84 0:00,Centre-Forward,Attack,right,192,25000000,,TR1,Kayserispor
+8885,Jaroslav Plasil,2018,40,CSSR,Opočno,Czech Republic,5/1/82 0:00,Central Midfield,Midfield,right,182,7500000,,FR1,FC Girondins Bordeaux
+9091,Gustavo Munúa,2013,430,Uruguay,Montevideo,Uruguay,27/1/78 0:00,Goalkeeper,Goalkeeper,right,188,5000000,corner association,IT1,ACF Fiorentina
+9161,Sammy Clingan,2014,2553,Northern Ireland,Belfast,Northern Ireland,13/1/84 0:00,Central Midfield,Midfield,right,180,1000000,,SC1,Kilmarnock FC
+9218,Matthew Taylor,2013,379,England,Oxford,England,27/11/81 0:00,Left Midfield,Midfield,left,177,6500000,,GB1,West Ham United
+9239,Sébastien Grax,2012,1095,France,Le Creusot,France,23/6/84 0:00,Centre-Forward,Attack,right,180,3000000,,FR1,ESTAC Troyes
+9335,Rui Fonte,2022,3329,Portugal,Penafiel,Portugal,23/4/90 0:00,Centre-Forward,Attack,right,180,6000000,CAA Stellar,PO1,FC Famalicão
+9339,Ali Camdali,2019,2293,Germany,Duisburg,Turkey,22/2/84 0:00,Defensive Midfield,Midfield,right,186,2300000,,TR1,Konyaspor
+9340,Marvin Compper,2018,371,Germany,Tübingen,Germany,14/6/85 0:00,Centre-Back,Defender,left,185,4000000,,SC1,Celtic FC
+9354,Sejad Salihovic,2017,41,Jugoslawien (SFR),Gornji Šepak,Bosnia-Herzegovina,8/10/84 0:00,Central Midfield,Midfield,left,182,7500000,TDS SPORTS,L1,Hamburger SV
+9369,Dele Adeleye,2017,3690,Nigeria,Lagos,Nigeria,25/12/88 0:00,Centre-Back,Defender,left,189,1800000,Dmitriy Seluk,RU1,SKA Khabarovsk
+9410,Ólafur Ingi Skúlason,2017,1506,Iceland,Reykjavík,Iceland,1/4/83 0:00,Defensive Midfield,Midfield,right,183,900000,,TR1,Kardemir Karabükspor
+9413,Ricardo Vaz Tê,2020,7378,Portugal,Lisboa,Portugal,1/10/86 0:00,Right Winger,Attack,right,188,3000000,Pedro Restani Romão,PO1,Portimonense SC
+9422,Allan McGregor,2022,124,Scotland,Edinburgh,Scotland,31/1/82 0:00,Goalkeeper,Goalkeeper,right,183,8500000,,SC1,Rangers FC
+9493,Mark Fotheringham,2012,2759,Scotland,Dundee,Scotland,22/10/83 0:00,Central Midfield,Midfield,both,174,500000,Soccermanagement GB,SC1,Ross County FC
+9500,David Marshall,2022,903,Scotland,Glasgow,Scotland,5/3/85 0:00,Goalkeeper,Goalkeeper,right,187,3000000,CAA Stellar,SC1,Hibernian FC
+9501,Rab Douglas,2012,511,Scotland,Lanark,Scotland,24/4/72 0:00,Goalkeeper,Goalkeeper,right,195,3000000,,SC1,Dundee FC
+9502,Paul Lawson,2014,987,Scotland,Aberdeen,Scotland,15/5/84 0:00,Defensive Midfield,Midfield,right,175,450000,,SC1,Motherwell FC
+9506,Craig Beattie,2012,2578,Scotland,Glasgow,Scotland,16/1/84 0:00,Centre-Forward,Attack,right,183,2250000,,SC1,St. Johnstone FC
+9508,Shaun Maloney,2016,3008,Malaysia,Miri,Scotland,24/1/83 0:00,Attacking Midfield,Midfield,right,171,4250000,,GB1,Hull City
+9509,Ross Wallace,2019,465,Scotland,Dundee,Scotland,23/5/85 0:00,Right Midfield,Midfield,left,168,2500000,,SC1,St. Mirren FC
+9524,Rudi Skacel,2012,1519,CSSR,Trutnov,Czech Republic,17/7/79 0:00,Left Midfield,Midfield,Right,174,2500000,,SC1,Dundee United FC
+9543,Edú,2012,65,Brazil,São Paulo,Brazil,30/11/81 0:00,Centre-Forward,Attack,Right,174,2500000,,L1,SpVgg Greuther Fürth
+9586,Anatoliy Gerk,2013,11127,UdSSR,"Polevskoy, Ekaterinburg Region",Russia,20/11/84 0:00,Attacking Midfield,Midfield,both,179,750000,ESA,RU1,Ural Yekaterinburg
+9593,Olivier Deschacht,2020,3508,Belgium,Gent,Belgium,16/2/81 0:00,Centre-Back,Defender,left,187,3500000,Eleven Management,BE1,SV Zulte Waregem
+9594,Vincent Kompany,2019,58,Belgium,Uccle,Belgium,10/4/86 0:00,Centre-Back,Defender,right,190,35000000,,BE1,RSC Anderlecht
+9596,Oleg Yashchuk,2012,520,UdSSR,"Grybova, Ternopil Region",Ukraine,26/10/77 0:00,Left Winger,Attack,right,181,1750000,,BE1,Cercle Brugge
+9602,Maarten Martens,2014,1091,Belgium,Eeklo,Belgium,2/7/84 0:00,Attacking Midfield,Midfield,left,176,6500000,Eleven Management,GR1,PAOK Thessaloniki
+9604,Sherjill MacDonald,2014,968,Netherlands,Groningen,Netherlands,20/11/84 0:00,Centre-Forward,Attack,right,183,2000000,,BE1,KVC Westerlo
+9616,Steven Thompson,2014,465,Scotland,Paisley,Scotland,14/10/78 0:00,Centre-Forward,Attack,right,188,2500000,,SC1,St. Mirren FC
+9618,Chris Burke,2020,2553,Scotland,Glasgow,Scotland,2/12/83 0:00,Right Midfield,Midfield,right,175,2750000,,SC1,Kilmarnock FC
+9619,Alan Hutton,2015,405,Scotland,Glasgow,Scotland,30/11/84 0:00,Right-Back,Defender,right,185,9000000,Soccermanagement GB,GB1,Aston Villa
+9621,Zurab Khizanishvili,2013,3205,UdSSR,Tiflis,Georgia,6/10/81 0:00,Centre-Back,Defender,right,186,2500000,,TR1,Kayserispor
+9638,Hans Cornelis,2014,520,Belgium,Eeklo,Belgium,13/10/82 0:00,Right-Back,Defender,right,182,2500000,Eleven Management,BE1,Cercle Brugge
+9643,Karel Geraerts,2015,172,Belgium,Genk,Belgium,5/1/82 0:00,Central Midfield,Midfield,right,186,3500000,,BE1,RSC Charleroi
+9644,Sergey Ignashevich,2017,2410,UdSSR,Moskau,Russia,14/7/79 0:00,Centre-Back,Defender,right,187,6750000,prosm,RU1,CSKA Moscow
+9645,Marat Izmailov,2016,16704,UdSSR,Moskau,Russia,21/9/82 0:00,Attacking Midfield,Midfield,right,172,7000000,,RU1,FK Krasnodar
+9646,Dmitriy Loskov,2016,932,UdSSR,Kurgan,Russia,12/2/74 0:00,Attacking Midfield,Midfield,both,178,5500000,,RU1,Lokomotiv Moscow
+9647,Birger Maertens,2014,968,Belgium,Varsenare,Belgium,28/6/80 0:00,Centre-Back,Defender,right,183,2500000,,BE1,KVC Westerlo
+9659,David Rozehnal,2017,2861,CSSR,Šternberk,Czech Republic,5/7/80 0:00,Centre-Back,Defender,Right,174,6500000,,BE1,KV Oostende
+9665,Tim Smolders,2014,520,Belgium,Geel,Belgium,26/8/80 0:00,Central Midfield,Midfield,right,191,1500000,,BE1,Cercle Brugge
+9667,Stijn Stijnen,2012,566,Belgium,Hasselt,Belgium,7/4/81 0:00,Goalkeeper,Goalkeeper,right,188,4500000,,BE1,Beerschot AC
+9684,Pantelis Kafes,2012,2079,Greece,Thessaloniki,Greece,24/6/78 0:00,Central Midfield,Midfield,right,180,4000000,,GR1,Veria NPS
+9688,Tomas Hübschman,2013,660,CSSR,Praha,Czech Republic,4/9/81 0:00,Defensive Midfield,Midfield,right,180,6500000,Nehoda Sport,UKR1,Shakhtar Donetsk
+9694,Efthymios Kouloucheris,2013,169,Greece,Karditsa,Greece,10/3/81 0:00,Centre-Back,Defender,right,182,750000,,GR1,Panionios Athens
+9696,Athanasios Kostoulas,2012,6676,Greece,Volos,Greece,24/3/76 0:00,Centre-Back,Defender,right,179,1600000,,GR1,Asteras Tripolis
+9697,Pavel Krmas,2014,60,CSSR,Broumov,Czech Republic,3/3/80 0:00,Centre-Back,Defender,both,193,2250000,SCORE,L1,SC Freiburg
+9698,Stefanos Kotsolis,2016,265,Greece,Athens,Greece,5/6/79 0:00,Goalkeeper,Goalkeeper,right,189,1750000,,GR1,Panathinaikos Athens
+9706,Sotiris Kyrgiakos,2012,82,Greece,Trikala,Greece,23/7/79 0:00,Centre-Back,Defender,Right,174,7000000,,L1,VfL Wolfsburg
+9707,Konstantinos Mendrinos,2017,441,Greece,Athen,Greece,28/5/85 0:00,Central Midfield,Midfield,both,179,1600000,,GR1,Apollon Smyrnis
+9711,Nery Castillo,2013,367,Mexico,San Luis Potosí,Mexico,13/6/84 0:00,Right Winger,Attack,left,170,15000000,,ES1,Rayo Vallecano
+9737,Anastasios Pantos,2012,2671,Greece,Athen,Greece,5/5/76 0:00,Right-Back,Defender,right,172,1750000,,GR1,PAS Giannina
+9743,Spyros Vallas,2013,128,Greece,Elassona,Greece,26/8/81 0:00,Centre-Back,Defender,right,188,1500000,,GR1,AO Xanthi
+9761,Christos Patsatzoglou,2012,2671,Greece,Athen,Greece,19/3/79 0:00,Defensive Midfield,Midfield,right,182,3500000,,GR1,PAS Giannina
+9775,Oleksandr Shovkovskyi,2016,338,UdSSR,Kiew,Ukraine,2/1/75 0:00,Goalkeeper,Goalkeeper,right,191,3250000,Sandor Varga,UKR1,Dynamo Kyiv
+9779,Vitaliy Reva,2013,9007,UdSSR,Dnipropetrovsk,Ukraine,19/11/74 0:00,Goalkeeper,Goalkeeper,right,182,500000,Kostyantyn Sosenko,UKR1,Arsenal Kyiv
+9786,Georgi Peev,2015,4128,Bulgaria,Sofia,Bulgaria,11/3/79 0:00,Right Midfield,Midfield,right,181,2700000,,RU1,Amkar Perm
+9794,Oleg Gusev,2017,338,UdSSR,"Stepanivka, Sumy Region",Ukraine,25/4/83 0:00,Right Midfield,Midfield,right,179,8000000,ProStar,UKR1,Dynamo Kyiv
+9796,Oleksandr Aliyev,2013,2700,UdSSR,Khabarovsk,Ukraine,3/2/85 0:00,Attacking Midfield,Midfield,both,173,10000000,,RU1,Anzhi Makhachkala ( -2022)
+9798,Maksim Shatskikh,2014,6996,UdSSR,Tashkent,Uzbekistan,30/8/78 0:00,Centre-Forward,Attack,right,187,4000000,,UKR1,Goverla Uzhgorod (- 2016)
+9800,Artem Milevskyi,2020,61825,UdSSR,Minsk,Ukraine,12/1/85 0:00,Centre-Forward,Attack,right,189,11000000,OFA,UKR1,FK Minaj
+9813,Bosingwa,2015,449,Zaire,Mbandaka,Portugal,24/8/82 0:00,Right-Back,Defender,right,183,21500000,,TR1,Trabzonspor
+9814,Bruno Moraes,2013,2424,Brazil,Santos,Brazil,7/7/84 0:00,Centre-Forward,Attack,right,180,700000,,PO1,Gil Vicente FC
+9819,Ricardo Costa,2019,2503,Portugal,Vila Nova de Gaia,Portugal,16/5/81 0:00,Centre-Back,Defender,right,184,6000000,OFSPORTS,PO1,Boavista FC
+9824,Hugo Almeida,2017,2441,Portugal,Figueira da Foz,Portugal,23/5/84 0:00,Centre-Forward,Attack,left,191,8500000,,GR1,AEK Athens
+9828,Ricardo Carvalho,2015,162,Portugal,Amarante,Portugal,18/5/78 0:00,Centre-Back,Defender,right,182,30000000,Gestifute,FR1,AS Monaco
+9830,César Peixoto,2014,2424,Portugal,Guimarães,Portugal,12/5/80 0:00,Left Midfield,Midfield,left,182,2500000,Gestifute,PO1,Gil Vicente FC
+9832,Paulo Ferreira,2012,631,Portugal,Cascais,Portugal,18/1/79 0:00,Right-Back,Defender,right,183,20000000,Gestifute,GB1,Chelsea FC
+9836,Dimitrios Papadopoulos,2016,3060,UdSSR,Gagarin,Greece,20/10/81 0:00,Centre-Forward,Attack,right,179,3500000,,GR1,Atromitos Athens
+9841,Georgios Seitaridis,2012,265,Greece,Piräus,Greece,4/6/81 0:00,Right-Back,Defender,right,185,14000000,,GR1,Panathinaikos Athens
+9847,Giannis Arabatzis,2016,5219,Greece,Veria,Greece,28/5/84 0:00,Goalkeeper,Goalkeeper,right,191,1200000,,GR1,AOK Kerkyra
+9849,Sotiris Lyberopoulos,2012,128,Greece,Filiatra,Greece,29/6/77 0:00,Goalkeeper,Goalkeeper,right,185,1000000,promsports,GR1,AO Xanthi
+9850,Vangelis Moras,2019,4603,Greece,Larisa,Greece,26/8/81 0:00,Centre-Back,Defender,right,193,3000000,,GR1,AE Larisa
+9852,Konstantinos Katsouranis,2014,3060,Greece,Patras,Greece,21/6/79 0:00,Defensive Midfield,Midfield,right,183,8500000,Juzzt Football,GR1,Atromitos Athens
+9856,Nikolaos Pourtoulidis,2015,47,Greece,Kavala,Greece,7/10/83 0:00,Central Midfield,Midfield,right,168,450000,ES SPORT,GR1,Iraklis Thessaloniki
+9871,Nikolaos Georgeas,2012,2079,Greece,Kalamata,Greece,27/12/76 0:00,Right-Back,Defender,right,173,1500000,,GR1,Veria NPS
+9885,Brynjar Gunnarsson,2012,1032,Iceland,Reykjavík,Iceland,16/10/75 0:00,Defensive Midfield,Midfield,right,185,2000000,,GB1,Reading FC
+9915,Reto Ziegler,2013,6574,Switzerland,Genf,Switzerland,16/1/86 0:00,Centre-Back,Defender,left,183,8200000,,IT1,US Sassuolo
+9934,Veroljub Salatic,2018,28095,Jugoslawien (SFR),Zvornik,Switzerland,14/11/85 0:00,Defensive Midfield,Midfield,right,186,2500000,Soccer Mondial AG,RU1,FK Ufa
+9956,James McFadden,2016,987,Scotland,Glasgow,Scotland,14/4/83 0:00,Second Striker,Attack,left,178,8000000,,SC1,Motherwell FC
+9966,Almen Abdi,2015,1010,Jugoslawien (SFR),Prizren,Switzerland,21/10/86 0:00,Central Midfield,Midfield,right,181,3500000,,GB1,Watford FC
+9967,Blerim Dzemaili,2019,1025,Jugoslawien (SFR),Tetovo,Switzerland,12/4/86 0:00,Central Midfield,Midfield,right,180,11000000,,IT1,Bologna FC 1909
+9975,Richard Chaplow,2012,180,England,Accrington,England,2/2/85 0:00,Central Midfield,Midfield,right,175,2500000,,GB1,Southampton FC
+9980,Rob Hulse,2012,1039,England,Crewe,England,25/10/79 0:00,Centre-Forward,Attack,right,185,3750000,,GB1,Queens Park Rangers
+9988,Michael Dawson,2016,3008,England,Northallerton,England,18/11/83 0:00,Centre-Back,Defender,right,189,12000000,,GB1,Hull City
+10003,Wes Morgan,2020,1003,England,Nottingham,Jamaica,21/1/84 0:00,Centre-Back,Defender,right,185,3500000,,GB1,Leicester City
+10025,Michael Doyle,2015,2578,Ireland,Dublin,Ireland,8/8/81 0:00,Central Midfield,Midfield,left,178,900000,,SC1,St. Johnstone FC
+10029,Isaac Osbourne,2014,465,England,Birmingham,England,22/6/86 0:00,Defensive Midfield,Midfield,right,178,500000,,SC1,St. Mirren FC
+10118,Aykut Ercetin,2014,126,Germany,Göppingen,Turkey,14/9/82 0:00,Goalkeeper,Goalkeeper,Right,174,2000000,ARP Sportmarketing,TR1,Caykur Rizespor
+10121,Orhan Sam,2017,820,Turkey,Zonguldak,Turkey,1/6/86 0:00,Right-Back,Defender,right,181,4000000,,TR1,Genclerbirligi Ankara
+10139,Güven Varol,2015,3216,Turkey,Sakarya,Turkey,2/6/81 0:00,Right Midfield,Midfield,right,184,1200000,,TR1,Mersin Talimyurdu SK
+10143,Umut Bulut,2020,19789,Turkey,Kayseri,Turkey,15/3/83 0:00,Centre-Forward,Attack,right,184,6000000,Stars & Friends,TR1,Yeni Malatyaspor
+10152,Cagdas Atan,2013,19771,Turkey,Izmir,Turkey,28/2/80 0:00,Centre-Back,Defender,left,187,3000000,,TR1,Akhisarspor
+10183,Dani Fernández,2014,653,Spain,Barcelona,Spain,20/1/83 0:00,Right-Back,Defender,right,181,1500000,,GR1,OFI Crete FC
+10244,Bernt Evens,2012,520,Belgium,Neerpelt,Belgium,9/11/78 0:00,Left-Back,Defender,left,189,700000,,BE1,Cercle Brugge
+10250,Fabio Coltorti,2017,23826,Switzerland,Kriens,Switzerland,3/12/80 0:00,Goalkeeper,Goalkeeper,Right,174,2000000,,L1,RB Leipzig
+10254,Daniel Fernandes,2014,7185,Canada,Alberta,Portugal,25/9/83 0:00,Goalkeeper,Goalkeeper,right,195,2000000,,GR1,Panthrakikos Komotini
+10255,Alexander Farnerud,2015,416,Sweden,Landskrona,Sweden,1/5/84 0:00,Central Midfield,Midfield,left,181,3000000,MD Management,IT1,Torino FC
+10267,Jeffrey Rentmeister,2014,968,Belgium,Oupeye,Belgium,11/7/84 0:00,Centre-Back,Defender,right,189,400000,Gallea Gestion S.A,BE1,KVC Westerlo
+10288,Igor Duljaj,2013,16245,Jugoslawien (SFR),Topola,Serbia,29/10/79 0:00,Defensive Midfield,Midfield,right,175,4000000,,UKR1,FK Sevastopol (- 2014)
+10289,Andrija Delibasic,2012,367,Jugoslawien (SFR),Nikšić,Montenegro,24/4/81 0:00,Centre-Forward,Attack,right,187,2200000,Zoran Stojadinovic,ES1,Rayo Vallecano
+10329,Alexander Stolz,2019,533,Germany,Pforzheim,Germany,13/10/83 0:00,Goalkeeper,Goalkeeper,right,189,200000,,L1,TSG 1899 Hoffenheim
+10375,Shaun MacDonald,2015,989,Wales,Swansea,Wales,17/6/88 0:00,Central Midfield,Midfield,right,183,500000,The Endgame Group,GB1,AFC Bournemouth
+10424,John Rankin,2015,1519,Scotland,Bellshill,Scotland,27/6/83 0:00,Central Midfield,Midfield,left,173,575000,,SC1,Dundee United FC
+10471,Luiz Gustavo,2021,36,Brazil,Pindamonhangaba,Brazil,23/7/87 0:00,Defensive Midfield,Midfield,left,187,22000000,ROGON,TR1,Fenerbahce
+10501,Paul Gallagher,2014,1003,Scotland,Glasgow,Scotland,8/9/84 0:00,Central Midfield,Midfield,right,185,1750000,KIN Partners,GB1,Leicester City
+10503,Uwe Hünemeier,2019,127,Germany,Rietberg,Germany,9/1/86 0:00,Centre-Back,Defender,right,189,2250000,Bigpoint,L1,SC Paderborn 07
+10504,Mehmet Akgün,2014,6894,Germany,Bielefeld,Turkey,6/8/86 0:00,Central Midfield,Midfield,Right,174,1750000,,TR1,Kayseri Erciyesspor
+10598,Mehdi Taouil,2015,2381,France,Villeneuve-Saint-Georges,Morocco,20/5/83 0:00,Attacking Midfield,Midfield,Right,174,700000,,TR1,Sivasspor
+10642,Mike Williamson,2015,762,England,Stoke-on-Trent,England,8/11/83 0:00,Centre-Back,Defender,right,194,4000000,,GB1,Newcastle United
+10885,Karim Guédé,2017,60,Germany,Hamburg,Slovakia,7/1/85 0:00,Centre-Forward,Attack,right,184,1250000,Unique Sports Group,L1,SC Freiburg
+10917,Jan Zimmermann,2019,24,Germany,Offenbach am Main,Germany,19/4/85 0:00,Goalkeeper,Goalkeeper,left,190,650000,NUHN CONSULTING,L1,Eintracht Frankfurt
+11111,Ramiro Funes Mori,2020,1050,Argentina,Mendoza,Argentina,5/3/91 0:00,Centre-Back,Defender,left,187,12000000,,ES1,Villarreal CF
+11268,Oliver Fink,2019,38,Germany,Hirschau,Germany,6/6/82 0:00,Central Midfield,Midfield,right,187,1250000,Unique Sports Group,L1,Fortuna Düsseldorf
+11333,Steffen Wohlfarth,2012,2759,Germany,Friedrichshafen,Germany,14/9/83 0:00,Centre-Forward,Attack,Right,174,400000,,SC1,Ross County FC
+11354,Jim Goodwin,2014,465,Ireland,Waterford,Ireland,20/11/81 0:00,Defensive Midfield,Midfield,left,183,450000,,SC1,St. Mirren FC
+11359,Peter MacDonald,2014,511,Scotland,Glasgow,Scotland,17/11/80 0:00,Centre-Forward,Attack,right,178,300000,,SC1,Dundee FC
+11360,Lee McCulloch,2015,2553,Scotland,Bellshill,Scotland,14/5/78 0:00,Centre-Back,Defender,right,185,3500000,,SC1,Kilmarnock FC
+11365,Kevin McNaughton,2016,2451,Scotland,Dundee,Scotland,28/8/82 0:00,Right-Back,Defender,right,178,1500000,,SC1,Inverness Caledonian Thistle FC
+11378,Alan Gow,2014,465,Scotland,Clydebank,Scotland,9/10/82 0:00,Attacking Midfield,Midfield,left,183,600000,,SC1,St. Mirren FC
+11530,Lionel Carole,2022,3205,France,Montreuil,France,12/4/91 0:00,Left-Back,Defender,left,182,3500000,PREMIER'ART,TR1,Kayserispor
+11680,Rob Green,2018,631,England,Chertsey,England,18/1/80 0:00,Goalkeeper,Goalkeeper,right,191,8000000,,GB1,Chelsea FC
+11757,Adam Kwarasey,2016,206,Norway,Oslo,Ghana,12/12/87 0:00,Goalkeeper,Goalkeeper,right,190,1400000,The Libra Enterprise,DK1,Bröndby IF
+11765,Aytac Sulu,2016,105,Germany,Heidelberg,Germany,11/12/85 0:00,Centre-Back,Defender,right,183,2000000,,L1,SV Darmstadt 98
+12028,Kossi Agassa,2015,1421,Togo,Lomé,Togo,2/7/78 0:00,Goalkeeper,Goalkeeper,right,190,1250000,Tekin Birinci,FR1,Stade Reims
+12029,Ludovic Butelle,2020,1420,France,Reims,France,3/4/83 0:00,Goalkeeper,Goalkeeper,left,188,1750000,Kemari,FR1,Angers SCO
+12033,Johan Liébus,2012,1421,France,Tours,France,5/11/78 0:00,Goalkeeper,Goalkeeper,right,184,650000,,FR1,Stade Reims
+12064,Igor Skoba,2013,4482,UdSSR,"Dzhankoy, Krym",Ukraine,21/5/82 0:00,Central Midfield,Midfield,left,189,500000,,UKR1,Volyn Lutsk
+12093,Sylvain Marchal,2014,347,France,Langres,France,10/2/80 0:00,Centre-Back,Defender,right,184,3400000,,FR1,FC Metz
+12096,Franck Béria,2016,1082,France,Argenteuil,France,23/5/83 0:00,Right-Back,Defender,right,177,4500000,,FR1,LOSC Lille
+12098,Ismaël Bouzid,2013,2553,France,Nancy,Algeria,21/7/83 0:00,Centre-Back,Defender,right,191,1200000,,SC1,Kilmarnock FC
+12101,Franck Signorino,2016,347,France,Nogent-sur-Marne,France,19/9/81 0:00,Left-Back,Defender,left,176,4000000,,FR1,FC Metz
+12106,Ludovic Obraniak,2014,126,France,Longeville-lès-Metz,Poland,10/11/84 0:00,Attacking Midfield,Midfield,Right,174,6500000,,TR1,Caykur Rizespor
+12112,Per Kröldrup,2013,4750,Denmark,Farsø,Denmark,31/7/79 0:00,Centre-Back,Defender,right,194,7250000,,PO1,SC Olhanense
+12115,Sjoerd Ars,2015,467,Netherlands,Terborg,Netherlands,15/4/84 0:00,Centre-Forward,Attack,right,183,600000,Joris Coppes,NL1,NEC Nijmegen
+12124,Glenn Whelan,2019,43,Ireland,Dublin,Ireland,13/1/84 0:00,Defensive Midfield,Midfield,right,180,5000000,,SC1,Heart of Midlothian FC
+12125,Stephen Kelly,2012,1032,Ireland,Dublin,Ireland,6/9/83 0:00,Right-Back,Defender,right,184,2250000,SEM Group plc.,GB1,Reading FC
+12127,Michael Turner,2015,1123,England,London,England,9/11/83 0:00,Centre-Back,Defender,right,193,6000000,,GB1,Norwich City
+12134,François Clerc,2015,618,France,Bourg-en-Bresse,France,18/4/83 0:00,Right-Back,Defender,right,186,7500000,,FR1,AS Saint-Étienne
+12142,Michel Bastos,2013,12,Brazil,Pelotas,Brazil,2/8/83 0:00,Left Midfield,Midfield,Right,174,16000000,,IT1,AS Roma
+12149,Lorik Cana,2015,995,Jugoslawien (SFR),Prishtinë,Albania,27/7/83 0:00,Defensive Midfield,Midfield,right,186,14000000,,FR1,FC Nantes
+12249,Éver Banega,2019,368,Argentina,Rosario,Argentina,29/6/88 0:00,Central Midfield,Midfield,right,174,20000000,Dodici,ES1,Sevilla FC
+12275,Jean-Pascal Mignot,2013,618,France,Rouen,France,26/2/81 0:00,Centre-Back,Defender,left,182,4000000,,FR1,AS Saint-Étienne
+12282,Daley Blind,2022,27,Netherlands,Amsterdam,Netherlands,9/3/90 0:00,Left-Back,Defender,left,180,25000000,SEG,L1,Bayern Munich
+12351,Hassan Yebda,2017,68608,France,Saint-Maurice,Algeria,14/5/84 0:00,Central Midfield,Midfield,right,187,5300000,,PO1,CF Os Belenenses
+12359,Niki Mäenpää,2021,607,Finland,Espoo,Finland,23/1/85 0:00,Goalkeeper,Goalkeeper,right,187,600000,CAA Stellar,IT1,Venezia FC
+12379,Marc Planus,2014,40,France,Bordeaux,France,7/3/82 0:00,Centre-Back,Defender,right,180,7250000,,FR1,FC Girondins Bordeaux
+12384,Alexander Tettey,2019,1123,Ghana,Accra,Norway,4/4/86 0:00,Defensive Midfield,Midfield,right,181,4000000,,GB1,Norwich City
+12386,Grégory Bourillon,2016,1420,France,Laval,France,1/7/84 0:00,Centre-Back,Defender,right,187,3500000,,FR1,Angers SCO
+12387,Jacques Faty,2012,2381,France,Villeneuve-Saint-Georges,Senegal,25/2/84 0:00,Centre-Back,Defender,right,183,3500000,,TR1,Sivasspor
+12391,Stéphen Drouin,2012,1095,France,Paris,France,27/2/84 0:00,Left-Back,Defender,left,186,1250000,,FR1,ESTAC Troyes
+12398,Shefki Kuqi,2012,903,Jugoslawien (SFR),Vučitrn,Finland,10/11/76 0:00,Centre-Forward,Attack,Right,174,3700000,,SC1,Hibernian FC
+12401,Tommy Smith,2013,603,England,Hemel Hempstead,England,22/5/80 0:00,Centre-Forward,Attack,right,178,2000000,,GB1,Cardiff City
+12502,Sigamary Diarra,2013,1147,France,Villepinte,Mali,10/1/84 0:00,Left Midfield,Midfield,left,176,2500000,USM GROUP ,FR1,AC Ajaccio
+12503,Souleymane Diawara,2014,417,Senegal,Gabou,Senegal,24/12/78 0:00,Centre-Back,Defender,right,187,8000000,,FR1,OGC Nice
+12508,Yann Jouffre,2017,347,France,Montélimar,France,23/7/84 0:00,Right Midfield,Midfield,left,175,3000000,,FR1,FC Metz
+12515,Guirane N'Daw,2014,347,Senegal,Rufisque,Senegal,24/4/84 0:00,Defensive Midfield,Midfield,left,189,4000000,,FR1,FC Metz
+12516,Peter Odemwingie,2015,512,UdSSR,Tashkent,Nigeria,15/7/81 0:00,Right Winger,Attack,right,181,8500000,,GB1,Stoke City
+12517,Oguchi Onyewu,2012,1084,United States,"Washington, D.C.",United States,13/5/82 0:00,Centre-Back,Defender,right,193,7000000,,ES1,Málaga CF
+12518,Silvio Proto,2019,398,Belgium,Charleroi,Belgium,23/5/83 0:00,Goalkeeper,Goalkeeper,right,184,4200000,,IT1,SS Lazio
+12530,Oguzhan Bahadir,2012,6890,Turkey,Ankara,Turkey,24/12/79 0:00,Goalkeeper,Goalkeeper,right,190,900000,,TR1,Basaksehir FK
+12540,Rudnei,2012,2703,Brazil,Florianópolis,Brazil,7/10/84 0:00,Defensive Midfield,Midfield,left,188,600000,,RU1,Spartak Vladikavkaz (-2020)
+12563,Goran Pandev,2021,252,Jugoslawien (SFR),Strumica,North Macedonia,27/7/83 0:00,Second Striker,Attack,left,184,18000000,,IT1,Genoa CFC
+12569,Paul Gallacher,2016,43,Scotland,Deaconsbank,Scotland,16/8/79 0:00,Goalkeeper,Goalkeeper,Right,183,750000,,SC1,Heart of Midlothian FC
+12570,Mark Wilson,2014,1519,Scotland,Glasgow,Scotland,5/6/84 0:00,Right-Back,Defender,right,178,2000000,,SC1,Dundee United FC
+12575,David McCracken,2012,2578,Scotland,Glasgow,Scotland,16/10/81 0:00,Centre-Back,Defender,right,188,450000,,SC1,St. Johnstone FC
+12589,Craig Gordon,2022,43,,Edinburgh,,31/12/82 0:00,Goalkeeper,Goalkeeper,left,193,10000000,World in Motion,SC1,Heart of Midlothian FC
+12597,Alan Maybury,2012,903,Ireland,Dublin,Ireland,8/8/78 0:00,Right-Back,Defender,right,180,800000,,SC1,Hibernian FC
+12610,Andy Webster,2012,43,Scotland,Dundee,Scotland,23/4/82 0:00,Centre-Back,Defender,both,183,1500000,,SC1,Heart of Midlothian FC
+12628,Noel Hunt,2012,1032,Ireland,Waterford,Ireland,26/12/82 0:00,Centre-Forward,Attack,left,173,2250000,,GB1,Reading FC
+12638,Barry Nicholson,2013,2553,Scotland,Dumfries,Scotland,24/8/78 0:00,Central Midfield,Midfield,right,173,1750000,,SC1,Kilmarnock FC
+12654,David Clarkson,2015,987,Scotland,Bellshill,Scotland,10/9/85 0:00,Centre-Forward,Attack,right,178,1000000,,SC1,Motherwell FC
+12663,Stevie Hammell,2017,987,Scotland,Rutherglen,Scotland,18/2/82 0:00,Left-Back,Defender,left,178,750000,,SC1,Motherwell FC
+12665,Keith Lasley,2016,987,Scotland,Glasgow,Scotland,21/9/79 0:00,Defensive Midfield,Midfield,right,175,700000,,SC1,Motherwell FC
+12673,Stephen Pearson,2016,987,Scotland,Lanark,Scotland,2/10/82 0:00,Central Midfield,Midfield,left,182,1750000,Willie McKay,SC1,Motherwell FC
+12674,Paul Quinn,2016,2759,Scotland,Wishaw,Scotland,21/7/85 0:00,Centre-Back,Defender,right,185,500000,,SC1,Ross County FC
+12682,Neil Alexander,2020,1519,Scotland,Edinburgh,Scotland,10/3/78 0:00,Goalkeeper,Goalkeeper,Right,185,2000000,,SC1,Dundee United FC
+12688,Scott Brown,2021,370,Scotland,Dunfermline,Scotland,25/6/85 0:00,Central Midfield,Midfield,right,175,6600000,Asa Sports,SC1,Aberdeen FC
+12691,James Collins,2017,379,Wales,Newport,Wales,23/8/83 0:00,Centre-Back,Defender,right,188,7000000,CAA Stellar,GB1,West Ham United
+12693,Stephen Dobbie,2014,873,Scotland,Glasgow,Scotland,5/12/82 0:00,Centre-Forward,Attack,right,178,1500000,,GB1,Crystal Palace
+12703,Kevin Thomson,2015,511,Scotland,Edinburgh,Scotland,14/10/84 0:00,Central Midfield,Midfield,right,180,5000000,,SC1,Dundee FC
+12704,Steven Whittaker,2019,903,Scotland,Edinburgh,Scotland,16/6/84 0:00,Right-Back,Defender,right,185,4750000,PMPR Excellence,SC1,Hibernian FC
+12709,Danny Gabbidon,2013,873,Wales,Cwmbran,Wales,8/8/79 0:00,Centre-Back,Defender,right,178,2000000,,GB1,Crystal Palace
+12729,Kris Boyd,2018,2553,Scotland,Irvine,Scotland,18/8/83 0:00,Centre-Forward,Attack,right,185,7500000,,SC1,Kilmarnock FC
+12732,James Fowler,2013,2553,Scotland,Stirling,Scotland,26/10/80 0:00,Central Midfield,Midfield,right,180,450000,,SC1,Kilmarnock FC
+12742,Garry Hay,2012,2553,Scotland,Irvine,Scotland,7/9/77 0:00,Left-Back,Defender,left,173,450000,,SC1,Kilmarnock FC
+12743,Gary McDonald,2014,2578,Scotland,Irvine,Scotland,10/4/82 0:00,Central Midfield,Midfield,left,185,750000,,SC1,St. Johnstone FC
+12746,Colin Nish,2012,511,Scotland,Edinburgh,Scotland,7/3/81 0:00,Centre-Forward,Attack,right,191,1000000,,SC1,Dundee FC
+12751,Neil McGregor,2012,511,Scotland,Irvine,Scotland,24/8/84 0:00,Centre-Back,Defender,right,183,300000,,SC1,Dundee FC
+12752,Craig Samson,2022,370,Scotland,Irvine,Scotland,24/8/84 0:00,Goalkeeper,Goalkeeper,Right,185,500000,,SC1,Aberdeen FC
+12753,Cammy Bell,2018,2578,Scotland,Dumfries,Scotland,18/9/86 0:00,Goalkeeper,Goalkeeper,right,187,700000,Catalyst4 PSM,SC1,St. Johnstone FC
+12758,Jamie Hamill,2015,2553,Scotland,Irvine,Scotland,29/7/86 0:00,Right-Back,Defender,right,173,750000,,SC1,Kilmarnock FC
+12763,Steven Naismith,2019,43,Scotland,Irvine,Scotland,14/9/86 0:00,Second Striker,Attack,right,178,6000000,PMPR Excellence,SC1,Heart of Midlothian FC
+12765,Russell Anderson,2014,370,Scotland,Aberdeen,Scotland,25/10/78 0:00,Centre-Back,Defender,right,186,1500000,,SC1,Aberdeen FC
+12769,Chris Clark,2013,370,Scotland,Elgin,Scotland,15/9/80 0:00,Left Midfield,Midfield,left,173,1000000,,SC1,Aberdeen FC
+12772,Ryan Esson,2016,2451,Scotland,Aberdeen,Scotland,19/3/80 0:00,Goalkeeper,Goalkeeper,right,185,600000,,SC1,Inverness Caledonian Thistle FC
+12773,Ricky Foster,2019,2759,Scotland,Elgin,Scotland,31/7/85 0:00,Right-Back,Defender,right,176,1000000,,SC1,Ross County FC
+12802,Mark Kerr,2013,2760,Scotland,Coatbridge,Scotland,2/3/82 0:00,Central Midfield,Midfield,right,180,2000000,,SC1,Partick Thistle FC
+12804,Barry Robson,2015,370,Scotland,Inverurie,Scotland,7/11/78 0:00,Right Midfield,Midfield,left,180,4500000,,SC1,Aberdeen FC
+12807,Jason Scotland,2014,2999,Trinidad and Tobago,Morvant,Trinidad and Tobago,18/2/79 0:00,Centre-Forward,Attack,Right,175,2000000,,SC1,Hamilton Academical FC
+12811,Dave Mackay,2021,511,Scotland,Rutherglen,Scotland,2/5/80 0:00,Right-Back,Defender,right,186,850000,,SC1,Dundee FC
+12812,Gavin Rae,2012,370,Scotland,Aberdeen,Scotland,28/11/77 0:00,Central Midfield,Midfield,right,180,1300000,,SC1,Aberdeen FC
+12813,Barry Smith,2012,511,Scotland,Paisley,Scotland,19/2/74 0:00,Right-Back,Defender,right,178,500000,,SC1,Dundee FC
+12814,Julián Speroni,2018,873,Argentina,Buenos Aires,Argentina,18/5/79 0:00,Goalkeeper,Goalkeeper,right,186,1500000,,GB1,Crystal Palace
+12817,Jamie Langfield,2020,465,Scotland,Paisley,Scotland,22/12/79 0:00,Goalkeeper,Goalkeeper,left,193,1250000,,SC1,St. Mirren FC
+12836,Lee Mair,2013,2760,Scotland,Aberdeen,Scotland,9/12/80 0:00,Centre-Back,Defender,right,185,500000,,SC1,Partick Thistle FC
+12840,Steven Milne,2012,511,Scotland,Dundee,Scotland,5/5/80 0:00,Centre-Forward,Attack,both,171,500000,,SC1,Dundee FC
