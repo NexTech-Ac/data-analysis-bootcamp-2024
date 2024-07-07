@@ -14,7 +14,7 @@ Lesson Topics Covered
 * Practical application of SQL clauses: SELECT, WHERE, FROM, JOIN, ORDER BY, GROUP BY, HAVING, LIMIT.
 
 ## Download Scripts
-* Download SQL Script to Create Ministry of Health Database : Here
+* Download SQL Script to Create Ministry of Health Database(moh_ke.sql) : [here](moh_ke.sql/)
 * Download Script with All Commands Used in the Session
 
 [Watch the Session](https://youtube.com/live/BgVML7xEwzE?feature=share)
